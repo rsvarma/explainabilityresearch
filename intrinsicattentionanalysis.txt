@@ -1,0 +1,1721 @@
+Hector Bellerin is fast becoming seen by fans, and possibly even by his manager, as Arsenal's premier right back, after impressing in the absence of Mathieu Debuchy. The young Spaniard scored his second Premier League goal, cutting inside and curling left-footed past Simon Mignolet, in the 4-1 win over Liverpool last weekend, and is developing a reputation as a player capable of becoming a top-level full back. But, it seems, in the dressing room, it is his status as the club's premier sprinter, rather than as a defender, that is most in question, after he beat Theo Walcott's 40 metre club sprint record last summer. Hector Bellerin scored a brilliant goal to put Arsenal ahead against Liverpool last weekend at the Emirates. Bellerin has emerged as a star player after filling in for the injured Mathieu Debuchy at right back this season. 'We were just having a test and then they told me I was the fastest at the club,' Bellerin told The Telegraph. 'I did not beat it by that much. There was a bit of banter and he is trying to beat me now.' Bellerin shaved a hundredth of a second off Walcott's time, prompting the 26-year-old winger to vow to reclaim his title at the end of the season. . And since then he has gone on to establish himself as a right-back of some promise, progressing well beyond Arsene Wenger's expectations.  . 'I am happy that now, after not so good performances in the beginning, the coach has still put confidence in me and given me minutes. . Bellerin has exceptional pace, as he proved in August when he set a new Arsenal record over 40 metres. Theo Walcott had previously held the record, but Bellerin shaved one hundredth of a second off his time. But Walcott is determined to take his record back from Bellerin this summer and be speed king again. 'The chances always come through injuries, which is not a nice thing. Now we are going to have Debuchy back and I am happy for him, but when you get your chance, you need to do the best you can. I have done my best to take this opportunity.' With Debuchy on the verge of match fitness, Bellerin will soon find out whether he has done enough to grab that opportunity. . But after his brilliant goal at the Emirates stadium last weekend, one thing is for certain - he is no longer known just for being quick over 40 metres.  .
+
+
+Hector Bellerin scored his second Premier League goal against Liverpool last weekend. The Spaniard has impressed in the absence of Mathieu Debuchy this season. But it is his speed over 40 metres that has made him a [91mstar[0m at the club. The 23-year-old beat Theo Walcot's club sprint record last summer.
+
+
+['<s>', 'H', 'ector', 'ĠBell', 'er', 'in', 'Ġscored', 'Ġhis', 'Ġsecond', 'ĠPremier', 'ĠLeague', 'Ġgoal', 'Ġagainst', 'ĠLiverpool', 'Ġlast', 'Ġweekend', '.', 'ĠThe', 'ĠSpani', 'ard', 'Ġhas', 'Ġimpressed', 'Ġin', 'Ġthe', 'Ġabsence', 'Ġof', 'ĠMath', 'ieu', 'ĠDeb', 'uch', 'y', 'Ġthis', 'Ġseason', '.', 'ĠBut', 'Ġit', 'Ġis', 'Ġhis', 'Ġspeed', 'Ġover', 'Ġ40', 'Ġmetres', 'Ġthat', 'Ġhas', 'Ġmade', 'Ġhim', 'Ġa', 'Ġstar', 'Ġat', 'Ġthe', 'Ġclub', '.', 'ĠThe', 'Ġ23', '-', 'year', '-', 'old', 'Ġbeat', 'ĠTheo', 'ĠWal', 'cot', "'s", 'Ġclub', 'Ġsprint', 'Ġrecord', 'Ġlast', 'Ġsummer', '.', '</s>']
+
+
+Analyzing for intrinsic error token:Ġstar
+
+Top 5 Cross Attention
+['Ġstar', '<s>', '.', '.', '.']
+['Ġstar', '<s>', '.', '.', '.']
+['<s>', '</s>', '.', '.', '.']
+['<s>', 'Ġstar', '</s>', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġstar', '</s>', '.', '.']
+['<s>', 'Ġstar', '.', '.', '.']
+['<s>', 'Ġplayer', '.', '.', '.']
+['.', '.', '.', '.', '.']
+['.', '.', '.', '.', '.']
+Top 5 Decoder Attention
+['<s>', 'Ġa', 'H', 'Ġstar', 'Ġhim']
+['<s>', 'Ġa', 'Ġhim', 'Ġmade', 'Ġstar']
+['<s>', 'Ġa', 'Ġhim', 'Ġstar', 'Ġmade']
+['<s>', 'Ġa', 'Ġmade', 'Ġhim', 'Ġstar']
+['<s>', 'Ġa', 'Ġhim', 'Ġstar', 'Ġmade']
+['<s>', 'Ġstar', 'Ġhim', 'Ġa', 'Ġthat']
+['<s>', 'Ġa', 'Ġhim', 'Ġstar', 'Ġmade']
+['<s>', 'Ġa', 'Ġstar', 'Ġhim', 'Ġmade']
+['<s>', 'Ġa', 'Ġhim', 'Ġthat', 'Ġstar']
+['<s>', 'Ġhim', 'Ġa', 'Ġstar', 'Ġseason']
+['<s>', 'Ġstar', 'Ġhim', 'Ġa', 'Ġhas']
+['<s>', 'Ġa', 'Ġstar', 'Ġhim', 'Ġmade']
+Analyzing for token before intrinsic error:Ġa
+
+Top 5 Cross Attention
+['<s>', 'Ġa', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '</s>', '.', '.', '.']
+['<s>', 'Ġking', '</s>', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '</s>', 'Ġstar', 'Ġroom', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['.', '.', '.', '.', '.']
+['Ġdressing', '.', '.', '.', '.']
+
+
+
+Top 5 Decoder Attention
+['Ġhim', '<s>', 'Ġmade', 'H', 'Ġa']
+['<s>', 'Ġhim', 'Ġmade', '.', 'Ġa']
+['<s>', 'Ġhim', 'Ġmade', 'Ġhas', 'Ġa']
+['<s>', 'Ġmade', 'Ġhim', 'Ġhas', 'Ġthat']
+['<s>', 'Ġhim', 'Ġmade', 'Ġa', 'Ġthat']
+['<s>', 'Ġhim', 'Ġspeed', 'Ġmade', 'Ġa']
+['<s>', 'Ġhim', 'Ġmade', 'Ġa', 'Ġthat']
+['<s>', 'Ġmade', 'Ġhim', 'Ġa', 'ĠBut']
+['<s>', 'Ġhim', 'Ġa', 'Ġhas', 'Ġmade']
+['<s>', 'Ġhim', 'Ġa', 'Ġhas', 'Ġmade']
+['<s>', 'Ġhim', 'Ġa', 'Ġmade', 'Ġthat']
+['<s>', 'Ġhim', 'Ġa', 'Ġmade', 'ĠPremier']
+
+
+
+Former QPR manager Harry Redknapp feels he still has plenty to offer football but only at the right club, having turned down a 'mind-blowing' offer to coach abroad. The 68-year-old handed in his resignation at Loftus Road in February, citing knee problems behind the decision to leave the Barclays Premier League strugglers, although he later claimed 'people with their own agendas' had a hand in his departure and described the situation at the west London club as 'a bit of a soap opera'. Redknapp will return to the dugout on Sunday, May 31 when he leads a star-studded Men United XI against Leyton Orient Legends, as O's youth coach and Prostate Cancer UK ambassador Errol McKellar hosts a charity football match at The Matchroom Stadium. Harry Redknapp (right) says he would consider a return to management as long as it's at the right club. Redknapp was speaking at the announcement of a Men United XI vs Leyton Orient Legends charity match. The well-travelled former West Ham, Bournemouth, Portsmouth, Southampton and Tottenham manager, Redknapp feels 'fit as a fiddle' again following knee surgery and would relish another crack at a full-time job, but only under certain circumstances. 'It is difficult to know whether you want to go back in again, but if the right offer came along for the right job then I would consider it, because I do love the game and certainly do miss it,' Redknapp said. 'But unless it was the right job I would not bother. It has got to be something which I really wanted to do. 'It would not be a case of the money. I had an offer earlier this week to go and work abroad where the money was incredible, a mind-blowing offer, but at the moment it did not interest me. 'I have my wife here, my grandkids and everything else, so it has got to be something I wanted to do. Redknapp resigned as Queens Park Rangers manager with immediate effect in February. Redknapp left the Loftus Road outfit citing knee problems behind his decision two months ago. The 68-year-old left Queens Park Rangers with the club 19th in the Premier League table at the time. 'I don't have to work any more if I don't want to at my age, but I feel fit as a fiddle and if I could go into a club somewhere, maybe try to get them up from the Championship or somewhere in the Premier League, then I might be interested. 'I could even work with a younger coach to help them and they could then take over as manager in a year or two, to help build the club up; that is something which would interest me but we will have to wait and see what comes along.' While it remains to be seen what chapter will be next in Redknapp's colourful management career, he hopes to see one of his former clubs Bournemouth go on to secure promotion to the top flight for the first time, with the Cherries currently top of the Sky Bet Championship heading into the final three matches. He said: 'The job which Eddie (Howe) has done is second to none. He has been amazing, taking things on to another level. . Redknapp is full of praise for the job current Bournemouth manager Eddie Howe has done at the club. The Cherries sit top of the Championship with three games of the season remaining. 'I can't see them not going up because they are the best team in the league, playing the best football in the division and are a pleasure to watch. They never change their philosophy home or away and are brilliant to watch. 'The owner has come in, Max (Demin) the Russian, and has put his money in, helped take the club on. So you don't know (what they could do after promotion) but I would just like to see them get there.' Redknapp lost close friend and former West Ham team-mate John Bond to prostate cancer and is backing the Men United campaign to help raise awareness of the disease, which is the most common cancer in men with more than 10,000 deaths each year. He said: 'Prostate Cancer is something which can affect any family at any time so it is important that people come out to support this cause. 'We are all scared that if the doctor tells you that you have something wrong, but if you get there early enough it can be cured - you can't let it just go.' Redknapp  lost close friend and former West Ham team-mate John Bond to prostate cancer. People are being urged to search Men United and do something great with their mates via prostatecanceruk.org/menunited. Tickets for the Men United XI match are priced at £10 adults and £5 concessions, and are available from www.lofcdirect.co.uk.
+
+
+Harry Redknapp resigned as QPR manager with immediate effect in February. The 68-year-old cited knee problems as the reason behind his decision. The former West Ham, Bournemouth, Portsmouth, Southampton and Tottenham boss says he would consider a return to management if the right club offered him the chance. He turned down a ' mind-blowing ' offer to coach abroad earlier this week. [91mRedkn[0m [91mapp[0m is leading a Men United XI vs Leyton Orient Legends charity match on Sunday, May 31.
+
+
+['<s>', 'Harry', 'ĠRed', 'kn', 'app', 'Ġresigned', 'Ġas', 'ĠQ', 'PR', 'Ġmanager', 'Ġwith', 'Ġimmediate', 'Ġeffect', 'Ġin', 'ĠFebruary', '.', 'ĠThe', 'Ġ68', '-', 'year', '-', 'old', 'Ġcited', 'Ġknee', 'Ġproblems', 'Ġas', 'Ġthe', 'Ġreason', 'Ġbehind', 'Ġhis', 'Ġdecision', '.', 'ĠThe', 'Ġformer', 'ĠWest', 'ĠHam', ',', 'ĠB', 'ourn', 'emouth', ',', 'ĠPortsmouth', ',', 'ĠSouthampton', 'Ġand', 'ĠTottenham', 'Ġboss', 'Ġsays', 'Ġhe', 'Ġwould', 'Ġconsider', 'Ġa', 'Ġreturn', 'Ġto', 'Ġmanagement', 'Ġif', 'Ġthe', 'Ġright', 'Ġclub', 'Ġoffered', 'Ġhim', 'Ġthe', 'Ġchance', '.', 'ĠHe', 'Ġturned', 'Ġdown', 'Ġa', "Ġ'", 'Ġmind', '-', 'bl', 'owing', "Ġ'", 'Ġoffer', 'Ġto', 'Ġcoach', 'Ġabroad', 'Ġearlier', 'Ġthis', 'Ġweek', '.', 'ĠRed', 'kn', 'Ġapp', 'Ġis', 'Ġleading', 'Ġa', 'ĠMen', 'ĠUnited', 'ĠXI', 'Ġvs', 'ĠLe', 'yton', 'ĠOrient', 'ĠLegends', 'Ġcharity', 'Ġmatch', 'Ġon', 'ĠSunday', ',', 'ĠMay', 'Ġ31', '.', '</s>']
+
+
+Analyzing for intrinsic error token:ĠRed
+
+Top 5 Cross Attention
+['<s>', 'ĠRed', 'ĠRed', 'ĠRed', 'ĠRed']
+['<s>', 'ĠRed', '</s>', 'ĠRed', 'ĠRed']
+['<s>', '</s>', 'ĠRed', 'ĠRed', '.']
+['<s>', 'ĠRed', 'ĠRed', 'ĠRed', '</s>']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'kn', '.', '.', '.']
+['<s>', 'ĠRed', '.', '.', '.']
+['<s>', 'kn', 'kn', 'kn', 'kn']
+['<s>', 'kn', 'kn', 'kn', 'kn']
+['kn', '<s>', 'kn', 'kn', 'kn']
+Top 5 Decoder Attention
+['<s>', '.', 'ĠRed', 'Harry', 'Ġweek']
+['<s>', '.', 'ĠRed', 'Ġturned', 'Ġweek']
+['<s>', '.', 'ĠRed', 'kn', 'ĠRed']
+['<s>', '.', 'ĠRed', 'ĠRed', '.']
+['<s>', '.', 'ĠHe', 'ĠRed', '.']
+['<s>', '.', 'ĠRed', 'ĠHe', '.']
+['<s>', '.', 'ĠRed', '.', 'ĠHe']
+['<s>', '.', 'ĠRed', 'ĠHe', '.']
+['<s>', '.', 'ĠHe', 'ĠRed', 'app']
+['<s>', 'kn', 'app', 'ĠRed', '.']
+['<s>', 'ĠRed', 'kn', '.', '.']
+['<s>', 'kn', 'ĠRed', 'ĠRed', 'app']
+Analyzing for token before intrinsic error:.
+
+Top 5 Cross Attention
+['</s>', '<s>', 'Ġ.', '.', '.']
+['<s>', 'ĠThe', '</s>', 'Ġbut', '.']
+['<s>', '</s>', '.', '.', '.']
+['<s>', 'Ġ.', '</s>', 'Ġis', 'Ġwill']
+['<s>', 'Ġis', '</s>', 'Ġ.', '.']
+['<s>', 'Ġis', 'Ġhe', 'Ġa', 'Ġof']
+['<s>', '</s>', '.', '.', '.']
+['<s>', '</s>', 'Ġis', 'Ġhe', 'Ġon']
+['<s>', 'ĠRed', '.', '.', '.']
+['ĠRed', 'ĠRed', 'ĠRed', 'Ġ.', '<s>']
+['ĠRed', 'ĠRed', 'ĠRed', 'ĠRed', '<s>']
+['<s>', 'ĠRed', 'ĠRed', '.', '.']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Ġweek', 'Harry', '.', 'Ġthis']
+['<s>', 'Ġweek', '.', 'Ġthis', 'Ġearlier']
+['<s>', '.', 'Ġearlier', 'ĠHe', 'ĠThe']
+['<s>', '.', "Ġ'", '.', 'ĠHe']
+['<s>', "Ġ'", 'ĠHe', '.', '.']
+['<s>', '.', 'ĠHe', '.', 'Ġdown']
+['<s>', 'ĠHe', '.', 'Ġweek', 'Ġabroad']
+['<s>', '.', 'ĠHe', '.', 'Ġweek']
+['<s>', '.', 'ĠHe', '.', 'app']
+['<s>', '.', 'ĠRed', 'app', 'ĠThe']
+['<s>', '.', '.', 'ĠHe', '.']
+['<s>', '.', '.', 'ĠRed', '.']
+
+
+
+Caykur Rizespor midfielder Ludovic Obraniak was taken to hospital with a suspected heart problem after being substituted during his side's match against Fenerbahce on Saturday. The Poland international had to be replaced after just 30 minutes before being taken for tests. Caykur Rizespor revealed on social media that Obraniak was not in any immediate danger following preliminary tests. Ludovic Obraniak (left) is currently on loan at Caykur Rizespor from German side Werder Bremen. Moussa Sow celebrates after scoring for Fenerbahce during their 5-1 win on Saturday. There were fears that the 30-year-old, who is on loan from Bundesliga club Werder Bremen had suffered a heart attack but he appears to have given the all-clear. Fenerbahce went on to win the game 5-1 tomove to the top of the Turkish Super Lig. .  .
+
+
+Caykur Rizespor midfielder Ludovic Obraniak was substituted after 30 minutes against Fenerbahce on Saturday. The 30-year-old was taken to hospital for tests but has been given the all-clear. [91mCaykur[0m are currently top of the Turkish Super Lig after a 5-1 win.
+
+
+['<s>', 'C', 'ay', 'k', 'ur', 'ĠR', 'izes', 'por', 'Ġmidfielder', 'ĠLud', 'ovic', 'ĠO', 'br', 'ani', 'ak', 'Ġwas', 'Ġsubstituted', 'Ġafter', 'Ġ30', 'Ġminutes', 'Ġagainst', 'ĠF', 'ener', 'bah', 'ce', 'Ġon', 'ĠSaturday', '.', 'ĠThe', 'Ġ30', '-', 'year', '-', 'old', 'Ġwas', 'Ġtaken', 'Ġto', 'Ġhospital', 'Ġfor', 'Ġtests', 'Ġbut', 'Ġhas', 'Ġbeen', 'Ġgiven', 'Ġthe', 'Ġall', '-', 'clear', '.', 'ĠCay', 'k', 'ur', 'Ġare', 'Ġcurrently', 'Ġtop', 'Ġof', 'Ġthe', 'ĠTurkish', 'ĠSuper', 'ĠL', 'ig', 'Ġafter', 'Ġa', 'Ġ5', '-', '1', 'Ġwin', '.', '</s>']
+
+
+Analyzing for intrinsic error token:ĠCay
+
+Top 5 Cross Attention
+['ĠCay', '<s>', 'ĠCay', '.', '.']
+['ĠCay', 'k', 'ĠCay', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['.', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['.', '.', '.', '.', '.']
+['k', '.', '.', '.', '.']
+Top 5 Decoder Attention
+['<s>', '.', 'ĠCay', 'clear', 'C']
+['<s>', '.', 'ĠCay', 'clear', 'Ġhas']
+['<s>', 'ĠCay', '.', 'C', '.']
+['<s>', 'ay', '.', 'ĠCay', 'por']
+['<s>', '.', 'ĠCay', 'por', '.']
+['<s>', '.', 'ĠCay', 'clear', 'Ġhas']
+['<s>', '.', 'ĠCay', 'por', 'Ġmidfielder']
+['<s>', 'ĠCay', '.', 'por', 'izes']
+['<s>', 'izes', 'ĠCay', '.', 'ur']
+['<s>', 'ur', 'ĠCay', 'izes', 'k']
+['<s>', 'ĠCay', 'k', 'ay', 'ur']
+['<s>', 'k', 'ur', 'ĠR', 'ĠCay']
+Analyzing for token before intrinsic error:.
+
+Top 5 Cross Attention
+['</s>', '<s>', '.', '.', '.']
+['<s>', '</s>', 'ĠF', '.', '.']
+['<s>', '</s>', 'ĠF', '.', '.']
+['<s>', '</s>', '-', 'ĠF', 'Ġa']
+['.', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['ĠF', '.', '.', '.', '.']
+['ĠCay', 'ĠCay', 'ĠF', 'ĠPoland', '.']
+['<s>', 'ĠF', 'ĠPoland', '.', '.']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'clear', '.', 'C', '-']
+['<s>', 'clear', '.', 'Ġall', 'Ġgiven']
+['<s>', '.', 'ĠThe', 'clear', 'Ġall']
+['<s>', '.', 'Ġbut', 'clear', 'ay']
+['<s>', '.', 'Ġbut', 'ĠThe', 'Ġ30']
+['<s>', 'clear', 'Ġbut', '.', 'Ġhas']
+['<s>', '.', 'clear', 'Ġbut', '.']
+['<s>', '.', 'old', 'clear', 'Ġbut']
+['<s>', '.', 'year', 'Ġbut', 'ovic']
+['<s>', '.', 'ĠThe', 'ay', 'Ġ30']
+['<s>', '.', '.', 'ĠThe', 'C']
+['<s>', '.', '.', 'ĠO', 'ovic']
+
+
+
+Tim Sherwood's jacket did not survive beyond the first 10 minutes and after this astonishing contest it remains to be seen if either of these sides fare much better. When Aston Villa's animated manager threw his gilet to the ground in celebration at the sight of Christian Benteke's first half equaliser, he probably rather hoped his players were man enough to remain in the Barclays Premier League after all. Indeed when he then saw Benteke convert the second of his three goals after 33 minutes, he may have felt his damning critique on Monday had provoked exactly the response he was looking for. But the grit, desire and determination his forwards had demonstrated was lacking at the opposite end of the field and a QPR side every bit as desperate to maintain their top flight status did a fine job of exposing exactly the weaknesses Sherwood had highlighted. Matt Phillips (left) headed Queens Park Rangers into a seventh-minute lead, getting on the end of Bobby Zamora's cross. Winger Phillips garnered just enough power on his head to plant beyond Brad Guzan in the Aston Villa goal . Joey Barton wheels away after watching Phillips nod in at the back post, as Ciaran Clark (left) and Carlos Sanchez appeal for offside . But QPR were only ahead for three minutes after Christian Benteke equalised for the hosts at Villa Park . Benteke drove beyond Rob Green from the edge of the box to net his seventh Premier League goal of the season. If it made for a hugely entertaining encounter, it must have been hell for the managers however friendly they might claim to be. Sherwood walked off the pitch at half-time with his hands planted casually in his pockets, comforted by the fact that his side were sitting five points clear of relegation danger. But when Charlie Austin followed Chint Hill's second half equaliser with a third goal for the visitors, Villa had replaced Chris Ramsey's spirited side in the bottom three. Only 12 minutes remained, and even if Benteke required just five more minutes to score again with a terrific free-kick the overriding feeling in the Villa ranks was certainly more one of frustration than relief. Benteke did not look like a man who wanted to enjoy his hat-trick at the sound of the final whistle. On the contrary, he looked devastated. Both sides have some difficult games ahead but when Tottenham and Manchester City come next for Villa, there is plenty to concern Sherwood. A replay of QPR's goals will not make pleasant viewing. The failure to close down Bobby Zamora before he delivered the cross that enabled Matt Phillips to strike after only seven minutes. The failure to challenge Hill and so stop him scoring his first Premier League goal. The failure too to respond to the threat being posed by Austin, who was allowed to take a touch to control the cross from Phillips before driving the ball past Brad Guzan. Such frailties could yet drag Villa down this season, and Sherwood knows it. 'We are not equipped unfortunately to go anywhere and dig out a result,' he complained afterwards, and on this evidence he would appear to be right. .  . Aston Villa (4-4-2): Guzan 6; Bacuna 6, Vlaar 5.5, Clark 6, Richardson 6; Cleverley 6.5, Sanchez 6.5, Delph 7, Grealish 6.5; Agbonlahor 7.5, Benteke 8. Manager: Tim Sherwood 7. Goals: Benteke 10, 33, 83 . QPR (4-4-2): Green 6.5; Isla 6 (Traore 52, 5), Caulker 5.5, Onuoha 5, Hill 6.5; Phillips 7, Barton 6, Sandro 6, Kranjcar 5 (Henry 52, 5); Austin 5, Zamora 6.5. Manager: Chris Ramsey 7 . Subs not used: McCarthy, Hoilett, Mitchell, Grego-Cox. Goals: Phillips 7; Hill 55; Austin 78 . Booked: Sandro, Kranjcar, Austin . Ref: C. Pawson. Att: 33,708.  . CLICK HERE to view our brilliant Match Zone - including Christian Benteke's second goal. Aston Villa manager Tim Sherwood threw down his gilet in celebration after Benteke scored the early equaliser. Benteke was at the double in the opening 45, sweeping beyond Green to put Villa ahead just after the half hour. Defender Clint Hill was the unexpected scorer of QPR's equaliser just after half-time to make it 2-2. Hill grabs the Queens Park Rangers badge in celebration after scoring his first ever Premier League goal. Charlie Austin got ahead of Ron Vlaar and had looked as if he'd won the game for QPR. At times his side were excellent here, thrilling their supporters with a tremendous first half display. Phillips might have landed the first blow for QPR but the players he was probably referring to as 'the icing on the cake' were giving him plenty of cause for celebration. They were attacking with great flair and finesse, with the pace of individuals like Gabriel Agbonlahor and Leandro Bacuna and the sheer power of Benteke. The call for more men made Sherwood's selection of 19-year-old Jack Grealish somewhat curious. But the teenager too was performing well. More than man enough for the occasion. As a game it was something of an emotional rollercoaster, even if the warmth of the embrace between Sherwood and Ramsey before kick-off was soon replaced by the cold reality of a dire situation for both teams. Never one to hide his feelings, Sherwood responded to QPR's opening seventh minute goal by unzipping the aforementioned gilet in disgust. It was understandable really, given how meekly his defenders tried to stop Zamora from delivering the cross Phillips then headed home from close range. Only three minutes later and the same gilet was off altogether, Sherwood throwing it to the ground after seeing Benteke's shot take a nasty deflection off Mauricio Isla's trailing foot and loop over Rob Green. . The drama in the technical area added to the sense of excitement around Villa Park. The atmosphere was electric, the place almost erupting again when Grealish so nearly marked his first Premier League start with a goal. Benteke delivered a perfect ball into the path of the teenage winger only for Green to make the save at his feet. Sherwood's decision to play a midfield diamond and exploit the pace of his attackers was working well for Villa. Not everyone seemed to agree, and at one stage Sherwood seemed to be placating a fan who didn't seem quite so impressed. But his team were playing with real verve, with Benteke scoring a second after 33 minutes with a goal that owed as much to the speed, vision and courage of Agbonlahor as the precision of the finish. Agbonlahor was just quick enough to send Benteke clear before being hacked down by Sandro, and remained curled up in a ball while his colleague raced towards goal. Benteke finished cleverly, shaping to shoot beyond Hill before dragging his effort back inside the QPR defender and beyond the reach of a wrong-footed Green. . Austin salutes the travelling Rangers supporters inside Villa Park but they weren't able to cling on to the points . But Benteke's wonder free-kick, much like Jason Puncheon's on Monday night, meant Villa came away with a point. Benteke can't conceal his delight at completing his hat-trick and rescuing a point in the 83rd minute. Good friends Chris Ramsey (left) and Sherwood know each other well and were going head-to-head in the dugout for the first time. Former Villa striker Stan Collymore couldn't hit his elation in the press box after Benteke knocked in his second of the goal. Sherwood urges the supporters packed inside Villa Park to up the ante as they looked to move clear of trouble . Charlie Austin vies for possession with Kieran Richardson during an intense and entertaining first half. Niko Kranjcar attempts to get QPR back in the game but couldn't steer his effort beyond the American Guzan. Villa Park looked a picture on Tuesday night as the two relegation battlers went head-to-head in Birmingham . Sherwood said Ramsey was one of the finest coaches he had worked with and he certainly impressed here. He had seen how his forwards had been starved of service in the first half and responded after six minutes of the second by making two substitutions. It had the desired effect, Hill equalising four minutes later; punishment for what appeared to be Bacuna's failure to stay with his man. Austin's goal – his 17th in the Premier League this season - would be a further source of concern, even if Benteke did then level for a second time with a wonderful free-kick that beat Green via the inside of a post. Are they man enough? Only time will tell.
+
+
+Matt Phillips headed Queens Park Rangers into a seventh-minute lead. Christian Benteke equalised for the hosts just three minutes later. [91mClint[0m [91mGreen[0m [91mput[0m [91mQPR[0m [91mahead[0m [91mjust[0m [91mafter[0m [91mthe[0m [91mhalf[0m [91mhour[0m [91mmark[0m [91m.[0m [91mCharlie[0m [91mAustin[0m made it 2-2 just after half-time with his first ever Premier League goal. [91mChint[0m [91mHill[0m made it 3-2 for QPR with his [91msecond[0m goal of the season. [91mBentece[0m completed his hat-trick with a free-kick in the 83rd minute.
+
+
+['<s>', 'Matt', 'ĠPhillips', 'Ġheaded', 'ĠQueens', 'ĠPark', 'ĠRangers', 'Ġinto', 'Ġa', 'Ġseventh', '-', 'minute', 'Ġlead', '.', 'ĠChristian', 'ĠBent', 'e', 'ke', 'Ġequal', 'ised', 'Ġfor', 'Ġthe', 'Ġhosts', 'Ġjust', 'Ġthree', 'Ġminutes', 'Ġlater', '.', 'ĠClint', 'ĠGreen', 'Ġput', 'ĠQ', 'PR', 'Ġahead', 'Ġjust', 'Ġafter', 'Ġthe', 'Ġhalf', 'Ġhour', 'Ġmark', '.', 'ĠCharlie', 'ĠAustin', 'Ġmade', 'Ġit', 'Ġ2', '-', '2', 'Ġjust', 'Ġafter', 'Ġhalf', '-', 'time', 'Ġwith', 'Ġhis', 'Ġfirst', 'Ġever', 'ĠPremier', 'ĠLeague', 'Ġgoal', '.', 'ĠCh', 'int', 'ĠHill', 'Ġmade', 'Ġit', 'Ġ3', '-', '2', 'Ġfor', 'ĠQ', 'PR', 'Ġwith', 'Ġhis', 'Ġsecond', 'Ġgoal', 'Ġof', 'Ġthe', 'Ġseason', '.', 'ĠBent', 'e', 'ce', 'Ġcompleted', 'Ġhis', 'Ġhat', '-', 'tr', 'ick', 'Ġwith', 'Ġa', 'Ġfree', '-', 'kick', 'Ġin', 'Ġthe', 'Ġ83', 'rd', 'Ġminute', '.', '</s>']
+
+
+Analyzing for intrinsic error token:ĠClint
+
+Top 5 Cross Attention
+['ĠClint', '<s>', '</s>', '.', '.']
+['ĠClint', '<s>', 'ĠHill', 'int', ',']
+['ĠClint', '<s>', 'int', '</s>', 'ĠCh']
+['<s>', 'ĠClint', 'ĠCh', 'int', 'ĠCharlie']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'ĠClint', 'ĠDefender', '.', '.']
+['<s>', 'ĠClint', '</s>', '.', '.']
+['ĠClint', '<s>', 'ĠHill', 'ĠDefender', 'ĠHill']
+['<s>', 'ĠClint', 'ĠHill', 'ĠHill', 'ĠHill']
+['ĠHill', 'ĠHill', 'ĠHill', 'Tra', 'ĠHill']
+['<s>', 'ĠClint', 'ĠIs', 'ĠGreen', 'Tra']
+Top 5 Decoder Attention
+['<s>', '.', 'Matt', 'ĠClint', 'Ġlater']
+['<s>', '.', 'ĠClint', 'Matt', 'ĠQueens']
+['<s>', 'ĠClint', 'Matt', '.', '.']
+['<s>', 'ĠClint', '.', 'ĠChristian', 'ĠPhillips']
+['<s>', 'ĠClint', '.', '.', 'ĠChristian']
+['<s>', '.', 'ĠClint', 'ke', 'ĠBent']
+['<s>', 'ĠClint', '.', 'ke', 'ĠBent']
+['<s>', 'ĠClint', '.', 'ke', '.']
+['<s>', 'ĠClint', '.', 'ĠPhillips', 'ĠBent']
+['<s>', 'ĠClint', '.', 'ke', 'ĠPhillips']
+['<s>', 'ĠClint', '.', 'ĠPhillips', '.']
+['<s>', 'ĠClint', '.', 'ĠChristian', 'ĠPark']
+Analyzing for token before intrinsic error:.
+
+Top 5 Cross Attention
+['</s>', '<s>', '.', '.', '.']
+['<s>', 'Ġafter', 'Ġ.', 'Ġ.', 'Ġthree']
+['<s>', '</s>', 'Ġ.', 'ĠCharlie', '.']
+['<s>', "'s", 'Ġthird', 'ĠCharlie', '</s>']
+['<s>', 'Ġthe', 'ĠClint', 'Ġto', '.']
+['Ġdouble', '<s>', 'Ġto', 'ĠClint', 'Ġput']
+['<s>', 'Ġto', 'Ġafter', 'Ġput', '</s>']
+['<s>', '</s>', 'ĠClint', 'Ġthe', 'Ġto']
+['<s>', 'ĠClint', 'Ġsweeping', 'ĠDefender', 'Ġdouble']
+['ĠClint', 'ĠDefender', 'ĠHill', '<s>', 'Ġdouble']
+['ĠClint', 'ĠDefender', 'ĠCh', 'ĠBent', 'ĠHill']
+['ĠClint', 'ĠDefender', '<s>', 'ĠCh', 'ĠCharlie']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Ġlater', 'Matt', '.', 'Ġminutes']
+['<s>', 'Ġlater', '.', 'Matt', 'Ġminutes']
+['<s>', 'ĠChristian', 'Matt', '.', 'ĠQueens']
+['<s>', '.', '.', 'Ġminutes', 'ĠPhillips']
+['<s>', 'ke', 'ĠChristian', '.', 'ĠBent']
+['<s>', '.', 'ised', 'Ġlater', 'Ġequal']
+['<s>', '.', 'Ġlater', 'ke', 'ised']
+['<s>', '.', 'ke', '.', 'ĠChristian']
+['<s>', '.', 'ĠChristian', 'ke', 'ĠBent']
+['<s>', '.', 'ĠPhillips', 'ĠChristian', 'ke']
+['<s>', '.', 'ĠChristian', 'ĠPhillips', '.']
+['<s>', '.', 'ĠChristian', 'ĠBent', '.']
+
+
+
+Analyzing for intrinsic error token:-
+
+Top 5 Cross Attention
+['-', '<s>', '</s>', '.', '.']
+['2', '-', 'Ġthird', '<s>', 'Ġ2']
+['<s>', '2', '</s>', 'Ġ2', 'Ġthird']
+['<s>', 'Ġthird', 'Ġequal', '2', '</s>']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '2', '</s>', 'Ġthird', 'Ġequal']
+['<s>', 'Ġequal', '2', 'Ġ2', 'Ġequal']
+['<s>', '2', '.', '.', '.']
+['2', '<s>', 'Ġ2', '.', '.']
+['<s>', '2', '.', '.', '.']
+Top 5 Decoder Attention
+['Ġ2', '<s>', 'Matt', '-', 'Ġit']
+['Ġ2', '<s>', 'Ġit', '.', '-']
+['<s>', 'Ġ2', '-', 'Ġit', '.']
+['<s>', 'Ġ2', 'Ġit', 'Ġmade', '.']
+['<s>', 'Ġit', 'Ġ2', 'Ġmade', 'ĠAustin']
+['<s>', 'Ġit', 'Ġ2', 'ĠAustin', 'Ġmade']
+['<s>', 'Ġ2', 'Ġit', 'Ġmade', '-']
+['<s>', 'Ġ2', '.', 'Ġit', 'Ġmade']
+['<s>', 'Ġ2', 'Ġit', '-', 'Ġequal']
+['<s>', 'Ġ2', '-', 'Ġit', '.']
+['<s>', 'Ġ2', '-', 'Ġit', 'minute']
+['<s>', 'Ġ2', '-', 'Ġit', 'PR']
+Analyzing for token before intrinsic error:Ġ2
+
+Top 5 Cross Attention
+['Ġ2', '<s>', '</s>', 'Ġthree', '.']
+['Ġthird', 'Ġ2', '<s>', 'Ġ78', '2']
+['<s>', 'Ġ2', 'Ġthird', '</s>', '2']
+['<s>', 'Ġthird', 'Ġ2', '2', 'Ġequal']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġ2', '.', '.', '.']
+['2', '<s>', '</s>', 'Ġthird', 'Ġ2']
+['<s>', 'Ġ2', '2', 'Ġequal', 'Ġequal']
+['<s>', '2', '-', 'Ġ2', '.']
+['<s>', '-', '.', '.', '.']
+['<s>', '-', '.', '.', '.']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Ġit', 'Ġ2', '.', 'Matt']
+['<s>', 'Ġit', 'Ġmade', 'Ġ2', 'ĠCharlie']
+['<s>', 'Ġit', 'Ġ2', '.', 'Ġmade']
+['<s>', 'Ġmade', '.', 'Ġit', 'ĠAustin']
+['<s>', 'Ġit', 'Ġmade', 'ĠAustin', 'Ġ2']
+['<s>', 'Ġit', 'ĠAustin', 'Ġmade', '.']
+['<s>', 'Ġit', 'Ġmade', 'Ġ2', 'ĠAustin']
+['<s>', 'Ġit', 'Ġ2', '.', 'Ġmade']
+['<s>', 'Ġit', 'Ġ2', 'Ġahead', 'PR']
+['<s>', 'Ġ2', 'Ġit', '.', 'Ġmade']
+['<s>', 'Ġit', 'Ġ2', 'minute', 'PR']
+['<s>', 'Ġ2', 'Ġit', 'Ġmade', 'Ġahead']
+
+
+
+Analyzing for intrinsic error token:Ġever
+
+Top 5 Cross Attention
+['Ġever', '<s>', '</s>', '.', '.']
+['Ġever', 'Ġfirst', 'Ġfirst', '<s>', '.']
+['<s>', 'Ġever', 'Ġfirst', 'Ġfirst', '.']
+['<s>', 'Ġfirst', 'Ġever', 'Ġfirst', '</s>']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġever', '.', '.', '.']
+['<s>', 'ĠPremier', 'Ġfirst', '.', '.']
+['<s>', 'Ġfirst', '</s>', 'Ġgoal', 'ĠPremier']
+['<s>', 'Ġever', 'ĠPremier', 'Ġgoal', 'ĠPremier']
+['<s>', 'ĠPremier', 'ĠPremier', 'ĠLeague', 'ĠLeague']
+['ĠPremier', 'ĠPremier', '<s>', 'ĠLeague', 'ĠLeague']
+['ĠPremier', 'ĠPremier', '<s>', 'ĠLeague', 'Ġgoal']
+Top 5 Decoder Attention
+['<s>', 'Ġfirst', 'Ġever', 'Ġhis', 'Matt']
+['<s>', 'Ġfirst', 'Ġwith', 'Ġhis', 'Ġever']
+['<s>', 'Ġfirst', 'Ġhis', 'Ġever', 'Ġwith']
+['<s>', 'Ġfirst', 'Ġever', 'Ġhis', 'Ġwith']
+['<s>', 'Ġfirst', 'Ġever', 'Ġhis', 'Ġwith']
+['<s>', 'Ġever', 'Ġfirst', 'Ġwith', 'Ġhis']
+['<s>', 'Ġfirst', 'Ġever', 'Ġwith', 'Ġhis']
+['<s>', 'Ġwith', 'Ġfirst', 'Ġever', 'Ġhis']
+['<s>', 'Ġfirst', 'Ġever', '-', 'Ġwith']
+['<s>', 'Ġever', 'Ġfirst', 'Ġhis', 'Ġwith']
+['<s>', 'Ġfirst', 'Ġever', 'Ġhis', 'Ġafter']
+['<s>', 'Ġever', 'Ġfirst', 'ĠQ', 'Ġwith']
+Analyzing for token before intrinsic error:Ġfirst
+
+Top 5 Cross Attention
+['Ġfirst', 'Ġfirst', '<s>', 'Ġfirst', 'Ġfirst']
+['Ġfirst', 'Ġfirst', '<s>', 'Ġsecond', 'Ġever']
+['<s>', 'Ġfirst', 'Ġfirst', 'Ġever', '</s>']
+['<s>', 'Ġfirst', 'Ġfirst', 'Ġever', 'Ġthird']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġfirst', '.', '.', '.']
+['<s>', 'Ġfirst', 'Ġfirst', '.', '.']
+['Ġfirst', '<s>', '</s>', 'ĠPremier', 'Ġfirst']
+['Ġfirst', '<s>', 'Ġfirst', 'Ġgoal', 'ĠPremier']
+['<s>', 'ĠPremier', 'ĠLeague', 'ĠPremier', 'ĠLeague']
+['ĠPremier', 'ĠPremier', '<s>', 'ĠLeague', 'ĠLeague']
+['ĠPremier', 'ĠPremier', '<s>', 'ĠLeague', 'ĠLeague']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Ġhis', 'Ġwith', 'Ġfirst', 'Matt']
+['<s>', 'Ġhis', 'Ġwith', 'Ġfirst', 'ĠQueens']
+['<s>', 'Ġhis', 'Ġfirst', 'Ġwith', 'ĠQueens']
+['<s>', 'Ġhis', 'Ġwith', 'Ġfirst', 'ĠAustin']
+['<s>', 'Ġfirst', 'Ġhis', 'Ġwith', 'ĠAustin']
+['<s>', 'Ġwith', 'Ġhis', 'ĠAustin', 'Ġfirst']
+['<s>', 'Ġhis', 'Ġwith', 'Ġfirst', 'ĠAustin']
+['<s>', 'Ġwith', 'Ġhis', 'Ġfirst', 'ĠAustin']
+['<s>', 'Ġfirst', 'Ġhis', 'Ġwith', 'ĠCharlie']
+['<s>', 'Ġfirst', 'Ġhis', 'Ġwith', '-']
+['<s>', 'Ġfirst', 'Ġhis', '2', 'Ġwith']
+['<s>', 'Ġfirst', 'Ġhis', 'Ġwith', 'ĠQueens']
+
+
+
+Analyzing for intrinsic error token:ĠCh
+
+Top 5 Cross Attention
+['ĠCh', '<s>', '</s>', '.', '.']
+['ĠCh', '<s>', 'int', '</s>', "'s"]
+['ĠCh', '<s>', '</s>', 'int', '.']
+['ĠCh', '<s>', 'int', 'ĠHill', 'ĠCharlie']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'ĠHill', 'ĠCh', '.', '.']
+['<s>', 'int', 'ĠCh', '.', '.']
+['ĠCh', '<s>', 'int', '.', '.']
+['<s>', 'int', 'ĠCh', '.', '.']
+['int', '<s>', '.', '.', '.']
+['int', '<s>', '.', '.', '.']
+Top 5 Decoder Attention
+['<s>', '.', 'ĠCh', 'Matt', 'Ġgoal']
+['<s>', '.', 'ĠCh', 'ĠQueens', 'ĠAustin']
+['<s>', '.', 'ĠCh', 'ĠAustin', '.']
+['<s>', '.', '.', 'ĠCh', 'ĠCharlie']
+['<s>', '.', 'ĠCh', 'ĠAustin', 'Ġever']
+['<s>', 'ĠGreen', 'ĠAustin', '.', 'ĠCh']
+['<s>', '.', 'ĠCh', 'ĠAustin', 'Ġwith']
+['<s>', '.', 'ĠAustin', 'ĠCh', 'ĠCharlie']
+['<s>', '.', 'ĠAustin', 'ĠCharlie', 'ĠClint']
+['<s>', '.', 'ĠCh', 'ĠCharlie', 'ĠClint']
+['<s>', 'ĠCh', '.', 'ĠClint', 'ĠCharlie']
+['<s>', 'ĠCh', '.', '.', '.']
+Analyzing for token before intrinsic error:.
+
+Top 5 Cross Attention
+['</s>', '<s>', '.', '.', '.']
+['<s>', '</s>', 'Ġ.', 'ĠOnly', '.']
+['<s>', '</s>', '.', 'ĠCharlie', '.']
+['<s>', '</s>', 'Ġ83', 'Ġthird', 'Ġa']
+['<s>', 'Ġ83', '.', '.', '.']
+['<s>', 'Ġthird', 'Ġ83', 'Ġwith', '</s>']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġ83', '</s>', "'s", 'Ġthird']
+['<s>', 'Ġ83', '.', '.', '.']
+['<s>', 'Ġ83', 'ĠHill', '.', '.']
+['ĠBent', 'ĠBent', 'ĠBent', 'ĠBent', 'ĠBent']
+['<s>', 'ĠCh', 'ĠCharlie', 'ĠHill', 'ĠClint']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Ġgoal', '.', 'Matt', 'ĠLeague']
+['<s>', 'Ġgoal', '.', 'Ġever', 'Ġwith']
+['<s>', '.', 'ĠChristian', 'ĠClint', 'ĠCharlie']
+['<s>', '.', 'ĠAustin', '.', 'ĠCharlie']
+['<s>', '.', 'ĠAustin', 'ĠCharlie', 'Ġfirst']
+['<s>', '.', 'ĠAustin', 'Ġput', 'Ġmade']
+['<s>', '.', 'ĠAustin', 'Ġwith', 'time']
+['<s>', '.', 'ĠAustin', 'ĠCharlie', '.']
+['<s>', '.', 'ĠAustin', 'ĠBent', 'ĠChristian']
+['<s>', '.', 'ĠAustin', 'ĠCharlie', 'ĠPhillips']
+['<s>', '.', 'ĠChristian', 'ĠCharlie', 'ĠClint']
+['<s>', '.', 'ĠCharlie', '.', 'ĠClint']
+
+
+
+Derby County season ticket holders from the 2010-11 campaign might struggle to believe it but Alberto Bueno prepares to face his former club Real Madrid on Wednesday as the highest-scoring Spanish-national in La Liga with a big money move to Porto waiting for him at the end of the season. Bueno played for Derby on loan five years ago, but with just five goals in 29 games he looked anything like Champions League material. After returning to Valladolid he moved to Rayo Vallecano and at the club with one of the lowest budgets in Spanish football he has had the season of his life. Now Champions League quarter-finalists Porto, coached by Spaniard Julen Lopetegui, are ready to poach him. Alberto Bueno (left) in action for Derby against Norwich during his unsuccessful spell with the club. Bueno celebrates scoring for Real Madrid against Real Union in November 2008. Bueno has scored 17 goals for Rayo Vallecano this season and could soon move to Porto. AGE: 27. CLUBS (League record only) Real Madrid (2006-09): 97 apps, 22 goals. Real Madrid (2008-09): 3 apps, 0 goals. Valladolid (2009-13): 85 apps, 13 goals. Derby (loan, 2010-11): 29 apps, 5 goals. Rayo Vallecano (2013-) 65 apps, 26 goals . Seventeen of the 35 goals that Rayo have scored this season have come from Bueno. He hit four in one game earlier this year against Levante and will be gunning for his old club on Wednesday night. Bueno came through at Real Madrid in the 2006-07 season when then manager Fabio Capello fast-tracked him from the C-team to train with David Beckham, Luis Figo and Raul. He eventually made his full debut in both La Liga and the Champions League two seasons later but like so many strikers from Real Madrid’s youth system before him he was going to have to leave to really launch his career. Following in the footsteps of Alvaro Negredo and Roberto Soldado he left the club in 2009 signing for Valladolid from where he spent a season at Derby before ending up back in Spain. Negredo and Soldado both made it into the Spain squad after they succeeded away from Madrid and national team boss Vicente Del Bosque will be watching on Wednesday when Bueno goes up against Sergio Ramos as Rayo Vallecano look to take the scalp of Real Madrid in their rickety atmosphere-charged three-sided Vallecas stadium.  .
+
+
+Alberto Bueno has scored 17 goals for Rayo Vallecano this season. The 27-year-old is the highest-scoring Spanish-national in La Liga. Bueno played for Derby on loan in 2010-11 but scored just five goals. He has been linked with a move to Porto in the [91mChampions[0m [91mLeague[0m.
+
+
+['<s>', 'Al', 'berto', 'ĠBu', 'eno', 'Ġhas', 'Ġscored', 'Ġ17', 'Ġgoals', 'Ġfor', 'ĠRay', 'o', 'ĠVal', 'le', 'cano', 'Ġthis', 'Ġseason', '.', 'ĠThe', 'Ġ27', '-', 'year', '-', 'old', 'Ġis', 'Ġthe', 'Ġhighest', '-', 'scoring', 'ĠSpanish', '-', 'national', 'Ġin', 'ĠLa', 'ĠLiga', '.', 'ĠBu', 'eno', 'Ġplayed', 'Ġfor', 'ĠDerby', 'Ġon', 'Ġloan', 'Ġin', 'Ġ2010', '-', '11', 'Ġbut', 'Ġscored', 'Ġjust', 'Ġfive', 'Ġgoals', '.', 'ĠHe', 'Ġhas', 'Ġbeen', 'Ġlinked', 'Ġwith', 'Ġa', 'Ġmove', 'Ġto', 'ĠPort', 'o', 'Ġin', 'Ġthe', 'ĠChampions', 'ĠLeague', '.', '</s>']
+
+
+Analyzing for intrinsic error token:ĠChampions
+
+Top 5 Cross Attention
+['ĠChampions', 'ĠChampions', '<s>', '.', '.']
+['ĠLeague', '<s>', 'ĠChampions', '.', '.']
+['<s>', 'ĠChampions', '</s>', '.', '.']
+['<s>', 'ĠChampions', 'ĠLeague', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'ĠLeague', '</s>', '.', '.']
+['<s>', 'ĠChampions', 'ĠLeague', '.', '.']
+['<s>', 'ĠLeague', '.', '.', '.']
+['<s>', 'ĠLeague', '.', '.', '.']
+['.', '.', '.', '.', '.']
+Top 5 Decoder Attention
+['<s>', 'Ġthe', 'Ġin', 'ĠChampions', 'Al']
+['<s>', 'Ġthe', 'ĠChampions', 'Ġin', 'Ġwith']
+['<s>', 'Ġthe', 'ĠChampions', 'Ġin', 'ĠPort']
+['<s>', 'o', 'Ġthe', 'ĠChampions', '.']
+['<s>', 'Ġthe', 'o', 'Ġin', 'ĠChampions']
+['<s>', 'ĠChampions', '.', 'Ġthe', 'Ġin']
+['<s>', 'ĠChampions', 'Ġthe', 'Ġin', 'o']
+['<s>', 'Ġthe', 'ĠChampions', 'Ġin', 'Ġto']
+['<s>', 'ĠChampions', 'Ġthe', 'Ġin', 'o']
+['<s>', 'ĠChampions', 'Ġthe', 'ĠLiga', 'Ġin']
+['<s>', 'ĠChampions', 'Ġthe', 'Ġin', 'o']
+['<s>', 'ĠChampions', 'Ġthe', 'Ġin', 'o']
+Analyzing for token before intrinsic error:Ġthe
+
+Top 5 Cross Attention
+['<s>', 'Ġthe', '</s>', '.', '.']
+['<s>', 'Ġend', 'Ġat', '</s>', '.']
+['<s>', '</s>', 'Ġat', '.', '.']
+['<s>', 'ĠLeague', 'Ġend', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'ĠLeague', '</s>', '.', '.']
+['<s>', 'ĠLeague', 'ĠChampions', '.', '.']
+['<s>', 'ĠChampions', '.', '.', '.']
+['ĠChampions', '<s>', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+
+
+
+Top 5 Decoder Attention
+['Ġin', '<s>', 'Al', 'Ġthe', 'o']
+['<s>', 'Ġin', 'ĠPort', 'Ġthe', 'Ġmove']
+['<s>', 'Ġin', 'Ġmove', 'ĠPort', 'Ġlinked']
+['<s>', 'Ġin', 'Ġmove', 'Ġlinked', 'Ġto']
+['<s>', 'o', 'Ġin', 'ĠPort', 'Ġmove']
+['<s>', 'Ġin', 'Ġmove', 'o', 'Ġlinked']
+['<s>', 'o', 'Ġin', 'Ġto', 'Ġwith']
+['<s>', 'Ġin', 'o', 'Ġto', 'Ġthe']
+['<s>', 'Ġin', 'o', 'Ġthe', 'Ġmove']
+['<s>', 'o', 'Ġin', 'Ġthe', 'ĠPort']
+['<s>', 'Ġin', 'Ġthe', 'o', 'Ġto']
+['<s>', 'Ġin', 'Ġthe', 'Ġto', 'Ġwith']
+
+
+
+The Miami Open is threatening to turn into national cake week, after Serena Williams became the latest recipient of a giant celebration present after she clocked her 700th career victory. The day following Andy Murray’s 500th win another huge cake was wheeled out to mark Williams reaching the semi-final with a 7-6, 1-6, 6-3 progression over Germany’s Sabine Lisicki. Williams’s hopes of another meeting with sister Venus were dashed by her elder sibling’s defeat to Spain’s Carla Suarez Navarro, but the world No 1 was intent on staying alive in what is the nearest thing she has to a hometown event. Serena Williams strikes a pose next to her cake after recording her 700th career victory. Williams beat Sabine Lisicki in three sets on Wednesday to progress to the semi-finals of the Miami Open. Willaims celebrates as the world No 1 sealed a match against either Sloane Stephens or Simona Halep. Andy Murray pretends to take a bite out a celebratory cake presented to him after winning his 500th match. In a battle of two huge servers, Williams seemed to give away the second set but eventually gained a measure of revenge for the shock defeat she suffered at Wimbledon 2013 against the same opponent, who has never quite been the same since. . Williams will face Romania's Simona Halep for a place in the final after the third-seed beat Sloane Stephens 6-1, 7-5. . Williams plays a backhand during her quarter-final at Crandon Park in Florida on Wednesday. Lisicki and Williams shake hands at the net after the tight match at the Miami Open. Simona Halep celebrates after beating Sloane Stephens to reach the Miami Open semi-finals.
+
+
+Serena Williams beat Sabine Lisicki in three sets to reach the Miami Open semi-finals. The world No 1 will face either Simona Halep or Sloane Stephens in the final. Williams became the latest player to receive a cake after winning her 700th career [91mmatch[0m.
+
+
+['<s>', 'S', 'ere', 'na', 'ĠWilliams', 'Ġbeat', 'ĠSab', 'ine', 'ĠLis', 'ick', 'i', 'Ġin', 'Ġthree', 'Ġsets', 'Ġto', 'Ġreach', 'Ġthe', 'ĠMiami', 'ĠOpen', 'Ġsemi', '-', 'finals', '.', 'ĠThe', 'Ġworld', 'ĠNo', 'Ġ1', 'Ġwill', 'Ġface', 'Ġeither', 'ĠSim', 'ona', 'ĠHal', 'ep', 'Ġor', 'ĠSl', 'o', 'ane', 'ĠStephens', 'Ġin', 'Ġthe', 'Ġfinal', '.', 'ĠWilliams', 'Ġbecame', 'Ġthe', 'Ġlatest', 'Ġplayer', 'Ġto', 'Ġreceive', 'Ġa', 'Ġcake', 'Ġafter', 'Ġwinning', 'Ġher', 'Ġ700', 'th', 'Ġcareer', 'Ġmatch', '.', '</s>']
+
+
+Analyzing for intrinsic error token:Ġmatch
+
+Top 5 Cross Attention
+['<s>', 'Ġmatch', 'Ġmatch', '.', '.']
+['Ġmatch', 'Ġvictory', '<s>', 'Ġvictory', 'Ġcareer']
+['<s>', 'Ġmatch', '.', '.', '.']
+['<s>', 'Ġmatch', '</s>', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġcareer', '</s>', 'Ġcareer', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['.', '.', '.', '.', '.']
+Top 5 Decoder Attention
+['<s>', 'Ġcareer', 'Ġmatch', 'S', 'th']
+['<s>', 'Ġcareer', 'Ġwinning', 'Ġ700', 'Ġafter']
+['<s>', 'Ġcareer', 'Ġher', 'Ġwinning', 'th']
+['<s>', 'th', 'Ġwinning', 'Ġ700', 'Ġcareer']
+['<s>', 'th', 'Ġcareer', 'Ġ700', 'Ġafter']
+['<s>', 'Ġafter', 'Ġcareer', 'th', 'Ġwinning']
+['<s>', 'Ġcareer', 'th', 'Ġmatch', 'Ġafter']
+['<s>', 'Ġcareer', 'th', 'Ġafter', 'Ġ700']
+['<s>', 'Ġcareer', '.', 'ĠWilliams', 'Ġafter']
+['<s>', 'Ġafter', 'Ġcareer', 'th', 'Ġmatch']
+['<s>', 'Ġmatch', 'Ġafter', 'Ġcareer', '.']
+['<s>', 'Ġmatch', 'Ġcareer', 'Ġwinning', 'Ġcake']
+Analyzing for token before intrinsic error:Ġcareer
+
+Top 5 Cross Attention
+['Ġcareer', 'Ġcareer', '<s>', '.', '.']
+['Ġcareer', 'Ġcareer', '<s>', '.', '.']
+['<s>', 'Ġcareer', 'Ġcareer', 'Ġmatch', '.']
+['<s>', 'Ġcareer', 'Ġcareer', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġcareer', 'Ġcareer', '</s>', '.']
+['<s>', 'Ġcareer', 'Ġcareer', '.', '.']
+['<s>', '.', '.', '.', '.']
+['Ġvictory', 'Ġvictory', '.', '.', '.']
+['.', '.', '.', '.', '.']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'th', 'Ġ700', 'Ġcareer', 'S']
+['<s>', 'th', 'Ġher', 'Ġ700', 'Ġafter']
+['<s>', 'th', 'Ġcareer', 'Ġher', 'Ġ700']
+['<s>', 'th', 'Ġ700', 'Ġwinning', 'Ġcareer']
+['<s>', 'th', 'Ġ700', 'Ġcareer', 'Ġher']
+['<s>', 'th', 'Ġ700', 'Ġcareer', 'Ġwinning']
+['<s>', 'th', 'Ġcareer', 'Ġ700', 'Ġwinning']
+['<s>', 'Ġwinning', 'th', 'Ġ700', 'Ġcareer']
+['<s>', 'th', 'Ġwinning', 'Ġ700', 'Ġher']
+['<s>', 'th', 'Ġcareer', 'Ġwinning', 'Ġ700']
+['<s>', 'th', 'Ġcareer', 'Ġwinning', 'Ġ700']
+['<s>', 'th', 'Ġher', 'Ġcareer', 'Ġwinning']
+
+
+
+At the grand old age of 75, Jack Nicklaus is still capable of hitting aces. The Golden Bear added another magic moment to his storied career at Augusta National in the Par-3 Contest. Stepping up to the tee on the 130-yard fourth, the greatest golfer of all time saw his shot sail beyond the flag before spinning back into the hole. Jack Nicklaus gave the crowd something to cheer with a hole in one on the fourth during the Par-3 Contest. Nicklaus holds up his ball to an adoring crowd as Gary Player (left) and Ben Crenshaw salute the great. Crenshaw and Nicklaus fist pump following his ace on the 130-yard hole at Augusta National. Nicklaus was playing alongside Gary Player and Ben Crenshaw  as the first roar of Masters week filled the skies in a sunswept Georgia. 'I had an interview this morning, and I said "well, all I've got to do is go out and win the Par-3 and make a hole and one", and I make a hole in one,' Nicklaus said afterwards. . The ace was Nicklaus' first on the hallowed turf of Augusta, but the veteran saw his achievement eclipsed by that of Camilo Villegas on a day which saw five hole-in-ones, levelling the record from 2002. The Colombian followed Nicklaus with an ace on the fourth and also managed one on the eighth, but he couldn't quite land the title, losing out to world No 74 Kevin Streelman in a play-off. Nicklaus became the youngest person to wear a green jacket in 1963, and collected his sixth in 1986. He is one of five men to complete the career grand slam, an accolade which favourite Rory McIlroy can achieve if he wins his third major in succession.
+
+
+Jack Nicklaus hit a hole in one on the fourth during the Par-3 Contest. The 75-year-old was playing alongside Gary Player and Ben Crenshaw. Camilo Villegas and [91mKevin[0m [91mStreelman[0m also hit hole-in-ones on the day.
+
+
+['<s>', 'Jack', 'ĠNick', 'laus', 'Ġhit', 'Ġa', 'Ġhole', 'Ġin', 'Ġone', 'Ġon', 'Ġthe', 'Ġfourth', 'Ġduring', 'Ġthe', 'ĠPar', '-', '3', 'ĠContest', '.', 'ĠThe', 'Ġ75', '-', 'year', '-', 'old', 'Ġwas', 'Ġplaying', 'Ġalongside', 'ĠGary', 'ĠPlayer', 'Ġand', 'ĠBen', 'ĠC', 'ren', 'shaw', '.', 'ĠCam', 'ilo', 'ĠVil', 'leg', 'as', 'Ġand', 'ĠKevin', 'ĠStre', 'elman', 'Ġalso', 'Ġhit', 'Ġhole', '-', 'in', '-', 'ones', 'Ġon', 'Ġthe', 'Ġday', '.', '</s>']
+
+
+Analyzing for intrinsic error token:ĠKevin
+
+Top 5 Cross Attention
+['ĠKevin', '<s>', '.', '.', '.']
+['ĠKevin', '<s>', '.', '.', '.']
+['<s>', 'ĠKevin', '</s>', '.', '.']
+['ĠKevin', '<s>', 'elman', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'elman', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'ĠKevin', 'ĠStre', 'elman', '.']
+['<s>', 'ĠKevin', '.', '.', '.']
+['ĠStre', '<s>', '.', '.', '.']
+['ĠStre', '<s>', '.', '.', '.']
+['ĠStre', '.', '.', '.', '.']
+Top 5 Decoder Attention
+['<s>', 'Ġand', 'Jack', 'ĠKevin', '.']
+['<s>', 'Ġand', 'as', '.', 'ĠKevin']
+['<s>', 'Ġand', 'ĠKevin', 'ilo', '.']
+['<s>', 'ilo', 'Ġand', 'as', 'ĠCam']
+['<s>', 'Ġand', 'as', 'ĠKevin', 'ilo']
+['<s>', 'Ġand', 'as', 'leg', 'ĠKevin']
+['<s>', 'ĠKevin', 'Ġand', 'ĠVil', 'as']
+['<s>', 'ĠKevin', 'Ġand', 'as', 'ĠVil']
+['<s>', 'Ġand', 'ĠKevin', 'ĠVil', 'as']
+['<s>', 'ĠKevin', 'Ġand', 'ĠVil', 'as']
+['<s>', 'ĠKevin', 'ilo', 'Ġand', 'ĠVil']
+['<s>', 'ĠKevin', 'ilo', 'Ġand', 'ĠVil']
+Analyzing for token before intrinsic error:Ġand
+
+Top 5 Cross Attention
+['<s>', 'Ġand', '</s>', '.', '.']
+['Ġfollowed', 'Ġand', '<s>', 'Ġon', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġfollowed', 'Ġwith', 'Ġalso', 'Ġfive']
+['<s>', 'Ġfive', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġfollowed', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'ĠKevin', '.', '.', '.']
+['ĠKevin', 'ĠStre', '<s>', '.', '.']
+['ĠStre', '<s>', 'ĠKevin', '.', '.']
+
+
+
+Top 5 Decoder Attention
+['Jack', '<s>', 'as', 'Ġand', '.']
+['<s>', 'as', 'Ġand', 'ĠCam', '.']
+['<s>', 'Ġand', 'as', 'ĠCam', 'ilo']
+['<s>', 'as', 'Ġand', 'ĠCam', '.']
+['<s>', 'as', 'ilo', '.', 'Ġand']
+['<s>', 'as', 'ilo', 'Ġand', 'Ġalongside']
+['<s>', 'as', 'Ġand', 'ilo', 'ĠCam']
+['<s>', 'as', 'Ġand', 'ilo', 'ĠCam']
+['<s>', 'as', 'ilo', 'Ġand', 'ĠCam']
+['<s>', 'Ġand', 'ĠVil', 'ilo', 'ĠCam']
+['<s>', 'Ġand', '.', 'ĠCam', 'ilo']
+['<s>', 'Ġand', 'ĠC', 'ilo', 'ĠVil']
+
+
+
+Tony Pulis returned to Selhurst Park for the first time since he left Crystal Palace and masterminded a victory which pulled his West Bromwich Albion side to the edge of safety. Alan Pardew tried new ideas on the pitch to outwit Pulis but an early goal from James Morrison and stunner from Craig Gardner meant he could not deliver a satisfying result against the man who left Palace two days before this season kicked off. Despite the timing of his departure, however, there was very little bad blood between Palace’s fans and Pulis who was roundly applauded as he came out from the tunnel in the corner of a ground where the seats are close to the pitch and the crowd can be unforgiving. A few boos broke the surface, but they were drowned out by waves of the respect he deserved for saving them from relegation last season, during his 10-month tenure, when he won the Premier League LMA Manager of the Year award. West Brom midfielder Craig Gardner celebrates having scored the second for Tony Pulis' side with a fine long ranged effort . Before two minutes on the clock, James Morrison (right) headed West Brom ahead following a corner from team-mate Chris Brunt. The West Brom players race to congratulate Morrison (top left), who headed the away side in front against Crystal Palace on Saturday.  . Crystal Palace (4-3-3): Speroni 6; Ward 6, Delaney 6, Dann 6, Ledley 6 (Souare 46 6); McArthur 6 (Sanogo 80), Jedinak 6 (Gayle 46 6), Puncheon 6.5; Zaha 6.5, Murray 6.5, Bolasie 8. Subs not used: Hennessey, Hangeland, Kelly, Ameobi. Manager: Alan Pardew 5.5. Booked: Puncheon, Dann, Bolasie. West Brom (4-4-2): Myhill 8.5; Dawson 6 (Wisdom 71 6), McAuley 6.5, Lescott 6.5, Brunt 7; Morrison 7, Fletcher 6, Yacob 6, Gardner 7.5 (Olsson 81); Berahino 6 (Baird 88), Anichebe 6. Subs not used: Rose, McManaman, Sessegnon, Ideye. Manager: Tony Pulis 7.5. Booked: McAuley, Gardner, Brunt. Referee: Jonathan Moss 7. MOTM: Myhill . Attendance: 24,765.  . Craig Gardner scored a fine long range effort at Selhurst Park (above). CLICK HERE to see more from Sportsmail's MATCH ZONE. ‘You never know what to expect,’ Pulis said in regard to returning to a former club. ‘They did well for me last year and I hope I repaid them a little bit in respect to what we did in the dressing room and on the pitch. ‘It is a good club. It has got unbelievable potential and I mean that. The supporters are wonderful and they have a good manager. They can push on – if Alan is given the money and the opportunity to push this club forward this club could be a good club.’ Yannick Bolasie even made the effort to go over and shake Pulis’ hand as he strolled down the touchline. Yet the south London locals would not have been expecting what came within two minutes of kick off when West Brom took the lead. Chris Bunt swung in a corner from the left and James Morrison managed to lose Palace midfielder Jason Puncheon and nod in, completely free, from five yards out. Some of Puncheon’s team-mates looked around in disbelief that the West Brom man was afforded so much space in the box. ‘That was a weakness in our set up that Tony exploited,’ Pardew admitted. ‘It was well worked. Their guy took Puncheon to the edge of the box where he is not comfortable marking. ‘We knew Tony would know the players well, know the strengths and weaknesses, I tried to throw a few ideas in on the pitch. They didn’t come off. . Crystal Palace winger Yannick Bolasie greets former Eagles boss Tony Pulis (right) before kick-off at Selhurst Park on Saturday afternoon. Claudio Yacob of West Brom (right) tracks the run of Crystal Palace's Wilfried Zaha during their Premier League clash in South London. Mile Jedinak of Crystal Palace (right) battles with Victor Anichebe of West Bromwich Albion for possession in the air at Selhurst Park. West Brom captain Darren Fletcher (right) celebrates with goalscorer James Morrison after his early header at Crystal Palace. ‘Our fans are terrific in terms of the understanding of what Tony did here last year, they respected that. People know Tony does an honest job, he plays the game his way and we respect that.’ Despite that early set back, however, Crystal Palace started to play the eye-catching football that has made Pardew so popular in these parts during his short spell in charge. And it was all coming through their main man, Bolasie, on the left. In the 24th minute he weaved into the box, played a one-two then poked an effort towards the near post which West Brom goalkeeper Boaz Myhill did well to save with his feet. Three minutes later he cut in from his flank and bent an effort towards the far corner that Myhill clawed out. Then, just after the half-hour, a ball came in from the opposite flank from Joel Ward, was headed on by Glenn Murray and Bolasie executed a sublime bicycle kick, only to be denied by Myhill once again. . If Pulis, dressed in his usual full tracksuit, trainers and cap on the touchline, provided this Crystal Palace team with the spine and solidity to compete in the top flight, Pardew, resplendent in suit and tie, has given them the suave and flair to delight. In this instance, Pulis’ resilient style prevailed and against the run of play they added a second on 53 minutes. The ball came out from a West Brom corner and Gardner took a touch before, 30 yards out and slightly to the right of goal, he buried a right-foot strike over Julian Speroni into the left of goal. It is almost mission accomplished for Pulis at West Brom as they moved to 36 points and put a healthy gap between themselves and the bottom three. . Crystal Palace midfielder James McArthur controls the ball with West Brom's Chris Brunt fast approaching at Selhurst Park. Victor Anichebe of West Brom takes on Scott Dann (left) and Jason Puncheon of Crystal Palace (right) during the Premier League contest. Chris Brunt of West Brom and Glenn Murray of Crystal Palace vie for possession during the Premier League match at Selhurst Park. Gardner lets fly with this long range strike, which ended up doubling West Brom's lead at the Selhurst Park on Saturday afternoon. The West Brom midfielder is congratulated by team-mate Joleon Lescott (right) as he celebrates his fine solo strike in the second-half. West Brom keeper Boaz Myhill  falls in to the goal netting after failing to keep out Craig Gardner's long range strike on Saturday. Pape N'Diaye Souare of Crystal Palace (left) and James Morrison of West Brom compete for the ball during the Premier League clash. Crystal Palace winger Yannick Bolasie (right) was lively once again but couldn't stop Alan Pardew's side falling to a 2-0 home defeat. West Brom manager Tony Pulis (centre) barks out the instructions on the touchline as he witnessed his side take three valuable points. Victor Anichebe of West Brom and Pape N'Diaye Souare of Crystal Palace challenge for the ball at Selhurst Park during their league contest. Crystal Palace's striker Yaya Sanogo scores only for his goal to be disallowed during the 2-0 defeat to West Brom on Saturday. Both sets of players vie for the ball as a cross heads into the box at Selhurst Park as West Brom defeated the south Londoners 2-0 on Saturday.
+
+
+James Morrison headed West Brom ahead [91mafter[0m just two minutes at Selhurst Park. West Brom midfielder Craig Gardner scored a fine long range effort in the second half. Tony Pulis returned to [91mhis[0m [91mformer[0m [91mclub[0m for the first time since leaving two days before the start of the season. Pulis won the Premier League LMA Manager of the Year award last season.
+
+
+['<s>', 'James', 'ĠMorrison', 'Ġheaded', 'ĠWest', 'ĠBrom', 'Ġahead', 'Ġafter', 'Ġjust', 'Ġtwo', 'Ġminutes', 'Ġat', 'ĠSel', 'hurst', 'ĠPark', '.', 'ĠWest', 'ĠBrom', 'Ġmidfielder', 'ĠCraig', 'ĠGardner', 'Ġscored', 'Ġa', 'Ġfine', 'Ġlong', 'Ġrange', 'Ġeffort', 'Ġin', 'Ġthe', 'Ġsecond', 'Ġhalf', '.', 'ĠTony', 'ĠPul', 'is', 'Ġreturned', 'Ġto', 'Ġhis', 'Ġformer', 'Ġclub', 'Ġfor', 'Ġthe', 'Ġfirst', 'Ġtime', 'Ġsince', 'Ġleaving', 'Ġtwo', 'Ġdays', 'Ġbefore', 'Ġthe', 'Ġstart', 'Ġof', 'Ġthe', 'Ġseason', '.', 'ĠPul', 'is', 'Ġwon', 'Ġthe', 'ĠPremier', 'ĠLeague', 'ĠL', 'MA', 'ĠManager', 'Ġof', 'Ġthe', 'ĠYear', 'Ġaward', 'Ġlast', 'Ġseason', '.', '</s>']
+
+
+Analyzing for intrinsic error token:Ġafter
+
+Top 5 Cross Attention
+['<s>', 'Ġafter', 'Ġfollowing', '</s>', 'Ġhaving']
+['Ġfollowing', 'Ġa', 'ĠBefore', 'Ġminutes', '<s>']
+['<s>', 'Ġfollowing', '</s>', 'Ġminutes', '.']
+['<s>', 'Ġheaded', 'Ġheaded', 'Ġgoal', 'Ġfollowing']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġminutes', 'Ġtwo', 'Ġon', 'ĠBefore']
+['<s>', 'ĠBefore', '.', '</s>', '.']
+['<s>', 'Ġtwo', 'Ġminutes', '</s>', 'Ġminutes']
+['Ġtwo', 'Ġminutes', '<s>', 'ĠBefore', 'Ġminutes']
+['<s>', 'Ġtwo', 'Ġminutes', 'Ġtwo', 'ĠBefore']
+['Ġtwo', 'Ġtwo', '<s>', 'ĠBefore', 'Ġfive']
+['Ġtwo', 'ĠBefore', '<s>', 'Ġfive', 'Ġtwo']
+Top 5 Decoder Attention
+['<s>', 'Ġahead', 'James', 'Ġafter', 'ĠBrom']
+['<s>', 'Ġahead', 'Ġheaded', 'Ġafter', 'ĠMorrison']
+['<s>', 'Ġahead', 'James', 'Ġafter', 'ĠMorrison']
+['<s>', 'ĠMorrison', 'Ġheaded', 'Ġahead', 'Ġafter']
+['<s>', 'Ġheaded', 'ĠMorrison', 'Ġahead', 'Ġafter']
+['<s>', 'Ġheaded', 'Ġahead', 'Ġafter', 'ĠMorrison']
+['<s>', 'Ġheaded', 'Ġafter', 'Ġahead', 'ĠBrom']
+['<s>', 'ĠMorrison', 'Ġafter', 'Ġheaded', 'Ġahead']
+['<s>', 'Ġahead', 'Ġafter', 'ĠMorrison', 'Ġheaded']
+['<s>', 'ĠMorrison', 'Ġafter', 'Ġahead', 'Ġheaded']
+['<s>', 'Ġafter', 'Ġahead', 'ĠMorrison', 'ĠBrom']
+['<s>', 'Ġafter', 'Ġahead', 'ĠMorrison', 'Ġheaded']
+Analyzing for token before intrinsic error:Ġahead
+
+Top 5 Cross Attention
+['Ġahead', '<s>', '</s>', 'Ġto', '.']
+['Ġahead', 'Ġfollowing', '<s>', 'Ġfront', '</s>']
+['<s>', 'Ġahead', '</s>', 'Ġfront', 'Ġin']
+['<s>', 'Ġahead', 'Ġsecond', 'Ġfront', 'Ġearly']
+['<s>', 'Ġfront', 'Ġearly', '.', '.']
+['<s>', 'Ġearly', 'Ġlead', 'Ġahead', 'Ġminutes']
+['<s>', 'Ġahead', '.', '.', '.']
+['<s>', '</s>', 'ĠBefore', 'Ġminutes', 'Ġahead']
+['<s>', 'Ġtwo', 'Ġminutes', 'Ġahead', 'ĠBefore']
+['Ġtwo', 'Ġminutes', 'ĠBefore', '<s>', 'Ġon']
+['ĠBefore', 'Ġtwo', 'Ġminutes', '<s>', 'Ġfollowing']
+['ĠBefore', '<s>', 'Ġtwo', 'Ġfollowing', 'Ġtwo']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'ĠBrom', 'James', 'Ġahead', 'ĠWest']
+['<s>', 'Ġheaded', 'James', 'ĠWest', 'Ġahead']
+['<s>', 'Ġheaded', 'James', 'ĠBrom', 'Ġahead']
+['<s>', 'James', 'Ġheaded', 'ĠMorrison', 'Ġahead']
+['<s>', 'Ġheaded', 'ĠMorrison', 'Ġahead', 'ĠBrom']
+['<s>', 'Ġheaded', 'Ġahead', 'ĠMorrison', 'ĠBrom']
+['<s>', 'Ġheaded', 'ĠBrom', 'Ġahead', 'ĠMorrison']
+['<s>', 'Ġahead', 'ĠMorrison', 'Ġheaded', 'ĠBrom']
+['<s>', 'ĠBrom', 'ĠMorrison', 'Ġheaded', 'Ġahead']
+['<s>', 'ĠBrom', 'Ġahead', 'ĠMorrison', 'Ġheaded']
+['<s>', 'Ġahead', 'Ġheaded', 'ĠBrom', 'ĠMorrison']
+['<s>', 'Ġahead', 'ĠMorrison', 'Ġheaded', 'ĠBrom']
+
+
+
+Analyzing for intrinsic error token:Ġto
+
+Top 5 Cross Attention
+['Ġto', '<s>', 'Ġreturning', 'Ġto', 'Ġreturned']
+['Ġto', '<s>', 'Ġleft', 'Ġreturned', 'Ġto']
+['<s>', 'Ġto', 'Ġreturned', '</s>', 'Ġleft']
+['Ġto', '<s>', 'Ġleft', 'Ġreturned', 'Ġreturning']
+['<s>', 'Ġboss', 'Ġto', '.', '.']
+['<s>', 'Ġleft', 'Ġleft', '.', '.']
+['<s>', '.', '.', '.', '.']
+['Ġsince', '<s>', '</s>', 'Ġto', 'Ġleft']
+['<s>', 'Ġto', 'Ġto', 'ĠPark', 'Ġleft']
+['<s>', 'ĠSel', 'Ġto', 'Ġformer', 'Ġleft']
+['ĠSel', 'ĠSel', '<s>', 'ĠCrystal', 'Ġreturning']
+['ĠSel', 'ĠCrystal', '<s>', 'Ġformer', 'ĠSouth']
+Top 5 Decoder Attention
+['Ġreturned', 'James', '<s>', '.', 'Ġto']
+['<s>', 'Ġreturned', 'ĠTony', 'Ġto', '.']
+['<s>', 'Ġreturned', 'Ġto', 'ĠTony', '.']
+['<s>', 'Ġreturned', 'Ġto', 'ĠTony', '.']
+['<s>', 'is', 'Ġreturned', '.', 'ĠTony']
+['<s>', 'Ġreturned', 'Ġto', 'is', 'ĠTony']
+['<s>', 'Ġreturned', 'Ġto', 'is', 'ĠTony']
+['<s>', 'Ġreturned', 'is', 'ĠTony', 'Ġto']
+['<s>', 'Ġreturned', 'ĠPark', 'Ġto', 'hurst']
+['<s>', 'Ġreturned', 'Ġto', 'is', 'ĠPark']
+['<s>', 'Ġreturned', 'Ġto', 'ĠSel', 'is']
+['<s>', 'Ġto', 'ĠSel', 'Ġreturned', 'is']
+Analyzing for token before intrinsic error:Ġreturned
+
+Top 5 Cross Attention
+['Ġreturned', '<s>', 'Ġreturning', '</s>', 'Ġscored']
+['<s>', 'Ġreturned', 'Ġreturning', 'Ġleft', 'Ġto']
+['<s>', 'Ġreturned', '</s>', 'Ġreturning', 'Ġto']
+['Ġreturned', 'Ġreturning', '<s>', 'Ġleft', 'Ġsince']
+['<s>', 'Ġsince', 'Ġreturned', 'Ġleft', '.']
+['<s>', 'Ġleft', 'Ġleft', '.', '.']
+['<s>', 'Ġsince', 'Ġfirst', '.', '.']
+['Ġsince', '<s>', '</s>', 'Ġhe', 'Ġto']
+['<s>', 'Ġreturning', 'Ġreturned', 'Ġto', 'Ġleft']
+['Ġto', '<s>', 'Ġreturned', 'Ġtime', 'Ġto']
+['<s>', 'Ġto', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'James', 'Ġreturned', '.', 'is']
+['<s>', 'ĠTony', 'is', '.', 'Ġreturned']
+['<s>', 'Ġreturned', 'is', 'ĠPul', '.']
+['<s>', 'Ġreturned', '.', 'ĠTony', 'is']
+['<s>', 'is', '.', 'Ġreturned', 'ĠTony']
+['<s>', 'is', 'Ġreturned', 'ĠTony', '.']
+['<s>', 'is', 'Ġreturned', '.', 'ĠTony']
+['<s>', 'is', 'Ġreturned', 'ĠPul', 'ĠTony']
+['<s>', 'Ġreturned', 'is', '.', 'ĠPark']
+['<s>', 'Ġreturned', 'is', 'ĠPark', 'ĠTony']
+['<s>', 'Ġreturned', 'is', 'ĠTony', '.']
+['<s>', 'Ġreturned', 'is', 'ĠPul', 'ĠTony']
+
+
+
+Adam Federici lay inert on the turf for a moment. He realised the magnitude of what happened. He understood the horror of it instantly. He let his head rest on the grass and closed his eyes as if he was trying to wish it all away, as if he was trying to blot out the din and the agony and the wild celebrations of the Arsenal fans. His face was scrunched against the grass, distorted in a mask of despair. Reading, still struggling to avoid relegation to League One, had performed heroically to push Arsenal into extra-time in this FA Cup semi-final and Federici had pulled off a series of stunning saves to keep the sides level at 1-1 but the Australian goalkeeper guessed there would be no way back now. There had been less than a minute to go before the extra-time interval when Alexis Sanchez had cut in from the left and fired in a stinging shot straight at Federici. He knelt to gather it but somehow it squirmed through his legs and trickled over the line as he scrambled in vain to retrieve it. It was football at its most cruel. In years to come, it will be the enduring image of this game. Alexis Sanchez's low shot squirmed agonisingly through the legs of Reading goalkeeper Adam Federici in extra time. It was a routine shot from Sanchez but the Reading stopper failed to collect it properly in his grasp - an embarrassing gaffe. The ball rolled through his legs and slowly towards the goal line in the 106th minute of the game. Federici tries desperately to stop the ball going over the line after it rolled through his legs and out of his grasp. Reading had fought valiantly but were unable to score another equaliser to take the tie to penalties. Federici lies slumped on the ground as the impact of his error hits him in the FA Cup semi-final against Arsenal. The Reading goalkeeper, who had been magnificent until then, left the field in tears as manager Steve Clarke tries to console him. Federici's opposite number, Wojciech Szczesny (left) of Arsenal comforts his fellow goalkeeper after the game is resolved. Reading: Federici, Gunter, Hector, Pearce, Obita, McCleary, Williams, Chalobah (Cox, 106), Robson-Kanu (Karacan, 90), Mackie, Pogrebnyak (Yakubu, 111). . Subs not used: Stephen Kelly, Norwood, Yakubu, Andersen, Cooper. Booked: Chalobah. Goal: McCleary, 54 . Arsenal: Szczesny, Debuchy, Mertesacker (Gabriel, 63), Koscielny, Gibbs, Coquelin (Walcott, 101), Cazorla, Ramsey, Ozil, Sanchez, Welbeck (Giroud, 72). . Subs not used: Wilshere, Ospina,  Monreal, Flamini. Goals: Sanchez 39, 106. When the final whistle confirmed that it would be Arsenal who will face either Liverpool or Aston Villa here at the end of next month, Federici, 30, put his head down and began to walk purposefully from the pitch, his thoughts fixed on some form of escape, some search for sanctuary. The Reading manager, Steve Clarke, tried to console him but he was inconsolable. As he disappeared down the tunnel, he hung his head and wept. Sure, the bigger picture was that Arsenal now have a chance to become the most successful club in the history of this competition by winning it for the second year in succession. The bigger picture is that this time, their success in the FA Cup seems less like a consolation prize and more like a gateway to a new period of glories at a club that had been starved of them until last season’s Cup final victory over Hull. But above all, this was the kind of human drama that peoples this competition and adds to its legend. ‘I am happy we are through,’ said Arsenal goalkeeper Wojciech Szczesny. ‘But I thought Federici was terrific today. He had the game of his life and they only got to extra-time because of him. He was the best player on the pitch. I really feel for him — I have been there, done that.’. Clarke did his best to ease Federici’s pain, too. ‘This is the life of a goalkeeper,’ said the Reading boss. ‘And Adam is a top goalkeeper. There’s every chance he’ll be Reading’s player of the season this year. His performances in the Championship have been crucial. ‘We stick by him. I understand his worth and the supporters understand how important he is. Adam is a strong character as well. He’ll take his disappointment on the chin and on Wednesday night when we play Birmingham I’m sure he’ll be as good as he always is.’. Clarke also complained that refereeing decisions had counted against his team. He had some justification but nothing can dull the memory of how his side pushed Arsenal all the way. There were times when it seemed Arsene Wenger’s team, who had been pegged back by the Championship strugglers in normal time, might be overwhelmed by the sheer relentless refusal of their opponents to accept defeat and by a team spirit that would not fade. The match became a test of Arsenal’s fortitude as well as their class. In former years, they might have buckled. . Sanchez leaps skywards to celebrate his second goal of the game for Arsenal against Reading. Sanchez (left) rifles Arsenal into the lead against Reading in the FA Cup semi-final against Reading. Arsenal had an inconsistent first half before Sanchez struck clinically after Mesut Ozil passed to him excellently. Sanchez (third right) turns away in celebration as Reading's players lay crumpled on the ground after conceding . Striker Sanchez (right)  celebrates alongside team-mate Keiran Gibbs after scoring for Arsenal against Reading. Gareth McCleary's second-half strike went over the line for Reading after a deflection from Keiran Gibbs . McCleary runs over to the Reading supporters at Wembley to celebrate scoring the equaliser for the Championship side. Reading's players celebrate the goal with McCleary as they pulled themselves level with Arsenal at Wembley in the semi-final. Arsenal manager Arsene Wenger (centre) gives instructions out to his team before the beginning of extra time. Federici’s mistake gave them an escape route that they followed eagerly. They had nearly taken an early lead when Per Mertesacker rose to meet a corner at the near post and Federici had to dive smartly to his left to push it off the line. Later, he produced a stunning one-handed stop to keep out a header from Gabriel. Reading held firm but Arsenal started to exert more and more pressure. Mesut Ozil, in particular, was a delight to watch in possession. There are increasing signs that the German is finally beginning to find his best form and he beguiled Reading with a series of sweet turns and beautifully measured passes. Seven minutes before the interval, Arsenal broke the stalemate. It was Ozil, inevitably, who was the inspiration. He collected the ball midway inside the Reading half, took time to pick his pass and flighted a curling ball to Sanchez in the box. Sanchez did the rest, although the rest was not simple. He controlled the ball on his chest with his back to goal, turned and committed Garath McCleary by shaping to shoot. Then, with time, the Chilean forward prodded the ball past Federici and wheeled away to celebrate. . Gabriel (right), a replacement for Per Mertesacker, powers a header at goal shortly after Reading had scored. But Reading goalkeeper Federici made a splendid one-handed save to tip the ball up and against the crossbar. Sanchez (centre) earlier took the ball past goalkeeper  Federici (second left) before losing his footing and falling. Daniel Williams (left) shoots at goal for Reading against Arsenal at Wembley but his attempt went wide of the goal. It seemed then that Arsenal would extend their lead. Reading’s threat had been negligible. But they came out for the second half with new belief and to the delight of their fans massed behind the goal, they forced an equalizer. Pavel Pogrebnyak must take a lot of the credit for squeezing in a cross when it looked as though he had run out of space near the byline. The ball drifted over Kieran Gibbs’ head and as Szczesny scrambled across his line, McCleary volleyed the ball back across him. Szczesny got his hands to it but he had not been able to prevent it crossing the line. Suddenly, Reading wanted more. Jamie Mackie clipped a lovely chip into the path of Danny Williams on the edge of the box. It fell to him nicely but Williams sliced his volley wildly wide. The game was harum-scarum now. Reading sensed an upset. Mackie urged the fans on and they roared back. But six minutes from the end of normal time, Reading escaped when Aaron Ramsey missed an open goal, crashing a left-foot shot against the post. Ramsey held his head in his hands. Redemption was not far away for him. It will take longer to greet Federici. Arsenal striker Danny Welbeck (centre) has an effort blocked by Reading goalkeeper Adam Federici. Germany defender Mertesacker (left) heads the ball goalwards for Arsenal against Reading. Arsenal attacker  Ozil (left) escapes the attention of Michael Hector (right) of Reading during the semi-final. Laurent Koscielny (centre) leaps up and controls possession as Arsenal took on Reading in the FA Cup semi-final at Wembley. McCleary (left) of Reading takes the ball beyond the challenge of Arsenal player Francois Coquelin . Reading's fans watch on as their Championship side take on Arsenal in the FA Cup semi-final at Wembley on Saturday. Reading manager Clarke gives instructions to his team as they take on Arsenal. Wenger's side failed to hit the level seen in recent games against Reading at Wembley.
+
+
+Arsenal beat Reading [91m1[0m [91m-[0m [91m0[0m in the FA Cup semi-final at the Emirates Stadium. Goals from Alexis Sanchez and [91mJack[0m [91mMcCleary[0m gave Arsenal victory. Reading goalkeeper Adam Federici made an agonising error in extra time. The ball squirmed through his legs and trickled over the line in the 106th minute.
+
+
+['<s>', 'Arsenal', 'Ġbeat', 'ĠReading', 'Ġ1', '-', '0', 'Ġin', 'Ġthe', 'ĠFA', 'ĠCup', 'Ġsemi', '-', 'final', 'Ġat', 'Ġthe', 'ĠEmirates', 'ĠStadium', '.', 'ĠGoals', 'Ġfrom', 'ĠAlexis', 'ĠSanchez', 'Ġand', 'ĠJack', 'ĠMcC', 'le', 'ary', 'Ġgave', 'ĠArsenal', 'Ġvictory', '.', 'ĠReading', 'Ġgoalkeeper', 'ĠAdam', 'ĠFeder', 'ici', 'Ġmade', 'Ġan', 'Ġagon', 'ising', 'Ġerror', 'Ġin', 'Ġextra', 'Ġtime', '.', 'ĠThe', 'Ġball', 'Ġsqu', 'irmed', 'Ġthrough', 'Ġhis', 'Ġlegs', 'Ġand', 'Ġtrick', 'led', 'Ġover', 'Ġthe', 'Ġline', 'Ġin', 'Ġthe', 'Ġ106', 'th', 'Ġminute', '.', '</s>']
+
+
+Analyzing for intrinsic error token:Ġ1
+
+Top 5 Cross Attention
+['Ġ1', '<s>', '</s>', '.', '.']
+['Ġ1', 'ĠReading', '<s>', 'Ġ39', '1']
+['<s>', '</s>', '1', 'Ġ1', 'Ġ39']
+['<s>', 'Ġ1', '</s>', 'Ġagainst', '1']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġextra', '.', 'Ġextra', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '</s>', 'Ġ1', 'Ġpenalties', 'Ġat']
+['<s>', 'Ġ1', '1', '.', '.']
+['<s>', 'Ġ1', '1', '-', '.']
+['<s>', '-', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+Top 5 Decoder Attention
+['<s>', 'ĠReading', 'Arsenal', 'Ġ1', 'Ġbeat']
+['<s>', 'ĠReading', 'Ġbeat', 'Ġ1', 'Arsenal']
+['<s>', 'ĠReading', 'Ġbeat', 'Ġ1', 'Arsenal']
+['<s>', 'ĠReading', 'Ġbeat', 'Ġ1', 'Arsenal']
+['<s>', 'Ġbeat', 'ĠReading', 'Arsenal', 'Ġ1']
+['<s>', 'Ġbeat', 'ĠReading', 'Ġ1', 'Arsenal']
+['<s>', 'Ġbeat', 'ĠReading', 'Ġ1', 'Arsenal']
+['<s>', 'ĠReading', 'Ġbeat', 'Ġ1', 'Arsenal']
+['<s>', 'ĠReading', 'Ġbeat', 'Ġ1', 'Arsenal']
+['<s>', 'ĠReading', 'Ġ1', 'Ġbeat', 'Arsenal']
+['<s>', 'Ġ1', 'ĠReading', 'Ġbeat', 'Arsenal']
+['<s>', 'ĠReading', 'Ġ1', 'Ġbeat', 'Arsenal']
+Analyzing for token before intrinsic error:ĠReading
+
+Top 5 Cross Attention
+['<s>', 'ĠReading', 'ĠReading', 'ĠReading', 'ĠReading']
+['ĠReading', 'ĠReading', '<s>', 'ĠReading', 'ĠReading']
+['<s>', 'ĠReading', 'ĠReading', 'ĠReading', 'ĠReading']
+['ĠReading', '<s>', 'ĠReading', 'ĠReading', 'ĠReading']
+['<s>', 'Ġagainst', 'ĠArsenal', 'ĠReading', 'ĠArsenal']
+['<s>', 'Ġthe', 'Ġthe', 'Ġagainst', 'Ġof']
+['<s>', '.', '.', '.', '.']
+['<s>', '</s>', 'ĠReading', 'ĠReading', 'Ġagainst']
+['<s>', 'ĠReading', 'Ġof', 'Ġpenalties', 'ĠFA']
+['<s>', 'Ġ1', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġ1', 'Ġ39', '.', '.']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Arsenal', 'ĠReading', 'Ġbeat', 'Ġ1']
+['<s>', 'ĠReading', 'Arsenal', 'Ġbeat', 'Ġ1']
+['<s>', 'ĠReading', 'Ġbeat', 'Arsenal', 'Ġ1']
+['<s>', 'Arsenal', 'ĠReading', 'Ġbeat', 'Ġ1']
+['<s>', 'Ġbeat', 'ĠReading', 'Arsenal', 'Ġ1']
+['<s>', 'Ġbeat', 'ĠReading', 'Arsenal', 'Ġ1']
+['<s>', 'Ġbeat', 'ĠReading', 'Arsenal', 'Ġ1']
+['<s>', 'Ġbeat', 'ĠReading', 'Arsenal', 'Ġ1']
+['<s>', 'Ġbeat', 'ĠReading', 'Arsenal', 'Ġ1']
+['<s>', 'Ġbeat', 'ĠReading', 'Arsenal', 'Ġ1']
+['<s>', 'ĠReading', 'Ġbeat', 'Arsenal', 'Ġ1']
+['<s>', 'ĠReading', 'Ġbeat', 'Arsenal', 'Ġ1']
+
+
+
+Analyzing for intrinsic error token:ĠAlexis
+
+Top 5 Cross Attention
+['ĠAlexis', 'ĠAlexis', '<s>', '.', '.']
+['ĠAlexis', 'ĠSanchez', 'ĠSanchez', 'ĠAlexis', 'ĠSanchez']
+['<s>', 'ĠAlexis', 'ĠAlexis', '</s>', 'ĠSanchez']
+['<s>', 'ĠSanchez', 'ĠAlexis', 'ĠAlexis', 'ary']
+['<s>', 'ĠSanchez', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'ĠSanchez', 'ĠSanchez', 'ĠSanchez', 'ĠSanchez']
+['<s>', 'ĠAlexis', 'ĠAlexis', 'ĠSanchez', 'ĠSanchez']
+['<s>', 'ĠSanchez', 'ĠSanchez', 'ĠSanchez', 'ĠAlexis']
+['ĠSanchez', 'ĠSanchez', 'ĠSanchez', 'ĠSanchez', '<s>']
+['<s>', 'ĠSanchez', 'ĠSanchez', 'ĠSanchez', '.']
+Top 5 Decoder Attention
+['<s>', 'Ġfrom', '.', 'ĠAlexis', 'Arsenal']
+['<s>', 'Ġfrom', 'ĠGoals', '.', 'ĠAlexis']
+['<s>', 'Ġfrom', 'ĠAlexis', 'ĠReading', 'Arsenal']
+['<s>', '.', 'ĠAlexis', 'ĠReading', 'Ġfrom']
+['<s>', 'Ġfrom', 'ĠReading', '.', 'ĠGoals']
+['<s>', 'Ġfrom', 'ĠGoals', 'ĠAlexis', '.']
+['<s>', 'ĠAlexis', 'Ġfrom', 'ĠGoals', '.']
+['<s>', 'ĠAlexis', 'Ġfrom', 'ĠGoals', '.']
+['<s>', 'ĠAlexis', 'Ġfrom', 'ĠGoals', '.']
+['<s>', 'ĠAlexis', 'Ġfrom', 'ĠGoals', '.']
+['<s>', 'ĠAlexis', 'Ġfrom', '.', 'ĠGoals']
+['<s>', 'ĠAlexis', 'Ġfrom', '.', 'ĠGoals']
+Analyzing for token before intrinsic error:Ġfrom
+
+Top 5 Cross Attention
+['<s>', ':', 'Ġfrom', 'Ġfrom', '</s>']
+['ĠGoals', ':', 'Ġfrom', '<s>', '1']
+['<s>', '</s>', 'ĠGoals', '.', '.']
+['<s>', 'Ġfrom', 'ĠGoals', ',', 'ĠGoal']
+['<s>', 'ĠSanchez', '1', ',', '.']
+['<s>', 'ĠGoals', '1', 'ĠSanchez', 'Ġ39']
+['<s>', 'ĠSanchez', '</s>', '.', '.']
+['<s>', 'ĠSanchez', '</s>', 'Ġ39', 'âĢ']
+['<s>', 'ĠSanchez', ':', 'Ġ39', 'ary']
+['ĠSanchez', '<s>', 'Ġ39', 'ĠMcC', 'ary']
+['ĠSanchez', 'ĠMcC', 'ĠAlexis', 'ĠAlexis', 'ary']
+['<s>', 'ĠMcC', 'ĠSanchez', 'ary', 'Ġ39']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'ĠGoals', '.', 'Arsenal', 'Ġfrom']
+['<s>', 'ĠGoals', '.', 'Ġfrom', 'Arsenal']
+['<s>', 'ĠGoals', 'Arsenal', 'ĠReading', '.']
+['<s>', 'ĠGoals', '.', 'ĠReading', 'Ġfrom']
+['<s>', 'ĠGoals', '.', 'ĠReading', 'Ġfrom']
+['<s>', 'ĠGoals', '.', 'Ġfrom', 'ĠReading']
+['<s>', 'ĠGoals', 'Ġ1', 'Ġfrom', '.']
+['<s>', 'ĠGoals', 'Ġfrom', '.', 'ĠReading']
+['<s>', 'ĠGoals', 'Ġfrom', '.', 'ĠReading']
+['<s>', 'Ġfrom', 'ĠGoals', '.', 'ĠReading']
+['<s>', 'Ġfrom', 'ĠGoals', '.', 'ĠReading']
+['<s>', 'Ġfrom', '.', 'ĠGoals', 'Ġbeat']
+
+
+
+Bayern Munich will be without midfielders Bastian Schweinsteiger and Franck Ribery when they travel to Porto for Wednesday's Champions League quarter-final first leg. Frenchman Ribery is not yet fully fit following a five-week absence with an ankle injury while Schweinsteiger has had a virus for the past few days. 'Bastian and Franck will not be with us against Porto. That is bitter,' sports director Matthias Sammer said on Monday as the problems started to pile up for the treble-chasing Bavarians. Bayern boss Pep Guardiola has a long injury list to contend with as he aims for domestic and European glory. Bastian Schweinsteiger lies injured on the pitch during Bayern's 1-0 win against Borussia Dortmund on April 4. Medhi Benatia, David Alaba, Javi Martinez and Arjen Robben had already been sidelined by injuries. Jerome Boateng, who was rested for Saturday's 3-0 win over Eintracht Frankfurt due to a minor muscle problem, is back in the squad. 'Those who are with us have our full trust,' Sammer told reporters ahead of the team's departure for Portugal later on Monday. 'The team is hungry.' Bayern are 10 points clear at the top of the Bundesliga and are also through to the German Cup semi-finals. Bayern Munich defender Medhi Benatia (right) suffered a muscle injury against Bayer Leverkusen. Franck Ribery (left) is absent with an ankle injury while Arjen Robben is out with a stomach muscle tear.  .
+
+
+Bayern Munich travel to Porto for Champions League quarter-final first leg. Bastian Schweinsteiger and Franck Ribery are both out with [91minjuries[0m. Pep Guardiol's side are 10 points clear at the top of the Bundesliga. Bayern are also through to the German Cup semi-finals.
+
+
+['<s>', 'Bay', 'ern', 'ĠMunich', 'Ġtravel', 'Ġto', 'ĠPort', 'o', 'Ġfor', 'ĠChampions', 'ĠLeague', 'Ġquarter', '-', 'final', 'Ġfirst', 'Ġleg', '.', 'ĠBast', 'ian', 'ĠSchwe', 'in', 'ste', 'iger', 'Ġand', 'ĠFran', 'ck', 'ĠR', 'iber', 'y', 'Ġare', 'Ġboth', 'Ġout', 'Ġwith', 'Ġinjuries', '.', 'ĠPep', 'ĠGuard', 'iol', "'s", 'Ġside', 'Ġare', 'Ġ10', 'Ġpoints', 'Ġclear', 'Ġat', 'Ġthe', 'Ġtop', 'Ġof', 'Ġthe', 'ĠBundesliga', '.', 'ĠBayern', 'Ġare', 'Ġalso', 'Ġthrough', 'Ġto', 'Ġthe', 'ĠGerman', 'ĠCup', 'Ġsemi', '-', 'finals', '.', '</s>']
+
+
+Analyzing for intrinsic error token:Ġinjuries
+
+Top 5 Cross Attention
+['Ġinjuries', '<s>', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '</s>', '.', '.']
+['<s>', 'Ġinjuries', 'Ġan', 'Ġinjury', 'Ġan']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', ',', '</s>', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['.', '.', '.', '.', '.']
+Top 5 Decoder Attention
+['<s>', 'Ġwith', 'Ġinjuries', 'Ġout', 'Bay']
+['<s>', 'Ġwith', 'Ġinjuries', 'Ġout', 'Ġare']
+['<s>', 'Ġwith', 'Ġinjuries', 'Ġare', '.']
+['<s>', 'Ġwith', 'Ġinjuries', 'Ġout', '.']
+['<s>', 'Ġboth', 'Ġwith', '.', 'Ġinjuries']
+['<s>', 'Ġwith', 'Ġboth', 'Ġand', 'Ġinjuries']
+['<s>', 'Ġwith', 'Ġinjuries', 'Ġboth', 'Ġare']
+['<s>', 'Ġwith', 'Ġboth', 'Ġinjuries', 'Ġout']
+['<s>', 'Ġwith', 'Ġboth', 'Ġout', 'Ġinjuries']
+['<s>', 'Ġwith', 'Ġinjuries', 'Ġout', '.']
+['<s>', 'Ġinjuries', 'Ġwith', 'Ġout', '.']
+['<s>', 'Ġinjuries', 'Ġwith', 'Ġout', 'y']
+Analyzing for token before intrinsic error:Ġwith
+
+Top 5 Cross Attention
+['<s>', 'Ġwith', 'Ġwith', '</s>', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġwith', 'Ġinjury', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġinjury', 'Ġinjury', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['Ġankle', '.', '.', '.', '.']
+['.', '.', '.', '.', '.']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Ġout', 'Ġwith', 'Bay', 'Ġboth']
+['<s>', 'Ġout', 'Ġboth', 'Ġwith', 'Ġare']
+['<s>', 'Ġout', 'Ġare', 'Ġboth', 'Ġwith']
+['<s>', 'Ġout', 'Ġboth', 'Ġare', 'Ġwith']
+['<s>', 'Ġout', 'Ġboth', '.', 'Ġwith']
+['<s>', 'Ġboth', 'Ġout', 'Ġand', 'Ġwith']
+['<s>', 'Ġout', 'Ġboth', 'Ġwith', 'Ġfirst']
+['<s>', 'Ġboth', 'Ġwith', 'Ġout', 'Ġare']
+['<s>', 'Ġout', 'Ġwith', 'Ġboth', 'y']
+['<s>', 'Ġwith', 'Ġout', 'Ġboth', 'y']
+['<s>', 'Ġwith', 'Ġboth', 'Ġout', 'y']
+['<s>', 'Ġwith', 'Ġout', 'Ġboth', 'y']
+
+
+
+They're the best of friends who work and play together, so it's hardly surprising that Gigi Hadid has picked up some words of wisdom from Kendall Jenner. The 19-year-old model took inspiration from the Keeping Up With The Kardashians star when it came to learning how to deal with negative feedback, particularly on social media. Speaking to Style.com, Gigi said: 'From Kendall I learned how to deal with the haters. She has a really good sense of when to stand up [on social media] and when to back off.' Scroll down for video  . Gigi Hadid has credited her best friend Kendall Jenner, right, for helping her deal with social media haters. And it's not only Kendall, 19, who Gigi has taken social media tips from as she believes former Victoria's Secret model Karlie Kloss is comfortable with her social media persona. She added: 'I think she does such a good job of showing who she is. She lets her personality really shine in her Instagram.' While Kendall Jenner is taking the fashion world by the storm, she has her fair share of haters. . The fledgling model's meteoric rise as a professional runway model reportedly sparked the ire and resentment of some of her colleagues, according to a report. . At New York Fashion Week, Kendall was allegedly bullied by her fellow models, who even went so far as to put cigarettes out in her drink. . In another incident, Lexi Boling, along with fellow model Binx Walton, left cruel comments on a pre-show image of Kendall shared on Vogue Germany's Instagram feed. The 19-year-old model took inspiration from the Keeping Up With The Kardashians star when it came to learning how to deal with negative feedback. Gigi said that Kendall has a really good sense of when to stand up [on social media] and when to back off. Lexi, 21, tagged her friend Binx, 20, in the comment: '@binxwalton she's never looked better,' with a crying with laughter emoticon. Teen Vogue cover star Binx replied: 'That's f****d up,' with the same animated laughing face. The two comments have since been deleted from the Vogue Germany photo, but followers' horrified responses remain. Lexi has since apologised for the comment. In a statement issued via a representative to E! News, she said: 'I wasn't thinking and made a silly comment. Kendall's had a killer NYFW. A big congrats to her!' Gigi, centre, is best friends with fellow supermodels Cara Delevingne, left, and Kendall, right. The latter remark is certainly true. Kendall is unarguably one of the world's most in-demand stars. Her appearance in a Chanel fashion show in New York City on Tuesday was case in point. Kendall and her best friend Cara Delevingne were linked as they closed the Paris-Salzburg 2014/15 Metiers d'Art Collection at Park Avenue Armory in two very unique and elaborate ensembles - Kendall in black, Cara in white. . And shadowing the young beauties was the designer himself, Karl Lagerfeld. . Gigi, Cara and Kendall looked delighted to be reunited at Wednesday night's Chanel event . Frame Denim Le Skinny de Jeanne mid rise jeans. Buy at Nordstrom. Visit site. BFFs Cara Delevingne and Kendall Jenner were back together again at Karl Lagerfeld's Chanel cruise, but it wasn't the only reunion of the night. Kendall was kitted out in a pair of monochrome printed trousers but Cara opted for her favorite super distressed skinny jeans by Frame Denim. We've spotted her in them several times before and it's easy to see why. They've got a great snug fit, are mid-rise which is easy to wear and of course all that on trend shredding makes them a must have. Unfortunately you can't buy these exact design anymore but click right to Neiman Marcus now to get a similar design from Neiman Marcus. Style like Cara with some lace up boots and a sports luxe sweater. Or work a simple tee and heels for fashion editor edge. Price putting you off? Then get the look for a lot less with our high street edit below. Topshop ripped black jeans at Nordstrom. Visit site. Missguided Brigitte ripped jeans. Visit site. Boohoo Chloe ripped black jeans. Visit site. Joe's Jeans Finn ripped jeans. Visit site.  .
+
+
+Gigi, 19, said she learned how to deal with negative feedback from Kendall. She said she has a good sense of when to stand up and when to back off. Gigi is best friends with Kendall, Cara Delevingne and [91mKarlie[0m [91mKloss[0m. Kendall was allegedly bullied by fellow models at New York Fashion Week.
+
+
+['<s>', 'G', 'igi', ',', 'Ġ19', ',', 'Ġsaid', 'Ġshe', 'Ġlearned', 'Ġhow', 'Ġto', 'Ġdeal', 'Ġwith', 'Ġnegative', 'Ġfeedback', 'Ġfrom', 'ĠKendall', '.', 'ĠShe', 'Ġsaid', 'Ġshe', 'Ġhas', 'Ġa', 'Ġgood', 'Ġsense', 'Ġof', 'Ġwhen', 'Ġto', 'Ġstand', 'Ġup', 'Ġand', 'Ġwhen', 'Ġto', 'Ġback', 'Ġoff', '.', 'ĠGig', 'i', 'Ġis', 'Ġbest', 'Ġfriends', 'Ġwith', 'ĠKendall', ',', 'ĠCar', 'a', 'ĠDele', 'ving', 'ne', 'Ġand', 'ĠKarl', 'ie', 'ĠKl', 'oss', '.', 'ĠKendall', 'Ġwas', 'Ġallegedly', 'Ġbullied', 'Ġby', 'Ġfellow', 'Ġmodels', 'Ġat', 'ĠNew', 'ĠYork', 'ĠFashion', 'ĠWeek', '.', '</s>']
+
+
+Analyzing for intrinsic error token:ĠKarl
+
+Top 5 Cross Attention
+['ĠKarl', '<s>', 'ĠKarl', 'ĠKarl', 'models']
+['<s>', 'ie', 'ĠKarl', 'ĠKarl', 'ĠKendall']
+['<s>', '</s>', 'ĠKarl', 'ĠKarl', 'ĠKendall']
+['<s>', 'ĠKarl', 'ĠKarl', 'ĠKarl', '</s>']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '</s>', 'ĠKarl', 'feld', 'ĠKarl']
+['<s>', 'ĠKarl', 'ĠKarl', 'ĠKarl', '.']
+['<s>', 'ĠL', 'ie', '.', '.']
+['ĠL', 'ie', '<s>', 'ĠL', 'ĠKl']
+['ĠL', '<s>', 'ie', 'ĠL', 'ĠKl']
+Top 5 Decoder Attention
+['<s>', 'Ġand', 'ĠKarl', 'ne', 'G']
+['<s>', 'Ġand', ',', 'ne', 'Ġwith']
+['<s>', 'Ġand', 'ĠKarl', 'ĠKendall', ',']
+['<s>', 'Ġand', 'ĠKendall', 'ĠKarl', 'ne']
+['<s>', 'Ġand', 'ne', '.', 'Ġwith']
+['<s>', 'Ġand', 'ne', 'Ġwith', 'ĠKarl']
+['<s>', 'Ġand', 'ĠKarl', 'Ġwith', 'ne']
+['<s>', 'Ġand', 'Ġwith', 'ne', 'ĠKarl']
+['<s>', 'ĠKarl', 'Ġand', 'Ġwith', 'ne']
+['<s>', 'Ġand', 'ĠKarl', 'ne', 'ĠDele']
+['<s>', 'ĠKarl', 'Ġand', 'i', 'ne']
+['<s>', 'ĠKarl', 'Ġand', 'ne', 'ĠKendall']
+Analyzing for token before intrinsic error:Ġand
+
+Top 5 Cross Attention
+['Ġand', '<s>', '</s>', '.', '.']
+['Ġand', '<s>', 'ĠKendall', 'Ġand', 'Ġwith']
+['<s>', 'Ġand', 'Ġand', 'ĠCar', 'Ġwith']
+['<s>', 'Ġand', 'ĠKendall', '</s>', 'Ġwith']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġand', '.', '.', '.']
+['<s>', '</s>', 'Ġwith', '.', '.']
+['<s>', ',', '.', '.', '.']
+['<s>', 'ĠKarl', 'i', '.', '.']
+['ĠKarl', 'ĠKarl', 'feld', 'feld', 'ĠKarl']
+['<s>', '</s>', 'ĠLex', 'Ġthe', 'ĠKarl']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'ne', 'Ġand', 'G', 'ving']
+['<s>', 'ne', 'Ġand', 'Ġwith', 'ĠCar']
+['<s>', 'ĠCar', 'ne', 'Ġand', 'Ġwith']
+['<s>', ',', 'Ġand', 'ĠKendall', 'Ġwith']
+['<s>', 'Ġwith', 'ne', 'Ġfriends', 'Ġis']
+['<s>', 'Ġwith', 'ne', 'Ġfriends', 'ĠKendall']
+['<s>', 'ne', 'Ġwith', 'Ġand', 'Ġfriends']
+['<s>', 'Ġwith', 'Ġfriends', 'Ġand', 'ne']
+['<s>', 'ne', 'Ġwith', 'a', 'Ġand']
+['<s>', 'Ġand', 'ĠKendall', 'Ġwith', 'ĠCar']
+['<s>', 'Ġand', 'ĠKendall', 'Ġwith', ',']
+['<s>', 'Ġand', 'ĠKendall', 'Ġwith', 'a']
+
+
+
+The mighty boot of Marcelo Bosch kept the English flag flying in Europe as the Argentinian kicked Saracens through to the Champions Cup semi-finals with a famous last-minute penalty. No chorus of boos or whistles would stop the sweet strike rising above the 1950s tower blocks in the Colombes suburbs, with the ice cool 31-year-old mobbed by players and coaches as Racing Metro 92 were unceremoniously dumped out of the competition. It was the South American’s finest moment since he arrived on continental shores. Referee Nigel Owens was escorted off the pitch by security but his call –penalising replacement lock Fabrice Metz with 10 seconds left on the clock – was the correct decision and ensured a classic finale to match bereft or flair and finesse. . Scenes of elation as Saracens clinch victory with the last play of the match against Racing Metro 92. Marcelo Bosch kicks the match-winning penalty from long-range to snatch Saracen's a semi-final berth. Argentine Bosch raises his arms aloft after being entrusted with the final kick of the game . Bosch jumps into the arms of Rhys Gills after his successful kick as Hodgson joins the celebrations. Bosch is mobbed by his elated Sarries team-mates after his kick sails over the posts for the win. England's first team through to the semi-finals in the European Rugby Champions Cup semis celebrate.  . RACING METRO 92: Dulin, Imhoff, Chavancy, Roberts, Thomas, Sexton, Machenaud, Ben Arous, Szarzewski, Ducalcon, Charteris, Van Der Merwe, Lauret, Gerondeau, Claassen. Replacements: Lacombe, Brugnaut, Mujati, Metz, Dubarry, Phillips, Goosen, Dumoulin. Tries: Machenaud Penalties: Machenaud (2) Conversions: Nil . Referee: Nigel Owens (Wales) . SARACENS: Goode, Ashton, Bosch, Wyles, Strettle, Hodgson, Wigglesworth, M. Vunipola, George, Du Plessis, Kruis, J. Hamilton, Wray, Burger, B. Vunipola. Replacements: Brits, Barrington, Johnston, Itoje, Brown, Hankin, De Kock, Tompkins. Tries: Nil Penalties: Hodgson (2), Goode, Bosch Conversions: Nil . ‘The last time I kicked to win the game was when I was 21 and playing for an amateur club in Argentina,’ said Bosch. 'It was from more or less the same range and it was against our clasico rivals. It was a great memory for me, but it was a long time ago. ‘I tried to be as relaxed as possible. We had the wind in our face and I didn’t want to force it. I tried not to think about what it represented and I said, “Why not? I can take it.” The rest is history. With kicks like this, you’re either the hero or the bad guy - I’m happy that it went my way.’. It was the sort of strike that was associated with Ronan O’Gara during his illustrious playing career with Munster and Ireland. The retired No 10, now kicking coach for the Top 14 side, watched helplessly from the stands of the Stade Olympique Yves-du-Manoir as the ball sailed between the posts to set up a knockout meeting with Clermont in Saint Etienne. . Alex Goode leaps the tackle of Juan Imhoff during the Champions Cup quarter-final outside Paris. Charlie Hodgson kicks the first penalty of the match to give Saracens a 3-0 lead. Sarries full back Alex Goode (centre) evades Racing's Welsh centre Jamie Roberts (right) Racing and France scrum-half Maxime Machenaud crosses for the only try of the first half in outer Paris. CLERMONT v SARACENS, Stade Geoffroy-Guichard, St Etienne, Saturday, April 18, 3.15pm (GMT) TOULON v LEINSTER, Stade Vélodrome, Marseille, Sunday,     April 19, 3.15pm (GMT) Racing are a team who, in their early years, would play wearing berets and bow ties. They would drink champagne at half time but this was an abrasive and at times unabsorbing encounter, offering little to inspire the Parisian painters couched on the sidelines to capture the moments of magic. The partisan home crowd were angered by two of Owens’ decisions in the opening quarter, with the Welshman not penalising Alex Goode for a block on French winger Teddy Thomas and scratching off a potential try for Dimitri Szarzewski because of a knock on. Charlie Hodgson kicked two first-half penalties – either side of a 27th minute try for Maxime Machenaud after Saracens lost an attacking scrum - Jim Hamilton was shown a yellow card, the tourists were fortunate to go into the break with a one-point advantage. ‘We weren't great in the first half, even though we had a very strong wind,’ said Saracens director of rugby Mark McCall. ‘We were unable to build any pressure. Playing into that very strong wind and with Jonny Sexton playing No 10 for the opposition, being 6-5 up at half time felt like a mountain to climb.  . Marcelo Bosch is an Argentine utility back who moved to Europe in 2006 to play for Biarritz. He joined Saracens in the 2013-14 season and has featured predominantly at centre. He is not Saracens’ first-choice kicker - Owen Farrell, Charlie Hodgson and Alex Goode are all above him - but he has a hugely powerful strike. It’s earned him cult status with the Allianz Park crowd, who chant ‘Bosch, Bosch, Bosch’ whenever he lines up one of his kicks. As a teenager, Bosch played football in Buenos Aires but claims that it was always his dream to play rugby in England. He married Augustina last summer and they are expecting twins. . Bosch's football skills aid his powerful kicking. Racing Metro 92 winger Teddy Thomas shows his speed to avoid Chris Wyles and escape the in-goal area. Sarries' stand-in captain Hodgson places his grubber kick underneath Wenceslas Lauret. Racing Metro and Ireland fly-half Jonny Sexton (left) locks horns with Sarries winger David Strettle. Strettle is upended going for a high ball against Racing's Brice Dulin, who escapes a yellow card . ‘But that's where it turned around and I'd say our second half performance was as courageous, brave and hard working as I've seen. We went hunting and kept knocking them down, scrapping for absolutely everything. Our rugby could have been better and it wasn't a beauty of a match, but we put them under enough pressure to make some errors and give us a chance.’. Cigarette smoke filled the air and, having never previously progressed from the pool stages, the hosts looked like they were choking on the pressure. Racing did most of the running but Saracens edged further ahead, with Goode also adding his weight to the kicking with a 47th minute penalty. Wales and Racing centre Jamie Roberts threatened in attack, but was hauled off in the 52nd minute. Bosch then tackled his countryman Juan Imhoff just short of the line – although the pitch-length move was subsequently pulled back for a forward pass – and Billy Vunipola intervened with a crucial turnover to snuff out a Racing attack. But Saracens were unable to build upon their lead and, just past the hour mark, Racing narrowed the gap thanks to three points from Machenaud. A game of kick tennis ensued and the French No 9 pushed his side into the lead with his second penalty 10 minutes later. The blue and white flags were waving and the bass drum was beating but, sacrebleu, Metro tried to run down the clock. Then Metz came flying off his feet at the crucial moment. Bosch stepped up for the penalty and, after a short run up, his kick floated gracefully between the sticks. . England No 8 Billy Vunipola fends off Racing centre Henri Chavancy   at Yves Du Manoir Stadium in Colombes. Sexton fires a bullet-like pass as he clears the ball from the ruck against Saracens. Sarries winger Chris Ashton gets a kick away under the tackle of Argentinean Juan Imhoff.
+
+
+[91mAlex[0m [91mGoode[0m [91m,[0m [91mMarcelo[0m [91mBosch[0m [91mand[0m Maxime Machenaud crossed for [91mSarries[0m. Charlie Hodgson kicked the first penalty of the match to give Sarries a 3-0 lead. Fabrice Metz was sin-binned with 10 seconds left on the clock. Bosch kicked the match-winning penalty from long-range to snatch Saracens a semi-final berth.
+
+
+['<s>', 'Alex', 'ĠGood', 'e', ',', 'ĠMarcel', 'o', 'ĠBos', 'ch', 'Ġand', 'ĠMax', 'ime', 'ĠMac', 'hen', 'aud', 'Ġcrossed', 'Ġfor', 'ĠSar', 'ries', '.', 'ĠCharlie', 'ĠHodg', 'son', 'Ġkicked', 'Ġthe', 'Ġfirst', 'Ġpenalty', 'Ġof', 'Ġthe', 'Ġmatch', 'Ġto', 'Ġgive', 'ĠSar', 'ries', 'Ġa', 'Ġ3', '-', '0', 'Ġlead', '.', 'ĠFab', 'rice', 'ĠMet', 'z', 'Ġwas', 'Ġsin', '-', 'bin', 'ned', 'Ġwith', 'Ġ10', 'Ġseconds', 'Ġleft', 'Ġon', 'Ġthe', 'Ġclock', '.', 'ĠBos', 'ch', 'Ġkicked', 'Ġthe', 'Ġmatch', '-', 'winning', 'Ġpenalty', 'Ġfrom', 'Ġlong', '-', 'range', 'Ġto', 'Ġsnatch', 'ĠSar', 'ac', 'ens', 'Ġa', 'Ġsemi', '-', 'final', 'Ġberth', '.', '</s>']
+
+
+Analyzing for intrinsic error token:Alex
+
+Top 5 Cross Attention
+['<s>', '</s>', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '</s>', '.', '.', '.']
+['<s>', '</s>', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '</s>', '.', '.', '.']
+['<s>', '</s>', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['ĠFab', '<s>', '.', '.', '.']
+Top 5 Decoder Attention
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+Analyzing for token before intrinsic error:<s>
+
+Top 5 Cross Attention
+['<s>', '</s>', '.', '.', '.']
+['</s>', ',', '-', ',', '-']
+['<s>', '</s>', ',', ',', '-']
+['<s>', '</s>', '-', ',', '-']
+['<s>', ',', ',', 'ĠI', 'ĠScenes']
+['</s>', '-', '-', '-', '-']
+['<s>', 'Ġand', 'Ġflag', 'Ġcontinental', ',']
+['<s>', '-', '</s>', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '</s>', 'ĠMarcel', 'ĠMarcel', '.']
+['ĠCharlie', 'ĠMax', '<s>', 'ĠMarcel', 'ĠMarcel']
+['ĠArgentine', 'ĠCharlie', 'ĠMarcel', 'ĠEngland', 'ĠMax']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+['<s>', 'Alex', 'ĠGood', 'e', ',']
+
+
+
+Analyzing for intrinsic error token:ch
+
+Top 5 Cross Attention
+['<s>', 'ch', 'ch', 'ch', 'ch']
+['<s>', 'ch', 'ch', 'ch', 'ch']
+['<s>', 'ch', 'ch', 'ch', 'ch']
+['<s>', ',', '),', ':', '-']
+['<s>', ',', '.', '.', '.']
+['<s>', ',', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', ',', 'Ġpenalty', '</s>', '.']
+['<s>', 'ch', 'Ġpenalty', '.', '.']
+['<s>', '.', '.', '.', '.']
+['Ġpenalty', 'Ġkicks', 'Ġpenalty', '<s>', '.']
+['.', '.', '.', '.', '.']
+Top 5 Decoder Attention
+['<s>', 'ĠBos', 'Alex', 'ch', 'o']
+['<s>', 'ĠBos', ',', 'ĠMarcel', 'ch']
+['<s>', ',', 'ĠBos', 'Alex', 'ch']
+['<s>', ',', 'ĠGood', 'Alex', 'ĠBos']
+['<s>', ',', 'e', 'ĠGood', 'Alex']
+['<s>', ',', 'ch', 'e', 'Alex']
+['<s>', ',', 'ch', 'Alex', 'o']
+['<s>', ',', 'e', 'ch', 'Alex']
+['<s>', ',', 'ĠBos', 'e', 'ch']
+['<s>', ',', 'ch', 'e', 'o']
+['<s>', 'ch', 'e', ',', 'Alex']
+['<s>', 'ch', 'e', 'Alex', ',']
+Analyzing for token before intrinsic error:ĠBos
+
+Top 5 Cross Attention
+['<s>', 'ĠBos', 'ĠBos', 'ĠBos', 'ĠBos']
+['<s>', 'ĠBos', 'ĠBos', 'ĠBos', '.']
+['<s>', 'ĠBos', '</s>', 'ĠBos', '.']
+['<s>', 'ĠBos', '</s>', 'ĠBos', 'ĠBos']
+['<s>', '.', '.', '.', '.']
+['<s>', ',', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'ĠBos', 'ĠBos', '.', '.']
+['<s>', 'ch', 'ch', 'ch', '.']
+['<s>', 'ch', 'ch', 'ch', 'ch']
+['<s>', 'ch', 'ch', 'ch', 'ch']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Alex', 'o', 'ĠMarcel', 'ĠBos']
+['<s>', 'o', 'Alex', ',', 'ĠMarcel']
+['<s>', 'Alex', 'ĠBos', 'o', 'ĠGood']
+['<s>', 'Alex', 'e', 'ĠGood', ',']
+['<s>', 'e', ',', 'Alex', 'ĠGood']
+['<s>', ',', 'e', 'Alex', 'ĠGood']
+['<s>', 'o', ',', 'e', 'Alex']
+['<s>', 'Alex', 'o', ',', 'e']
+['<s>', 'Alex', 'o', 'ĠBos', 'e']
+['<s>', 'Alex', 'o', 'e', 'ĠBos']
+['<s>', 'ĠBos', 'Alex', 'o', ',']
+['<s>', 'Alex', 'ĠBos', 'o', 'e']
+
+
+
+Bayern Munich cruised to a 6-1 victory against Champion's League rivals Porto last night. . But not all eyes were on the pitch for the whole 90 minutes, as the German club's manager Pep Guardiola broke the highly dramatic atmosphere with a moment of sartorial comedy. To put it bluntly, he split his pants. A flash of upper thigh and navy boxers made themselves known as he strode up and down the touchline shouting commands at his players. . SCROLL DOWN FOR VIDEO . Sartorial slip-up: Bayern Munich manager Pep Guardiola runs through tactics with his players, while ignoring the draft that has emerged at the top of his left leg . A hint of navy: Guardiola's tight-fitting trousers before the tear (left) and after the rip (right) during Bayern Munich's 6-1 victory over Porto. The Spanish tactician, who teamed his tight, grey suit with a navy pullover, black tie and crisp white shirt, joked after the clash: 'I'll have to buy new ones for the next match.' . Guardiola wouldn't be the only famous face guilty of stepping into a suit that is a little on the snug side. The current trend for wearing a whistle and flute that is at least a size too small, presumably to showcase a well-honed physique, has seen plenty of stars sail a little close to the wardrobe malfunction wind. So, who's guilty of worshipping at the altar of super-tight slacks? . Russell Brand. Guilty. Dermot O'Leary. Guilty. Olly Murs. In danger of restricting the blood flow. . Yes, it's officially a wardrobe malfunction...but has Guardiola simply fallen foul of wearing a suit that is a little on the snug side? Blame 007: Daniel Craig wore a close-fitting Tom Ford suit in 2012 Bond movie Skyfall...and thousands of men followed the trend. And breathe! If Beckham gets the snug look just right, his fellow Essex boys, including Jeff Brazier (pictured right) are guilty of going a little too tight. The rock star's take on the whistle and flute: Harry Styles doesn't bother with a jacket but his trousers are certainly skinny, while Russell Brand goes for a second (snake)skin with his casual version of the suit. King of the second skin! Dermot O'Leary rarely wears a suit that could be described as roomy. The trend for a tighter fit has emerged in recent years with 'skinny', 'slim' and 'heritage' fits all offering a snugger-looking silhouette. Cast an eye back three years and the most recent incarnation of James Bond, in Sam Mendes' 2012 movie Skyfall, was seen wearing the kind of form-fitting suit that makes you wonder how it might have been possible to wear it AND brawl on top of a train while hurtling through Turkey. . Throughout the film, an unruffled Daniel Craig sported a grey, tailored suit by Tom Ford which may have been the catalyst for other celebrities wearing a similar look. During his just-ended eight-year reign on The X Factor, Dermot O'Leary's suits have got progressively smaller, seeing him once forced to reach for a safety pin moments before presenting the live show. O'Leary said at the time: 'I remember having a wardrobe malfunction on The X Factor. . 'I had this tight-fitting Alexander McQueen suit and felt the trousers rip…from pole to pole, shall we say. I just had to skilfully apply a safety pin and hope for the best. It was terrifying.' . High street menswear retailer Hawes & Curtis told FEMAIL that figure-hugging clothes are no longer just for women. Not much room to give! Olly Murs, who split his trousers on stage in Sheffield in 2012, sails close to the wind again here while performing at the V Festival in 2013. A thigh-ful! Towie stars Dan Osborne and Joey Essex are both partial to leaving little to the imagination when it comes to formal wear . Edward Smith, head of brand for the company said: 'The skinny look has taken over everyone's wardrobe, regardless of gender. 'Men have been wearing tight T-shirts and shirts for a while now - our best-selling shirt is now an extra slim one.  . 'Remember, men don't want to look great at the weekend and then put on a baggy old suit for the working week. The office is just as much their chance to shine, so suits have had to go through a skinny transformation as much as any other garment.' . Other stars who've fallen foul of their own outfits exposing them include fellow X Factor presenter Olly Murs, whose penchant for clothes that show off his best assets saw his trousers split as he performed on stage at Sheffield Arena in 2012. . Wearing a matching burgundy waistcoat and pants, the star was dancing on his knees when the fabric covering his undercarriage gave way revealing sparkling white pants. For more examples, you only have to wander to the streets of Chelsea or Essex, as the reality television stars who grace our screens on The Only Way is Essex and Made in Chelsea don't appear to own a more roomy suit between them. . Towie star Dan Osborne is clearly proud of his buff body and regularly showcases it in slimline attire and Joey Essex is also partial to a tight pair of strides. While David Beckham rarely gets it wrong these days when it comes to fashion, he is definitely also a fan of a tight suit, and arguably carries it off to perfection. . What do the fashionistas make of the super-snug suit? Fashion blogger Simon Glazin isn't convinced by the current trend. He told FEMAIL: 'Over the last couple of years, terms like 'super skinny' and 'ultra skinny' have been adopted by menswear retailers when it comes to suiting, and to be quite honest, they scare me.' 'There's the circulation-restricting connotations the words 'ultra skinny' bring with them but also the simple truth that a too-tight suit can be quite hideous to look at.' Men are in danger of going for a debonair look but can end up revealing way too much, he adds. . 'You don't want to show the world everything you've got! . 'Some things should remain, erm, under wraps. You find bigger men stuffing themselves into these skinny suits, and the results are disastrous. 'As male models get thinner, so do suit cuts, but this is NOT representative of this country. Us men with 'real' bodies need suits that don't feel restricting. And don't restrict blood flow.' Who should you go for if you want comfort and style? 'Designer labels such as Versace and Salvatore Ferragamo offer suits that have a bit of breathing room.' Let's hope Pep, Dermot and Olly are reading.  .
+
+
+Pep Guardiola split his pants during Bayern Munic's 6-1 win over Porto. The Spanish tactician wore a tight-fitting grey suit [91mby[0m [91mTom[0m [91mFord[0m. He joked : ' I'll have to buy new ones for the next match ' Other stars guilty of going a little too tight include Russell Brand, Olly Murs and Dermot 'Leary.
+
+
+['<s>', 'P', 'ep', 'ĠGuardiola', 'Ġsplit', 'Ġhis', 'Ġpants', 'Ġduring', 'ĠBayern', 'ĠMun', 'ic', "'s", 'Ġ6', '-', '1', 'Ġwin', 'Ġover', 'ĠPort', 'o', '.', 'ĠThe', 'ĠSpanish', 'Ġtact', 'ician', 'Ġwore', 'Ġa', 'Ġtight', '-', 'fitting', 'Ġgrey', 'Ġsuit', 'Ġby', 'ĠTom', 'ĠFord', '.', 'ĠHe', 'Ġjoked', 'Ġ:', "Ġ'", 'ĠI', "'ll", 'Ġhave', 'Ġto', 'Ġbuy', 'Ġnew', 'Ġones', 'Ġfor', 'Ġthe', 'Ġnext', 'Ġmatch', "Ġ'", 'ĠOther', 'Ġstars', 'Ġguilty', 'Ġof', 'Ġgoing', 'Ġa', 'Ġlittle', 'Ġtoo', 'Ġtight', 'Ġinclude', 'ĠRussell', 'ĠBrand', ',', 'ĠO', 'lly', 'ĠM', 'urs', 'Ġand', 'ĠD', 'erm', 'ot', "Ġ'", 'Leary', '.', '</s>']
+
+
+Analyzing for intrinsic error token:Ġby
+
+Top 5 Cross Attention
+['Ġby', '<s>', 'Ġwith', '</s>', '.']
+['Ġby', 'Ġwith', '<s>', 'Ġin', 'Ġsuit']
+['<s>', 'Ġby', '</s>', 'Ġsuit', '.']
+['Ġby', '<s>', 'ĠFord', 'ĠFord', 'Ġsuit']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġby', 'ĠFord', 'ĠFord', '.']
+['ĠFord', 'ĠFord', '<s>', '</s>', '.']
+['<s>', 'ĠFord', 'ĠFord', '.', '.']
+['<s>', 'ĠTom', 'ĠFord', '.', '.']
+['ĠTom', 'ĠTom', '<s>', 'ĠFord', 'ĠFord']
+['<s>', 'ĠTom', '.', '.', '.']
+Top 5 Decoder Attention
+['<s>', 'Ġsuit', 'P', 'Ġby', 'Ġgrey']
+['<s>', 'Ġsuit', 'Ġwore', '.', 'Ġby']
+['<s>', 'Ġsuit', 'Ġby', 'Ġwore', 'Ġa']
+['<s>', 'Ġgrey', 'Ġsuit', 'Ġwore', 'Ġby']
+['<s>', 'Ġsuit', 'Ġgrey', 'Ġby', 'Ġa']
+['<s>', 'Ġsuit', 'Ġgrey', 'Ġtight', 'fitting']
+['<s>', 'Ġsuit', 'Ġby', 'fitting', 'Ġtight']
+['<s>', 'Ġby', 'Ġsuit', 'Ġgrey', 'fitting']
+['<s>', 'Ġby', 'Ġsuit', 'Ġgrey', 'fitting']
+['<s>', 'Ġby', 'Ġgrey', 'Ġsuit', 'fitting']
+['<s>', 'Ġby', 'Ġgrey', 'fitting', 'Ġtight']
+['<s>', 'Ġby', 'fitting', 'Ġgrey', 'Ġtight']
+Analyzing for token before intrinsic error:Ġsuit
+
+Top 5 Cross Attention
+['Ġsuit', '<s>', 'Ġsuit', 'Ġsuit', 'Ġsuit']
+['Ġwith', '<s>', 'Ġsuit', 'Ġsuit', '</s>']
+['<s>', 'Ġsuit', 'Ġsuit', '</s>', '.']
+['<s>', 'Ġsuit', ',', 'Ġwith', 'Ġa']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġa', 'Ġwith', 'Ġsuit', '.']
+['<s>', ',', 'Ġwith', '.', '.']
+['<s>', 'Ġsuit', 'Ġby', '</s>', 'Ġwith']
+['<s>', 'Ġsuit', 'Ġwith', 'Ġby', 'Ġteamed']
+['<s>', 'Ġby', '.', '.', '.']
+['<s>', 'Ġwith', 'Ġteamed', 'Ġby', '.']
+['Ġby', 'Ġwith', '<s>', 'Ġlast', '.']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Ġgrey', 'P', 'Ġsuit', 'fitting']
+['<s>', 'Ġgrey', 'Ġa', 'Ġwore', '.']
+['<s>', 'Ġgrey', 'Ġsuit', 'Ġa', 'Ġwore']
+['<s>', 'Ġwore', 'Ġgrey', 'Ġa', 'Ġsuit']
+['<s>', 'Ġwore', 'Ġgrey', 'fitting', 'Ġa']
+['<s>', 'Ġwore', 'fitting', 'Ġsuit', 'Ġgrey']
+['<s>', 'Ġsuit', 'fitting', 'Ġwore', 'Ġtight']
+['<s>', 'Ġwore', 'fitting', 'Ġgrey', 'Ġa']
+['<s>', 'Ġwore', 'Ġgrey', 'Ġsuit', 'fitting']
+['<s>', 'Ġgrey', 'fitting', 'Ġsuit', 'Ġwore']
+['<s>', 'Ġsuit', 'fitting', 'Ġgrey', 'Ġwore']
+['<s>', 'Ġsuit', 'Ġgrey', 'fitting', 'Ġwore']
+
+
+
+It was another momentous night in Barcelona's proud European history, Neymar and Luis Suarez rampaging through Paris Saint-Germain's defence to put one foot in the Champions League semi-finals. And Barcelona's second of the night, in the 67th minute when Suarez stormed through, nutmegged David Luiz and finished, was their 400th goal in the competition. The landmark has been achieved in 202 matches since 1992 when the European Champions Clubs' Cup became the modern Champions League we know and love. The two goals scored by Luis Suarez against PSG took Barcelona past 400 Champions League goals. Barcelona have reached the landmark in 202 Champions League matches since 1992. Barcelona won the quarter-final, first-leg match 3-1 to put themselves in control of the tie. Barcelona still have a little way to go before they catch Real Madrid's 436 Champions League goals. Table courtesy of Opta. However, Barcelona still have a some way to go to match the 436 goals scored in the competition by their great rivals Real Madrid. The Spanish giants are way out on top in the club scoring charts, with Bayern Munich coming in third with 349 goals and Manchester United fourth with 343. Over the Champions League years, Barcelona have found the net most against AC Milan (22), followed by Celtic and Chelsea on 18 apiece. They have scored 17 times against United, Arsenal and Bayer Leverkusen. And it will come as little surprise that Argentine superstar Lionel Messi is way out in front in the breakdown of Barcelona Champions League scorers with 75, the joint-most in the tournament with Cristiano Ronaldo. Brazilian star Rivaldo comes in second with 22 goals, followed by Patrick Kluivert (20), Luis Enrique (19) and Samuel Eto'o (16). To mark Barcelona passing 400 Champions League goals, we take a look at some of the highlights. Barcelona 4 Manchester United 0 (1994-95 group stage) A United side hampered by a limit on foreign players had the misfortune to encounter Johan Cruyff's Barcelona 'Dream Team' at the wrong time. . Hristo Stoichkov and Romario ran United's makeshift defence ragged in front of 114,000 fans, with the Bulgarian scoring twice and the Brazilian once before Albert Ferrer completed United's humiliation. Romario fires home Barcelona's second goal in their 1994 rout of Manchester United in the Nou Camp. Barcelona 5 Chelsea 1 (1999-2000 quarter-final, second leg) Leading 3-1 from the first leg at Stamford Bridge, Chelsea fancied their chances of getting through ahead of the return. . Rivaldo's deflected free-kick and Luis Figo's goal had erased the deficit by half-time, though Tore Andre Flo put Chelsea back in the box seat. . They were seven minutes from going through when Dani Garcia made it 3-1 and there was still time for Rivaldo to miss a penalty. Chelsea's defence crumbled in extra-time, another penalty, this time converted by Rivaldo, and a fifth from Patrick Kluivert carried Barcelona through. . Luis Figo curls the ball home during Barcelona's 5-1 win over Chelsea in 2000. Barcelona 2 Arsenal 1 (2006 final in Paris) The Champions League triumph that signalled the beginning of Barcelona's golden age. . They needed two goals in the last 14 minutes to overcome the stubborn resistance of Arsenal, who had been reduced to 10 men when Jens Lehmann brought down Samuel Eto'o just 18 minutes in. . The Gunners sensationally took the lead through Sol Campbell's thumping header eight minutes before half-time but couldn't hold out as Eto'o and Juliano Belletti sunk them late on. . Captain Carles Puyol lifts the trophy with Ronaldinho after Barcelona's 2006 win over Arsenal. Barcelona 4 Bayern Munich 0 (2008-09 quarter-final, first leg) Pep Guardiola's star-studded team showed their Champions League-winning potential with this demolition of Bayern in which all four goals came before half-time. In no mood to hang around, Lionel Messi opened the scoring after nine minutes and Eto'o added another three minutes later. A second from Messi and another from Thierry Henry essentially settled the two-legged contest before half-time. Thierry Henry salutes Samuel Eto'o after rounding off Barcelona's 4-0 rout of Bayern Munich in 2009. Barcelona 2 Manchester United 0 (2009 final in Rome) Sir Alex Ferguson's team were going for their second Champions League triumph in a row and had beaten Barcelona in the 2008 semi-finals. . Guardiola's team had other ideas and exacted revenge thanks to a 10th-minute opener from Eto'o and Messi's clincher 20 minutes from time. It was Barcelona's midfield partnership of Xavi and Andres Iniesta that ran the game. . Lionel Messi (left) and Andres Iniesta parade the European Cup after the 2009 win over Manchester United. Barcelona 4 Arsenal 1 (2009-10 quarter-final, second leg) One of Messi's finest performances as the maestro scored four times to demolish Arsenal's Champions League hopes. . With the last-eight tie locked at 2-2 from the first leg, the Nou Camp was stunned when Nicklas Bendtner scored a precious away goal on 18 minutes. From then on, it was a one-man show. . Messi had equalised within three minutes and had Barcelona in control with another couple before the break, including a sumptuous lob. A fourth late on made it an emphatic win. Messi scored four times as Barcelona demolished Arsenal in a 2010 quarter-final . Real Madrid 0 Barcelona 2 (2010-11 Semi-final, first leg) This Clasico semi-final in 2011 was a dream come true for all football fans and it was Messi and Barcelona that kept their cool as tempers frayed. . Real hothead Pepe was sent off in the 61st minute and boss Jose Mourinho sent to the Bernabeu stands shortly afterwards for protesting. Cue Messi to seize control, turning home Ibrahim Afellay's cross and then setting off on a 30-yard run to score the second. . Barcelona pile on Messi after his goal in the Bernabeu semi-final back in 2011. Barcelona 3 Manchester United 1 (2011 final at Wembley) Barcelona were unquestionably the best team in Europe at this time and another final triumph over United confirmed this. At Wembley, Pedro gave them the lead in the 27th minute, only for Wayne Rooney to level shortly afterwards. But Barca were by far the better team, dominating possession, and it came as little surprise when Messi fired home at the start of the second half. David Villa made sure 20 minutes from time as Barca claimed a third European Cup in five years. . Pep Guardiola is thrown into the air by Barcelona after their 2011 final win over Manchester United. Barcelona 7 Bayer Leverkusen 1 (2011-12 last 16, second leg) Messi raised his game to even greater heights, becoming the first player to score five goals in a Champions League fixture in this seven-goal drubbing of Bayer Leverkusen. . Leading 3-1 from the first leg in Germany, there was little pressure on Barca and their domination was exemplified by their 865 passes in the game to the German side's 217. . Many of them found their way to Messi, who scored twice before half-time and added another three after. Messi slots home his fourth goal in Barcelona's 7-1 demolition of Bayer Leverkusen in 2012. Manchester City 0 Barcelona 2 (2013-14 last 16, first leg) City desperately wanted to make a statement on the European stage but Barcelona had other ideas in this clinical away performance. . The decisive moment came in the 54th minute when Messi was fouled by Martin Demichelis, who was sent off. Messi dusted himself down to convert the penalty and Dani Alves delivered a late second after swapping passes with Neymar. Messi converts from the penalty spot in Barcelona's 2-0 win at Manchester City last season. 22 goals - AC Milan. 18 - Celtic, Chelsea. 17 - Manchester United, Bayer Leverkusen, Arsenal. 16 - Panathinaikos, Lyon. 14 - Galatasaray. 13 - Shakhtar Donetsk, Spartak Moscow, Paris Saint-Germain. 10 - Ajax, Stutgart. 9 - Porto, BATE Borisov. 8 - Sporting Lisbon, Werder Bremen, Newcastle United . 75 - Lionel Messi. 22 - Rivaldo. 20 - Patrick Kluivert. 19 - Luis Enrique. 16 - Samuel Eto'o. 15 - Pedro. 14 - Ronaldinho. 11 - Javier Saviola, Xavi. 10 - Andres Iniesta. 8 - Neymar, Thierry Henry, Hristo Stoichkov, David Villa. 7 - Luis Figo, Gerard Pique, own goals.  .  .  .  .  .  .  .  .
+
+
+Barcelona beat Paris Saint-Germain 3-1 to [91mreach[0m the Champions League semi-finals. Luis Suarez scored Barcelon's 400th Champions League goal. The landmark has been achieved in 202 matches since 1992. Barcelona still have a way to go to match Real Madri's 436 Champions League goals.
+
+
+['<s>', 'Bar', 'celona', 'Ġbeat', 'ĠParis', 'ĠSaint', '-', 'G', 'erm', 'ain', 'Ġ3', '-', '1', 'Ġto', 'Ġreach', 'Ġthe', 'ĠChampions', 'ĠLeague', 'Ġsemi', '-', 'finals', '.', 'ĠLuis', 'ĠSuarez', 'Ġscored', 'ĠBar', 'cel', 'on', "'s", 'Ġ400', 'th', 'ĠChampions', 'ĠLeague', 'Ġgoal', '.', 'ĠThe', 'Ġlandmark', 'Ġhas', 'Ġbeen', 'Ġachieved', 'Ġin', 'Ġ202', 'Ġmatches', 'Ġsince', 'Ġ1992', '.', 'ĠBarcelona', 'Ġstill', 'Ġhave', 'Ġa', 'Ġway', 'Ġto', 'Ġgo', 'Ġto', 'Ġmatch', 'ĠReal', 'ĠMad', 'ri', "'s", 'Ġ436', 'ĠChampions', 'ĠLeague', 'Ġgoals', '.', '</s>']
+
+
+Analyzing for intrinsic error token:Ġreach
+
+Top 5 Cross Attention
+['Ġreached', '<s>', '</s>', 'Ġtook', '.']
+['Ġreached', 'Ġthe', 'Ġto', 'ĠChampions', 'Ġpast']
+['<s>', '</s>', 'Ġsemi', 'Ġreached', 'Ġlandmark']
+['<s>', 'Ġreached', 'Ġin', 'finals', 'Ġpast']
+['<s>', 'Ġreached', '.', '.', '.']
+['<s>', 'finals', 'Ġsemi', 'Ġin', 'final']
+['<s>', 'Ġsemi', 'finals', '.', '.']
+['<s>', 'Ġsemi', 'finals', '</s>', 'final']
+['Ġsemi', '<s>', 'finals', 'Ġthe', 'Ġin']
+['<s>', 'Ġsemi', 'finals', 'Ġin', 'Ġthe']
+['Ġsemi', 'ĠChampions', 'ĠEuropean', '<s>', 'Ġsemi']
+['Ġsemi', 'ĠChampions', 'ĠEuropean', '<s>', 'Ġ400']
+Top 5 Decoder Attention
+['<s>', 'Ġreach', 'Ġto', 'Bar', '1']
+['<s>', 'Ġto', 'Bar', 'Ġreach', '-']
+['<s>', 'Ġto', 'Bar', 'Ġreach', 'Ġbeat']
+['<s>', 'Ġto', 'Ġreach', 'Bar', 'celona']
+['<s>', 'Ġto', 'Ġbeat', 'Ġreach', 'celona']
+['<s>', 'Ġto', 'Ġreach', 'Ġbeat', 'celona']
+['<s>', 'Ġto', 'Ġreach', 'Ġbeat', 'ain']
+['<s>', 'Ġreach', 'celona', 'Ġto', 'ain']
+['<s>', 'Ġreach', 'Ġto', 'celona', 'ain']
+['<s>', 'Ġreach', 'Ġto', 'celona', 'ain']
+['<s>', 'Ġreach', 'Ġto', 'ain', 'Ġ3']
+['<s>', 'Ġreach', 'celona', 'Ġbeat', 'ĠParis']
+Analyzing for token before intrinsic error:Ġto
+
+Top 5 Cross Attention
+['Ġto', '<s>', '</s>', 'Ġtook', 'Ġto']
+['Ġto', 'Ġto', 'Ġtook', 'ĠChampions', 'Ġagainst']
+['<s>', '</s>', '.', '.', '.']
+['<s>', 'Ġagainst', 'Ġto', 'Ġwon', 'Ġto']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġthe', 'Ġin', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '</s>', 'Ġin', 'Ġsemi', 'finals']
+['<s>', 'Ġin', 'Ġtie', 'finals', 'Ġthe']
+['<s>', 'Ġsemi', 'Ġin', 'finals', 'Ġthe']
+['Ġin', 'Ġsemi', 'Ġreached', 'finals', 'Ġthe']
+['.', '.', '.', '.', '.']
+
+
+
+Top 5 Decoder Attention
+['<s>', '1', 'Bar', '-', 'Ġto']
+['<s>', '1', 'Ġbeat', 'Ġto', '-']
+['<s>', 'Bar', 'Ġbeat', '1', 'Ġto']
+['<s>', 'Ġbeat', '1', 'Bar', 'Ġ3']
+['<s>', 'Ġbeat', 'celona', '1', 'Ġto']
+['<s>', 'Ġbeat', '1', 'Ġto', 'Ġ3']
+['<s>', 'Ġbeat', '1', 'Ġ3', 'ain']
+['<s>', 'celona', 'Ġbeat', '1', 'ain']
+['<s>', '1', 'ain', 'Ġbeat', 'Ġto']
+['<s>', 'Ġto', 'Ġbeat', '1', 'ain']
+['<s>', 'Ġto', 'celona', '1', 'Ġbeat']
+['<s>', 'Ġto', '1', 'celona', 'ain']
+
+
+
+They are the chocolate treats we most look forward to at Easter, and in Britain alone more than 90 million of them are consumed every year. But this year traditional Easter eggs have undergone a dramatic makeover, appearing on supermarket shelves and restaurant menus made of meat, Marmite - and a giant block of cheese. Grab your egg-cups as we take a look at the most bonkers eggs in Britain... Fortnum & Mason's Chotch Egg is the world’s first gourmet chocolate Scotch egg. Would you eat this? The Marmite chocolate egg has a strong, rather beefy aftertaste . From yeast-flavoured chocolate (we're looking at you, Marmite) to an egg made from 300g of Cheddar, here is FEMAIL's selection of the most unusual eggs you can try this Easter. Love me, Hate me, Break Me -  the Marmite Easter Egg, £5. A Marmite chocolate egg made with the love-it-or-hate it spread accompanied with Marmite Cashew nuts makes for a fun Yeaster treat. This beefy-tasting egg divided the FEMAIL team with some enjoying the depth of flavour from the savour extract that flavours the chocolate while others couldn't stomach the strange tangy-sweet combination. . Chocolate Egg and Soldiers, £7.99 . Choc n Choc's ingenious interpretation on the Easter egg will get the troops in position on Sunday morning. Each set includes a white chocolate fried egg with four soldiers ready for dipping. We're queuing up for ours. Egg on toast by Choc on Choc’s combination of white and milk chocolate with realistic toasted effects on the bread and egg that appears cooked to perfection with a vibrant yellow yolk. A pancake stack stuffed with creme eggs from Polo Bar (left) and Wyke Farms Cheaster cheddar egg (right) . Fortnum & Mason's  'Chotch Egg, £3.99. The department store has created the ultimate Easter hybrid in the form of the ‘Chotch Egg'. . Think half Scotch Egg, half Easter Egg, the 'Chotch Egg is the world’s first gourmet chocolate scotch egg and combines two of Fortnum & Mason’s best loved products. Crafted by Fortnum & Mason Executive Chef, Sydney Aldridge, the gastronomic delight features a free-range egg with a vibrant orange yolk, wrapped in  British outdoor-reared venison and 55 per cent Valrhona dark chocolate, infused with juniper berries. . It is finished with a crisp layer of homemade breadcrumbs. The 'Chotch egg is a  free-range egg with a vibrant orange yolk, wrapped in British outdoor-reared venison and 55 per cent Valrhona dark chocolate. Hotel Chocolat's witty take on the egg sandwich comes complete in a sarnie box . Paul A Young's Sea Salted Caramel filled egg, £19.95. The priciest egg here, this Easter favourite is the chocolatier's signature. The Sea Salted Caramel filled egg is decorated in gold and served up with an egg cup and spoon. Hotel Chocolate Egg Sandwich, £10. Everyone loves an egg sandwich. But dare we say it, we think Hotel Chocolat has improved on the original recipe with their playful take on the sarnie. . Sandwiched between two slices of 50 per cent milk and feuilletine chocolate are two beautiful milk chocolate eggshells, which come presented in a classic sandwich takeaway box? . A delicious twist on the classic Easter egg and a fun gift. Fun and yummy-looking, this features two caramel half-eggs sandwiched with caramel chocolate. There are also white and and dark options. Godiva's Alter Eggo, £5 . Godiva chocolatiers will create your Alter-Eggo by dipping their Easter eggs in tempered chocolate and making hair from crushed Speculoos biscuit, or milk chocolate flakes, then delicately adding your own choice of eyes. For £5 you can customise your two eggs with hair, eyes and a smile at all Godiva stores. . Godiva's Alter Eggo's which can be made at their stores (left). The £19.95 sea salt caramel filled egg from Paul Young (right) comes with an egg cup and spoon. He's a good egg! Fried egg and soldiers from Choc on Choc . Wyke Farms Cheese egg, POA. The Giant Cheaster Egg is two feet tall and made with 85g x 300g blocks of award winning Wyke Farms cheddar. And best of all, Wyke Farms is giving away one  24-inch egg  to a cheddar-loving family. Entry details are on their website, www.wykefarms.com. . Egg on Toast, £12. Choc on Choc’s clever combination of white and milk chocolate with realistic toasted effects on the bread and egg that appears cooked to perfection with a vibrant yellow yolk. This delicious treat can be enjoyed anytime of the day and wouldn't appear out of place on the breakfast table. . Easter Egg pancake stacks, £7.95. It's not just the chocolatiers who've jumped on board the weird egg bandwagon. Purveyors of London’s premier pancake stacks. Polo 24 Hour Bar are cracking a few eggs this Easter with the ultimate Easter Egg Pancake Stack. Designed for those blessed with a sweet tooth this pancake is loaded with classic creme and mini eggs piled with cream and topped with caramel sauce. This sweet eggy treat will be available throughout April.
+
+
+Fortnum & Maso's Chotch Egg is the world ’s first gourmet chocolate Scotch egg. The Wyke Farms Cheaster Egg is two feet tall and made with [91m300[0m [91mg[0m of award winning cheddar. Godiv's Alter Eggo can be made at stores or customised with hair, eyes and a smile.
+
+
+['<s>', 'Fort', 'num', 'Ġ&', 'ĠMas', 'o', "'s", 'ĠCh', 'ot', 'ch', 'ĠEgg', 'Ġis', 'Ġthe', 'Ġworld', 'ĠâĢ', 'Ļ', 's', 'Ġfirst', 'Ġg', 'ourmet', 'Ġchocolate', 'ĠScotch', 'Ġegg', '.', 'ĠThe', 'ĠWy', 'ke', 'ĠFarms', 'ĠChe', 'aster', 'ĠEgg', 'Ġis', 'Ġtwo', 'Ġfeet', 'Ġtall', 'Ġand', 'Ġmade', 'Ġwith', 'Ġ300', 'Ġg', 'Ġof', 'Ġaward', 'Ġwinning', 'Ġc', 'heddar', '.', 'ĠGod', 'iv', "'s", 'ĠAlter', 'ĠEgg', 'o', 'Ġcan', 'Ġbe', 'Ġmade', 'Ġat', 'Ġstores', 'Ġor', 'Ġcustom', 'ised', 'Ġwith', 'Ġhair', ',', 'Ġeyes', 'Ġand', 'Ġa', 'Ġsmile', '.', '</s>']
+
+
+Analyzing for intrinsic error token:Ġ300
+
+Top 5 Cross Attention
+['Ġ300', 'Ġ300', '<s>', '</s>', '.']
+['Ġ300', 'Ġ300', 'Ġ85', '<s>', 'Ġof']
+['<s>', 'Ġ300', 'Ġ300', 'Ġ85', 'Ġblocks']
+['Ġ300', 'Ġ300', '<s>', 'Ġ85', 'Ġblocks']
+['<s>', 'Ġx', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġblocks', 'Ġcheese', 'Ġ300', '.']
+['g', '<s>', 'Ġ300', 'Ġ300', 'g']
+['Ġ300', '<s>', 'Ġblocks', 'g', 'Ġ300']
+['g', '<s>', 'g', 'Ġblocks', 'Ġcheese']
+['g', 'g', 'Ġblocks', 'Ġx', '<s>']
+['g', 'g', 'Ġblocks', 'Ġx', 'g']
+Top 5 Decoder Attention
+['<s>', 'Ġwith', 'Ġ300', 'Fort', 'Ġmade']
+['<s>', 'Ġwith', 'Ġmade', 'Ġ300', 'Ġand']
+['<s>', 'Ġwith', 'Ġ300', 'Ġmade', 'Ġand']
+['<s>', 'Ġ300', 'Ġwith', 'Ġfeet', 'Ġmade']
+['<s>', 'Ġwith', 'Ġ300', '.', 'Ġmade']
+['<s>', 'Ġwith', 'Ġfeet', 'Ġtall', 'ĠEgg']
+['<s>', 'Ġwith', 'Ġmade', 'Ġand', 'Ġfeet']
+['<s>', 'Ġwith', 'Ġ300', 'Ġmade', 'ĠEgg']
+['<s>', 'Ġwith', 'Ġ300', 'Ġmade', 'Ġfeet']
+['<s>', 'Ġ300', 'Ġfeet', 'Ġwith', 'ĠâĢ']
+['<s>', 'Ġ300', 'Ġfeet', 'Ġwith', 'Ġtall']
+['<s>', 'Ġ300', 'Ġtwo', 'Ġwith', 'Ġfeet']
+Analyzing for token before intrinsic error:Ġwith
+
+Top 5 Cross Attention
+['<s>', 'Ġwith', 'Ġwith', '</s>', '.']
+['Ġwith', 'Ġ85', 'Ġmade', '<s>', 'Ġwinning']
+['<s>', 'Ġwith', 'Ġof', 'Ġfrom', 'Ġblocks']
+['<s>', 'Ġwith', 'Ġfrom', 'Ġmade', 'Ġblocks']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġfrom', '.', '.', '.']
+['<s>', 'Ġof', 'Ġwith', '.', '.']
+['<s>', 'Ġblocks', 'Ġcheese', 'Ġof', 'Ġ85']
+['Ġwith', 'Ġ85', 'Ġblocks', '<s>', 'Ġ300']
+['Ġ85', 'Ġ300', 'Ġblocks', 'Ġx', '<s>']
+['Ġ85', 'Ġ300', 'Ġ300', 'Ġaward', 'Ġwinning']
+['Ġ85', 'Ġ300', 'Ġaward', 'Ġ300', 'Ġblocks']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Ġmade', 'Ġand', 'Fort', 'Ġwith']
+['<s>', 'Ġmade', 'Ġand', 'Ġfeet', 'Ġwith']
+['<s>', 'Ġmade', 'Ġwith', 'Ġis', 'Ġand']
+['<s>', 'Ġmade', 'Ġtall', 'Ġand', 'Ġwith']
+['<s>', 'Ġmade', 'Ġis', 'Ġand', 'ĠThe']
+['<s>', 'Ġmade', 'Ġwith', 'ĠEgg', 'Ġis']
+['<s>', 'Ġmade', 'Ġwith', 'Ġtall', 'Ġand']
+['<s>', 'Ġwith', 'Ġmade', 'ĠEgg', 'Ġtwo']
+['<s>', 'Ġmade', 'Ġwith', 'aster', 'Ġand']
+['<s>', 'Ġmade', 'Ġwith', 'Ġtwo', 'Ġtall']
+['<s>', 'Ġwith', 'Ġmade', 'Ġtwo', 'Ġand']
+['<s>', 'Ġwith', 'Ġmade', 'Ġtall', 'Ġis']
+
+
+
+They are usually used to trap coffee grounds when brewing filter coffee at home and are perfect for catching oily sediment from your cup of Java.  . But these lint-free, tear-resistant  paper cones can be life-savers in many other situations, too. They can provide an inexpensive way to complete a range of household tasks, from being transformed into temporary dish covers and snack bowls, to cleaning varnish off your fingernails when you've run out of cotton wool. . Scroll down for video . They are usually used to trap coffee grounds when brewing filter coffee at home but paper filters have a myriad of other household uses . Here FEMAIL has rounded up the 20 unusual things you can do with coffee filter papers   . 1. As a makeshift lid . Worry not if your only microwave-friendly bowl has lost its lid. Simply turn a filter paper upside down and place it over the dish when you pop it into the microwave. 2. To strain juices. Use them as filters when you are straining freshly squeezed citrus fruit juices such as lemon or lime juice. Or a bottle of wine which has bits of cork in it. . 3. As cupcake holders. Forgotten to buy baking tin liners for when you’re making cupcakes? Line your cupcake tin with filter paper and start to pour your cake batter in. . Lint-free and tear-resistant filter paper cones can be life-savers in many other situations, too. 4. Disposable bowls for parties . Use them as disposable snack bowls for nuts, popcorn, and mini pretzels when you’re throwing a party where you don’t want to put out plates. 5. To prevent rust . Place a filter on top of a cast iron pan so that it soaks up all residue moisture, preventing any rust from occurring. . 6. Vegetable crisper. Keep celery crispy by storing them with a coffee filter, which are far more absorbent than kitchen roll, and will absorb moisture from the vegetables. 7. Butter cake tins . The next time you’re oiling a baking pan or cake tin, spread your butter or oil with a coffee filter instead of using a brush or a paper towel. 8. Stop messy ice-cream spillage. Wrap a filter around the centre of an ice-cream cone to keep little hands clean from ice-cream mess. 9. To hold your bouquet garni. Use it as a bouquet garni holder the next time you’re making soup or stews. Simply pop in the herbs you want into the bottom of the filter and tie with twine or string before popping it into your pot. Wrap a piece of coffee filter paper around your sticks of celery to keep them from going soggy and limp. A few drops of essential oils onto a couple of filter papers when drying will keep them smelling fresh. 10. Quick and easy tea strainer . Looking to brew a cuppa with fresh leaves but misplaced your strainer? Measure a teaspoon of leaves, and as with the bouquet garni, place leaves at the bottom before tieing the top ends of with string. Then put your DIY teabag at the bottom of the mug and top with hot water. 11. When weighing wet foods. Weigh chopped wet foods without making a mess on your kitchen scales. Just place the ingredients in a filter on the scale. . 12. Instead of cotton wool. Need to remove nail polish but you’ve run out of cotton wool? Simply dip them in your nail varnish remover and start gently scrubbing. . 13. Absorb nasty smells . Make your own odour-eaters by placing a heaped teaspoon of baking powder at the bottom of each filter, then gathering it up the top ends together and tying it up with string. Place in stinky shoes. 14. Keep your face oil-free. They make inexpensive and absorbent face blotters.  . Place tea leaves and herbs in the middle of your filter cone and tie it up with string before brewing . Add a dab of shoe polish to a paper filter and use it to shine your shoes . 15. Keep delicate crockery safe. Moving house and in possession of delicate crockery which absolutely cannot break? Simply place coffee filters between your china when packing to protect them. 16. Keep clothes smelling fresh . Put a few drops of your favourite essential oil onto a couple of filter papers before chucking them in the tumble drier when you’re drying your clothes for an inexpensive way to scent them. 17. Pot plants without soil spillage. When repotting a plant from the nursery, pop a coffee filter at the bottom of the new pot so that soil doesn’t leak out on the floor. This is especially useful for house plants. 18. Composting . Place a filter at the bottom of your kitchen compost pot so that there are no leakages or spills. Simply empty the whole lot out the next time you are adding to your compost pile. 19. Polish your shoes. Coffee filters are perfect for polishing leather shoes as they are lint-free and so won’t leave unsightly streak marks on your shoes. Apply a dab of your favourite shoe polish on the filter and use it as an applicator. 20. Clean mirrors and glass . As they are lint-free coffee filters can be used to polish glass, and clean mirrors. .  .
+
+
+Coffee filter papers are usually used to trap coffee grounds when brewing. But they can be life-savers in many other situations, too. FEMAIL has rounded up the 20 unusual things you can do with coffee filter papers. They can provide an inexpensive way to complete a range of household tasks. From being transformed into temporary dish covers [91mto[0m [91msnack[0m [91mbowls[0m.
+
+
+['<s>', 'C', 'off', 'ee', 'Ġfilter', 'Ġpapers', 'Ġare', 'Ġusually', 'Ġused', 'Ġto', 'Ġtrap', 'Ġcoffee', 'Ġgrounds', 'Ġwhen', 'Ġbrewing', '.', 'ĠBut', 'Ġthey', 'Ġcan', 'Ġbe', 'Ġlife', '-', 'sa', 'vers', 'Ġin', 'Ġmany', 'Ġother', 'Ġsituations', ',', 'Ġtoo', '.', 'ĠFEMA', 'IL', 'Ġhas', 'Ġrounded', 'Ġup', 'Ġthe', 'Ġ20', 'Ġunusual', 'Ġthings', 'Ġyou', 'Ġcan', 'Ġdo', 'Ġwith', 'Ġcoffee', 'Ġfilter', 'Ġpapers', '.', 'ĠThey', 'Ġcan', 'Ġprovide', 'Ġan', 'Ġinexpensive', 'Ġway', 'Ġto', 'Ġcomplete', 'Ġa', 'Ġrange', 'Ġof', 'Ġhousehold', 'Ġtasks', '.', 'ĠFrom', 'Ġbeing', 'Ġtransformed', 'Ġinto', 'Ġtemporary', 'Ġdish', 'Ġcovers', 'Ġto', 'Ġsnack', 'Ġbowls', '.', '</s>']
+
+
+Analyzing for intrinsic error token:Ġto
+
+Top 5 Cross Attention
+['<s>', 'Ġto', '</s>', 'Ġcovers', 'Ġand']
+['Ġand', 'Ġto', ',', '<s>', 'Ġsnack']
+['<s>', 'Ġto', 'Ġand', '</s>', ',']
+['<s>', 'Ġto', 'Ġand', ',', 'Ġcleaning']
+['<s>', '.', '.', '.', '.']
+['<s>', 'Ġcleaning', 'Ġ.', "'ve", 'Ġto']
+['<s>', 'Ġcleaning', 'Ġto', 'Ġwhen', 'Ġbowls']
+['<s>', 'Ġcleaning', 'Ġto', '</s>', 'Ġuses']
+['Ġto', 'Ġcleaning', '<s>', 'Ġsnack', 'Ġbowls']
+['Ġcleaning', 'Ġsnack', 'Ġbowls', 'Ġto', '<s>']
+['Ġcleaning', 'Ġsnack', 'Ġoff', 'Ġvar', 'Ġstrain']
+['Ġsnack', 'Ġcleaning', 'Ġtemporary', 'Ġcup', 'Ġsnack']
+Top 5 Decoder Attention
+['Ġcovers', '<s>', 'Ġto', 'Ġdish', 'C']
+['<s>', 'Ġcovers', 'ĠFrom', 'Ġtemporary', 'Ġto']
+['<s>', 'ĠFrom', 'Ġcovers', 'Ġinto', 'Ġto']
+['<s>', 'ĠFrom', 'Ġto', 'Ġcovers', '.']
+['<s>', 'Ġto', 'Ġinto', 'ĠFrom', 'Ġcovers']
+['<s>', 'Ġto', 'Ġbeing', 'ĠFrom', 'Ġcovers']
+['<s>', 'Ġcovers', 'Ġto', 'ĠFrom', 'Ġtemporary']
+['<s>', 'Ġto', 'Ġinto', 'ĠFrom', 'Ġtransformed']
+['<s>', 'Ġcovers', 'Ġto', 'ĠFrom', 'ĠThey']
+['<s>', 'Ġto', 'Ġbeing', 'Ġcovers', 'Ġdish']
+['<s>', 'Ġto', 'Ġcovers', 'Ġtransformed', 'ĠFrom']
+['<s>', 'Ġto', 'ĠFrom', 'Ġinto', 'Ġcan']
+Analyzing for token before intrinsic error:Ġcovers
+
+Top 5 Cross Attention
+['Ġcovers', '<s>', '</s>', '.', '.']
+['Ġcovers', 'Ġand', '<s>', 'Ġdish', 'Ġto']
+['Ġcovers', '<s>', 'Ġbowls', 'Ġtemporary', 'Ġsnack']
+['<s>', 'Ġcovers', 'Ġsnack', 'Ġand', 'Ġbowls']
+['<s>', 'Ġand', '.', '.', '.']
+['<s>', 'Ġsnack', ',', 'Ġbowls', 'Ġand']
+['<s>', 'Ġbowls', 'Ġand', 'Ġcovers', 'Ġsnack']
+['<s>', 'Ġand', 'Ġto', ',', '</s>']
+['Ġcovers', '<s>', 'Ġand', 'Ġbowls', '</s>']
+['Ġand', '<s>', ',', 'Ġto', 'Ġcovers']
+['Ġand', '<s>', ',', '.', '.']
+['Ġand', '<s>', ',', '.', '.']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Ġdish', 'Ġcovers', 'Ġtemporary', 'C']
+['<s>', 'Ġdish', 'Ġtemporary', '.', 'ĠFrom']
+['<s>', 'Ġcovers', 'Ġdish', '.', 'Ġtemporary']
+['<s>', 'Ġtemporary', 'Ġcovers', 'Ġdish', 'ĠFrom']
+['<s>', 'Ġinto', 'Ġtemporary', 'Ġdish', 'ĠFrom']
+['<s>', 'Ġdish', 'Ġcovers', 'Ġtemporary', 'ĠFrom']
+['<s>', 'Ġdish', 'ĠFrom', 'Ġtemporary', 'Ġcovers']
+['<s>', 'ĠFrom', 'Ġdish', 'Ġinto', 'Ġtemporary']
+['<s>', 'Ġdish', 'ĠFrom', 'Ġcovers', 'Ġinto']
+['<s>', 'ĠFrom', 'Ġdish', 'Ġcovers', 'Ġinto']
+['<s>', 'ĠFrom', 'Ġcovers', 'Ġdish', 'Ġinto']
+['<s>', 'Ġcovers', 'Ġtransformed', 'Ġdish', '.']
+
+
+
+A 17-year-old boy who was shot dead from behind by a police officer had just stolen a handgun, according to the police department in question. Justus Howell was gunned down from behind by an officer in Zion, Illinois on Saturday afternoon after officers were called to reports of an argument. The chief of the Zion Police Department has now said that the argument was in fact a scuffle over a handgun - during which the firearm went off and Howell allegedly pointed it at another teenager. Killed: Justus Howell, 17, was shot twice in the back by police in Zion, Illinois, on Saturday afternoon. 'Stole a handgun': Police say that Howell had just taken a weapon from Tramond Peet, 18, who was trying to sell it to him. Steve Dumyahn said Howell was struggling over a gun with Tramond Peet, 18, and started running when police showed up. Peet told officers he met Howell with the intention of selling him the gun - but Howell tried to snatch it without paying. He then claimed the two tussled over the weapon, which was fired into the ground. At one point, he said, Howell was pointing it at him. Peet told investigators that he let go of the gun when he heard sirens. He said Howell ran and that he heard officers shouting instructions, then opening fire. An autopsy on Howell revealed that he was hit by two bullets, both from behind. Aftermath: Investigators are pictured above at the scene of the shooting, which took place around 2pm . One his his left side and penetrated his heart, spleen and liver. The second hit him on the right side of his back. Tests to see whether there were drugs in Howell's body are not finished yet. In the wake of his death, Howell's mother LaToya told Fox News her son 'couldn't have been a threat'. She said: 'Justus was a young man murdered by Zion police'. . 'As he was fleeing from police, they killed my son. He couldn't have been a threat if he was running.' Peet appeared in court Monday on two counts of aggravated unlawful use of a weapon. He is being held on a $15,000 bond. . Dumyahn said the Zion Police Department was releasing the narrative from the shooting because media outlets had linked Peet's case to the shooting. He said the department has 'no desire to defame the deceased'. Courts: Peet appeared in court Monday charged with two counts of aggravated unlawful use of a weapon. Claim: Zion Police chief Steve Dumyahn said the department had 'no desire to defame' Howell, but released the details because media outlets realized his case and Peet's are connected. Dumyahn said the officer who shot Howell is a nine-year veteran, and is now on administrative leave. . He did not release the officer's name or any additional information about him, including his race. Lake County NAACP president Jennifer Witherspoon said his relatives have asked her organization to speak on their behalf. Witherspoon said authorities told the NAACP that they have videotape of the scuffle between Peet and Howell but can't yet say what led the officer to shoot Howell. She said Howell's relatives are hoping to find out exactly what happened as quickly as possible. She said: 'Whether it was a mistake on his part or a mistake on the police's part, they want answers to make sure something like this never happens again'. Howell's death is the latest in a series of unarmed black men being killed by police officers - the most high-profile example of which was the death of Michael Brown at the hands of Darren Wilson in Ferguson, Missouri. . Witherspoon added: 'Here in America we are seeing this with too many brown and black boys.' Zion is a community of about 24,000 people along Lake Michigan, 45 miles north of Chicago, near Illinois' border with Wisconsin. Howell was a high school junior who transferred from a school in Wisconsin to Waukegan Public School District 60.  .
+
+
+Justus Howell, 17, was shot twice in the back by police in Zion, Illinois. Officers were called to reports of an argument between Howell and Tramond Peet, 18. [91mChief[0m [91mSteve[0m [91mDumyahn[0m said Howell had just stolen a handgun from Peet. He said Howell was running when police arrived, and Peet let go of the gun. Howell was hit by two bullets, one which penetrated his heart and spleen. The officer who shot Howell is now on administrative leave.
+
+
+['<s>', 'Just', 'us', 'ĠHowell', ',', 'Ġ17', ',', 'Ġwas', 'Ġshot', 'Ġtwice', 'Ġin', 'Ġthe', 'Ġback', 'Ġby', 'Ġpolice', 'Ġin', 'ĠZion', ',', 'ĠIllinois', '.', 'ĠOfficers', 'Ġwere', 'Ġcalled', 'Ġto', 'Ġreports', 'Ġof', 'Ġan', 'Ġargument', 'Ġbetween', 'ĠHowell', 'Ġand', 'ĠTr', 'am', 'ond', 'ĠPe', 'et', ',', 'Ġ18', '.', 'ĠChief', 'ĠSteve', 'ĠDum', 'y', 'ahn', 'Ġsaid', 'ĠHowell', 'Ġhad', 'Ġjust', 'Ġstolen', 'Ġa', 'Ġhandgun', 'Ġfrom', 'ĠPe', 'et', '.', 'ĠHe', 'Ġsaid', 'ĠHowell', 'Ġwas', 'Ġrunning', 'Ġwhen', 'Ġpolice', 'Ġarrived', ',', 'Ġand', 'ĠPe', 'et', 'Ġlet', 'Ġgo', 'Ġof', 'Ġthe', 'Ġgun', '.', 'ĠHowell', 'Ġwas', 'Ġhit', 'Ġby', 'Ġtwo', 'Ġbullets', ',', 'Ġone', 'Ġwhich', 'Ġpenetrated', 'Ġhis', 'Ġheart', 'Ġand', 'Ġsp', 'leen', '.', 'ĠThe', 'Ġofficer', 'Ġwho', 'Ġshot', 'ĠHowell', 'Ġis', 'Ġnow', 'Ġon', 'Ġadministrative', 'Ġleave', '.', '</s>']
+
+
+Analyzing for intrinsic error token:ĠChief
+
+Top 5 Cross Attention
+['Ġchief', '<s>', 'Ġchief', '</s>', '.']
+['Ġchief', 'Ġchief', 'ĠThe', '<s>', 'Ġautopsy']
+['<s>', 'Ġchief', 'Ġchief', '</s>', '.']
+['Ġchief', 'Ġchief', '<s>', 'Ġof', 'ĠSteve']
+['Ġchief', 'Ġchief', '<s>', 'ĠSteve', 'Ġsaid']
+['<s>', 'Ġsaid', 'Ġthe', '</s>', '.']
+['<s>', 'Ġchief', 'Ġof', '.', '.']
+['<s>', 'Ġchief', 'Ġof', 'Ġchief', 'Ġsaid']
+['Ġchief', '<s>', 'Ġchief', 'ĠSteve', 'y']
+['Ġof', '<s>', 'ĠSteve', 'Ġsaid', 'ĠSteve']
+['ĠSteve', 'ĠSteve', 'Ġof', 'Ġnow', 'ĠDum']
+['ĠSteve', '<s>', 'ĠSteve', 'ĠDum', 'ĠDum']
+Top 5 Decoder Attention
+['<s>', '.', 'ĠChief', 'Just', 'Ġ18']
+['<s>', '.', 'ĠChief', 'Ġ18', ',']
+['<s>', 'ĠChief', '.', 'Just', '.']
+['<s>', '.', 'ĠChief', '.', 'Ġpolice']
+['<s>', 'ĠChief', '.', '.', 'ĠPe']
+['<s>', 'ĠChief', '.', '.', 'et']
+['<s>', '.', 'ĠChief', '.', 'Ġcalled']
+['<s>', 'ĠChief', '.', '.', 'ond']
+['<s>', 'ĠChief', '.', 'ĠIllinois', 'ĠZion']
+['<s>', 'ĠChief', '.', 'ĠZion', '.']
+['<s>', 'ĠChief', '.', 'ond', '.']
+['<s>', 'ĠChief', '.', 'ond', 'ĠPe']
+Analyzing for token before intrinsic error:.
+
+Top 5 Cross Attention
+['</s>', '<s>', '.', '.', '.']
+['<s>', '</s>', ',', 'ĠThe', '.']
+['<s>', '</s>', '.', '.', '.']
+['<s>', '</s>', 'Ġthat', 'Ġwhich', 'Ġnow']
+['<s>', 'Ġnow', 'Ġthat', 'Ġsaid', 'ĠThe']
+['<s>', 'Ġthat', 'Ġargument', 'Ġnow', 'Ġsaid']
+['<s>', 'Ġthat', 'Ġsaid', 'Ġsaid', '</s>']
+['<s>', 'Ġsay', 'Ġnow', 'Ġhas', 'Ġsaid']
+['<s>', 'Ġsaid', 'ĠPolice', 'Ġsaid', 'Ġsay']
+['Ġchief', 'Ġchief', 'ĠSteve', '<s>', 'Ġsay']
+['Ġchief', 'ĠZion', 'ĠZion', 'ĠZion', 'ĠSteve']
+['<s>', 'Ġchief', 'ĠSteve', 'Ġchief', 'ĠZion']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Ġ18', 'Just', '.', ',']
+['<s>', 'Ġ18', '.', ',', 'Just']
+['<s>', 'Just', 'ĠOfficers', '.', 'Ġ18']
+['<s>', '.', 'Ġwere', '.', 'ĠOfficers']
+['<s>', '.', 'ĠOfficers', 'Ġargument', 'ĠHowell']
+['<s>', '.', 'Ġto', 'Ġargument', '.']
+['<s>', '.', 'Ġto', 'Ġargument', 'Ġcalled']
+['<s>', 'ĠOfficers', '.', 'Ġwere', 'et']
+['<s>', '.', 'Ġcalled', 'ĠOfficers', 'Ġ18']
+['<s>', '.', 'ĠOfficers', '.', 'Ġ18']
+['<s>', '.', 'ĠOfficers', '.', 'ĠHowell']
+['<s>', '.', 'ĠPe', '.', 'ond']
+
+
+
+The lovers who got the most complaints in New York City for loud sex are a handyman and the girlfriend he pops round for quickies with in the building where he works. The 25-year-old boytoy is the lover, of a Dominican woman in her late 30s, who invites him round for romps around her entire apartment in Brooklyn. The apartment block was named in a league table of complaints made to New York authorities about loud sex. Most complained: The building maintenance worker (left) and his girlfriend (right), who is now four months pregnant, were complained about six times for excessive noise at the Bay Ridge block, official records show. Say it loud: This is the apartment block with six calls made to 311 - New York city's non-emergency number - because of complaints of loud sex. Blue: The woman who was complained about was spoken to by police today. She later left, saying: 'I'm doing what I'm doing in my own apartment. I'm not hurting anyone.' The woman whose moans during sex sparked the highest number of complaints in New York said today: 'I'm not hurting anyone'. The woman, who declined to give her name, walked out of the apartment block wearing striped maxi dres, a white jacket and sunglasses. She looked upset and said she was hurt by all the attention - and revealed she was pregnant. She said: 'I'm four months pregnant. 'I'm doing what I'm doing in my own apartment. I'm not hurting anyone. My neighbors calling the city are going about it the wrong way'. . The league table, compiled by DNAInfo, showed that there were six complaints at the Bay Ridge block, which has 59 separate apartments. The outcome of the complaints was not recorded. . Speaking to Daily Mail Online the boyfriend said that he didn't see what the problem was - and wouldn't mind if other people were as noisy as him. He outed himself after Daily Mail Online asked him and the building manager who had been making the complaints. The boyfriend said: 'I don't believe it because I'm the one who stays there. I pop in there a lot. 'I don't think it's true. I don't understand why - other people make louder noises. Other people do the same. 'Everyone has their own way. People above and below us are noisy too. I sometimes stamp my feet to get them to quieter down. 'I wouldn't mind if the people next door were doing the same!' When Daily Mail Online knocked on the apartment door a dog barked loudly and after a pause a woman said: 'Hello?' Asked for comment she said: 'I'm unavailable at the moment'. Neighbour Siddharth Shah, 29, a Long Island University student, said that sometimes the lovers fight and make a racket - but mostly they make love. He said: 'It happens three or four times a week though I'm at school in the day so it could be more. 'They usually go at it for 10 to 15 minutes and I hear them all over the apartment. 'Sometimes it's the bedroom and sometimes it's in the lobby by the front door.' Another neighbor said: 'It's really loud. 'I have to put on music because you can hear everything.' The building owner Madelene Behefte, 73, said she had no idea about the complaints. She said: 'People should call the landlord before calling the city to complain'. On the job: The building handyman complained about over noisy sex was at work today - at the apartment block where his girlfriend lives. . House of noise: The apartment building is in Bay Ridge, close to New York harbor in Brooklyn. No idea: The building's owner Madelene Behefte told Daily Mail Online she had no idea about the complaints. No respite: The front door of the apartment at the center of six complaints for noisy sex. It failed to stop neighbors from overhearing the couple's antics.  . DNAInfo reported that New York's 311 helpline, for non-emergency complaints to city authorities, recorded a total of 133 complaints about loud sex between January 1 2014 and February 12 2015. Brooklyn, the borough now associated with trendy hipsters and home to would-be president Hillary Clinton's campaign, had the highest number of complaints, at 42. Brooklyn is the most populous of the city's five boroughs. Queens was next with 37, the Bronx and 31 and Manhattan had 23. Staten Island recorded none. The website reported that on November 14 last year, a 311 operator logged: 'Neighbors are having very loud sex with the windows open that can be heard throughout the whole bldg.' The complainant told the website the woman was 'moaning and screaming "Oh yeah, oh, do it to me".' It was followed by another woman shouting at the couple: 'Shut your f***ing windows you wh**e.' Complaints to 311 are passed to police to investigate if they are available, but officers found no noise disturbance when they attended the Bay Ridge block.  .  .
+
+
+Handyman, 25, and girlfriend, in her 30s, [91mcomplained[0m about six times. Brooklyn block named in league table of complaints about loud sex. Woman, who is now four months pregnant, said : ' I'm doing what I'm doing in my own apartment. I'm not hurting anyone ' New Yor's 311 helpline recorded 133 complaints between January 2014 and February 2015.
+
+
+['<s>', 'H', 'andy', 'man', ',', 'Ġ25', ',', 'Ġand', 'Ġgirlfriend', ',', 'Ġin', 'Ġher', 'Ġ30', 's', ',', 'Ġcomplained', 'Ġabout', 'Ġsix', 'Ġtimes', '.', 'ĠBrooklyn', 'Ġblock', 'Ġnamed', 'Ġin', 'Ġleague', 'Ġtable', 'Ġof', 'Ġcomplaints', 'Ġabout', 'Ġloud', 'Ġsex', '.', 'ĠWoman', ',', 'Ġwho', 'Ġis', 'Ġnow', 'Ġfour', 'Ġmonths', 'Ġpregnant', ',', 'Ġsaid', 'Ġ:', "Ġ'", 'ĠI', "'m", 'Ġdoing', 'Ġwhat', 'ĠI', "'m", 'Ġdoing', 'Ġin', 'Ġmy', 'Ġown', 'Ġapartment', '.', 'ĠI', "'m", 'Ġnot', 'Ġhurting', 'Ġanyone', "Ġ'", 'ĠNew', 'ĠYor', "'s", 'Ġ311', 'Ġhel', 'pl', 'ine', 'Ġrecorded', 'Ġ133', 'Ġcomplaints', 'Ġbetween', 'ĠJanuary', 'Ġ2014', 'Ġand', 'ĠFebruary', 'Ġ2015', '.', '</s>']
+
+
+Analyzing for intrinsic error token:Ġcomplained
+
+Top 5 Cross Attention
+['Ġcomplained', '<s>', 'Ġcomplained', 'Ġcomplained', 'Ġcomplained']
+['Ġcomplained', 'Ġabout', '<s>', 'Ġinvites', 'Ġcomplained']
+['<s>', 'Ġcomplained', 'Ġcomplained', 'Ġcomplained', 'Ġfor']
+['<s>', 'Ġcomplained', 'Ġcomplained', 'Ġcomplained', 'Ġcomplained']
+['<s>', 'Ġtimes', 'Ġto', 'Ġto', 'Ġfor']
+['<s>', 'Ġwere', '.', '.', '.']
+['<s>', 'Ġcomplained', 'Ġcomplained', '.', '.']
+['<s>', 'Ġsix', '</s>', 'Ġtimes', 'Ġcomplained']
+['<s>', 'Ġcomplained', 'Ġsix', 'Ġtimes', 'Ġcomplained']
+['<s>', 'Ġtimes', 'Ġabout', 'Ġsix', 'Ġabout']
+['Ġsix', 'Ġabout', '<s>', 'Ġsix', 'Ġtimes']
+['Ġsix', 'Ġabout', '<s>', 'Ġexcessive', 'Ġtimes']
+Top 5 Decoder Attention
+['<s>', ',', 'Ġcomplained', 'H', 's']
+['<s>', ',', 'Ġcomplained', 'Ġgirlfriend', 'man']
+['<s>', 'Ġcomplained', 'H', 'Ġand', ',']
+['<s>', 'Ġcomplained', 'H', 'Ġand', 'man']
+['<s>', 'Ġand', 'Ġcomplained', 'man', ',']
+['<s>', 'Ġcomplained', 'Ġand', 'Ġgirlfriend', ',']
+['<s>', 'Ġcomplained', ',', 'Ġand', 's']
+['<s>', ',', 'Ġcomplained', 'man', 'Ġand']
+['<s>', ',', 'Ġcomplained', 'man', 'Ġand']
+['<s>', ',', 'Ġcomplained', 'man', ',']
+['<s>', 'Ġcomplained', ',', 'Ġgirlfriend', 'man']
+['<s>', 'Ġcomplained', 'man', 'Ġ25', 'Ġ30']
+Analyzing for token before intrinsic error:,
+
+Top 5 Cross Attention
+['<s>', ',', ',', ',', '</s>']
+['<s>', ',', 'Ġinvites', ',', 'Ġwho']
+['<s>', '</s>', '.', '.', '.']
+['<s>', 'Ġand', '</s>', 'Ġcouple', 'Ġof']
+['<s>', 'Ġwere', '.', '.', '.']
+['<s>', 'Ġin', 'Ġwere', 'Ġwho', '.']
+['<s>', 'Ġin', '</s>', ',', ',']
+['<s>', 'Ġand', 'Ġin', '</s>', 'Ġwere']
+['Ġwere', '<s>', 'Ġcomplained', 'Ġgot', 'Ġsix']
+['Ġcomplained', 'Ġwere', 'Ġpops', '<s>', 'Ġcomplaints']
+['Ġcomplained', 'Ġpops', 'Ġnamed', 'Ġcomplained', 'Ġinvites']
+['Ġinvites', 'Ġpops', 'Ġnamed', 'Ġrom', 'Ġcomplained']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'H', ',', 'Ġ30', 's']
+['<s>', 's', 'Ġ30', 'Ġin', ',']
+['<s>', 'H', 'Ġin', 'Ġand', 's']
+['<s>', ',', ',', 'Ġand', 'Ġher']
+['<s>', 'Ġand', 's', ',', 'man']
+['<s>', 'Ġand', 'Ġgirlfriend', 's', 'man']
+['<s>', 's', 'Ġgirlfriend', 'Ġand', 'Ġin']
+['<s>', 'Ġand', 'Ġgirlfriend', 'man', 's']
+['<s>', 'man', 'Ġand', ',', 's']
+['<s>', 'man', 'Ġand', 'Ġgirlfriend', ',']
+['<s>', 'Ġgirlfriend', ',', 'man', ',']
+['<s>', 'man', 'Ġgirlfriend', ',', ',']
+
+
+
+An eight-year-old boy has died a day after his family's car hurtled off the road and into a Los Angeles harbor. His 13-year-old brother, identified as Abdelkrim Elmezayen, was pulled dead from the water at the scene shortly after 6pm on Thursday. Their parents are in a stable condition in the hospital. Firefighters rushed to the port in San Pedro  when passers-by heard cries for help. The family of four had been driving out of a parking lot on Berth 73 when the vehicle, driven by the boys' father, veered off the edge of the harbor.  . Scroll down for video  . Two dead: Both children who fell into the LA Harbor has died and their parents are recovering in hospital. Hero: Firefighter Miguel Meza (left) who dove into the water in San Pedro after a car carrying a family of four plunged into the water has been hailed a hero on the Facebook page of City Councilman Joe Buscaino (right) It landed upside down in the 30-foot water. . Two adults were found swimming in the water when rescuers arrived, he said. Witnesses told NBC the car appeared to speed up as it neared the edge. . Divers found the two boys inside the car. They had no pulses and weren't breathing when divers brought them up, and resuscitation efforts began immediately, Humphrey said. The adults were described as being in fair condition but 'clearly emotionally distraught,' Humphrey said. Firefighter Miguel Meza who dove into the water in San Pedro after a car carrying a family of four plunged into the water has been hailed a hero on the Facebook page of Los Angeles City Councilman Joe Buscaino. 'Firefighter Miguel Meza jumped into the water at Berth 73 tonight in San Pedro after a car with a family of four drove into the water. This man is a true hero in the City of Angels and I am so proud of him!' he said. . Sucessful search: Divers emerge from the water as debris believed to be from the car floats to the surface where a car went off the berth and into the water. Divers working in murky water searched the car and even opened the trunk, but they found no one else in it, Humphrey said. The cause of the accident was under investigation. 'We don't know at this time whether it was an accident or an intentional event,' he said. Nearly 100 firefighters, divers and helicopter and boat crews went to the scene, Humphrey said. ABC reports that the event that led up the incident remain unknown. . Witnesses told police that they heard screeching tires before the car made the plunge. .
+
+
+[91mAbdelkrim[0m [91mElmezayen[0m [91m,[0m [91m8[0m, and his 13-year-old brother died at the scene. Their parents are in a stable condition in the hospital. Firefighters rushed to the port in San Pedro when passers-by heard cries for help. The family of four had been driving out of a parking lot when the vehicle, driven by the boys ' father, veered off the edge of the harbor.
+
+
+['<s>', 'Ab', 'del', 'k', 'rim', 'ĠEl', 'me', 'z', 'ay', 'en', ',', 'Ġ8', ',', 'Ġand', 'Ġhis', 'Ġ13', '-', 'year', '-', 'old', 'Ġbrother', 'Ġdied', 'Ġat', 'Ġthe', 'Ġscene', '.', 'ĠTheir', 'Ġparents', 'Ġare', 'Ġin', 'Ġa', 'Ġstable', 'Ġcondition', 'Ġin', 'Ġthe', 'Ġhospital', '.', 'ĠFire', 'fighters', 'Ġrushed', 'Ġto', 'Ġthe', 'Ġport', 'Ġin', 'ĠSan', 'ĠPedro', 'Ġwhen', 'Ġpassers', '-', 'by', 'Ġheard', 'Ġcries', 'Ġfor', 'Ġhelp', '.', 'ĠThe', 'Ġfamily', 'Ġof', 'Ġfour', 'Ġhad', 'Ġbeen', 'Ġdriving', 'Ġout', 'Ġof', 'Ġa', 'Ġparking', 'Ġlot', 'Ġwhen', 'Ġthe', 'Ġvehicle', ',', 'Ġdriven', 'Ġby', 'Ġthe', 'Ġboys', "Ġ'", 'Ġfather', ',', 'Ġve', 'ered', 'Ġoff', 'Ġthe', 'Ġedge', 'Ġof', 'Ġthe', 'Ġharbor', '.', '</s>']
+
+
+Analyzing for intrinsic error token:Ab
+
+Top 5 Cross Attention
+['<s>', 'ĠAbdel', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '</s>', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '</s>', '.', '.', '.']
+['<s>', '</s>', '.', '.', '.']
+['<s>', 'ĠAbdel', '.', '.', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', 'ĠAbdel', 'ĠEl', '.', '.']
+['ĠEl', '<s>', 'ĠAbdel', '.', '.']
+Top 5 Decoder Attention
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+Analyzing for token before intrinsic error:<s>
+
+Top 5 Cross Attention
+['<s>', '</s>', '.', '.', '.']
+['</s>', ',', 'Ġto', '-', ',']
+['<s>', '</s>', ',', ',', '-']
+['<s>', '</s>', '-', '-', 'Ġto']
+['<s>', ',', ',', ',', ',']
+['</s>', 'Ġto', '-', 'Ġin', 'Ġthe']
+['<s>', ',', 'Ġup', ',', '.']
+['<s>', '</s>', 'Ġto', '-', '.']
+['<s>', '.', '.', '.', '.']
+['<s>', '</s>', 'ĠBoth', 'An', '.']
+['ĠAbdel', '<s>', 'Ġeight', 'Ġ13', '.']
+['ĠAbdel', 'Ġeight', 'Ġ13', 'ĠFire', '<s>']
+
+
+
+Top 5 Decoder Attention
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+['<s>', 'Ab', 'del', 'k', 'rim']
+
+
+
