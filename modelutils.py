@@ -84,7 +84,7 @@ def get_error_id_indices(labels,words,tokenizer,error):
             tok_str = join_word_range(words,start_idx,end_idx)
             str_ids = tokenizer(tok_str,return_tensors="pt",add_special_tokens=False).input_ids
             ids.append(str_ids[0])
-            intrinsic_id_indices.extend(list(range(last_idx+1,last_idx+1+len(str_ids))))
+            intrinsic_id_indices.extend(list(range(last_idx+1,last_idx+1+len(str_ids[0]))))
             start_idx = end_idx
     if start_idx < end_idx:
         tok_str = join_word_range(words,start_idx,end_idx)
@@ -129,9 +129,14 @@ def generate_ref_sequences(input_ids,tokenizer):
     return ref_input_ids
 
 
-def bart_forward_func(encoder_input_ids,decoder_input_ids,model,index):
-    pdb.set_trace()
+def bart_forward_func(encoder_input_ids,decoder_input_ids,index):
+    #pdb.set_trace()
     outputs = model(input_ids=encoder_input_ids,decoder_input_ids=decoder_input_ids)
     pred_idx = decoder_input_ids[0,index]
     pred = outputs.logits[0,index-1,pred_idx]
     return pred
+
+def replace_special_bart_tokens(text_list):
+    text_list[0] = 'begin_sequence'
+    text_list[-1] = 'end_sequence'
+    return text_list

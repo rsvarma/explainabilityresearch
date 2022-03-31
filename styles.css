@@ -1,0 +1,20 @@
+.float-container {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: space-around;
+}
+
+.outer-container{
+    float:left;
+    width: 50%;
+}
+
+.token-tag {
+    padding: 3px;
+    margin: 3px;
+    border-radius: 25px;
+    background: #e7e9eb;    
+    white-space: pre-wrap;
+    text-align: center
+}

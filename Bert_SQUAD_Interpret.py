@@ -11,7 +11,7 @@
 
 # In[1]:
 
-
+import pdb
 import numpy as np
 import pandas as pd
 import seaborn as sns
@@ -76,6 +76,7 @@ def squad_pos_forward_func(inputs, token_type_ids=None, position_ids=None, atten
                    position_ids=position_ids,
                    attention_mask=attention_mask)
     pred = pred[position]
+    pdb.set_trace()
     return pred.max(1).values
 
 
@@ -99,6 +100,7 @@ cls_token_id = tokenizer.cls_token_id # A token used for prepending to the conca
 
 
 def construct_input_ref_pair(question, text, ref_token_id, sep_token_id, cls_token_id):
+    pdb.set_trace()
     question_ids = tokenizer.encode(question, add_special_tokens=False)
     text_ids = tokenizer.encode(text, add_special_tokens=False)
 
@@ -188,8 +190,10 @@ print('Predicted Answer: ', ' '.join(all_tokens[torch.argmax(start_scores) : tor
 # In[12]:
 
 
-lig = LayerIntegratedGradients(squad_pos_forward_func, model.bert.embeddings)
+lig = LayerIntegratedGradients(squad_pos_forward_func, model.bert.encoder.layer[0].intermediate.dense)
 
+import pdb
+pdb.set_trace()
 attributions_start, delta_start = lig.attribute(inputs=input_ids,
                                   baselines=ref_input_ids,
                                   additional_forward_args=(token_type_ids, position_ids, attention_mask, 0),
