@@ -21,6 +21,8 @@ def bart_forward_func(bart,encoder_embeds,decoder_embeds,index,pred_idx):
     return pred
 
 
+# Creates dataset to return batches of path embeddings and corresponding inputs
+# Necessary so that all step sizes can be accomodated on GPU
 class RepEmbedsDataset(Dataset):
     def __init__(self,path_embeds_rep,other_input_embeds_rep):
         self.path_embeds = path_embeds_rep
@@ -67,6 +69,9 @@ class IntegratedGradients:
     # Returns:
     # attributions: torch.Tensor; Tensor of shape (1,attr_seq_len) containing attribution scores for each token in either the encoder inputs or decoder inputs (depending on attribute_decoder)
     def cond_gen_integrated_gradients(self,encoder_input_ids,decoder_input_ids,index,step_size=300,attribute_decoder=True,debug=False):        
+        
+        #Generate Input Embeddings and Baseline Embeddings depending on
+        #if we want to attribute the encoder or decoder
         with torch.no_grad():
             encoder_input_ids = encoder_input_ids.to(self.device)
             decoder_input_ids = decoder_input_ids.to(self.device)
@@ -87,15 +92,18 @@ class IntegratedGradients:
                 attribute_embeds = encoder_embeds
                 other_input_embeds = decoder_embeds
 
-
+            #generate straight line path embeddings between baseline and input
             all_path_embeds = self.generate_path_embeddings(attribute_embeds,bas_embeds,step_size)
             all_other_input_embeds_rep = other_input_embeds.repeat(step_size,1,1)
         embed_dataset = RepEmbedsDataset(all_path_embeds,all_other_input_embeds_rep)
         embed_dataloader = DataLoader(embed_dataset,batch_size=32)
 
+        #Run path embeddings through model and accumulate gradients
+        #pdb.set_trace()
         path_grads = []
         for path_embeds_batch,other_input_embeds_batch in embed_dataloader:
             path_embeds_batch.requires_grad=True      
+            other_input_embeds_batch.requires_grad=True
             encoder_embeds_rep = other_input_embeds_batch if attribute_decoder else path_embeds_batch
             decoder_embeds_rep = path_embeds_batch if attribute_decoder else other_input_embeds_batch
 
@@ -203,7 +211,7 @@ def main():
     print("Calculating Decoder Attributions")
     decoder_attributions = integrated_gradients.cond_gen_integrated_gradients(encoder_input_ids,decoder_input_ids,analyze_idx,debug=True)
     print("Calculating Encoder Attributions")
-    encoder_attributions = integrated_gradients.cond_gen_integrated_gradients(encoder_input_ids,decoder_input_ids,analyze_idx,step_size=1000,attribute_decoder=False,debug=True)
+    encoder_attributions = integrated_gradients.cond_gen_integrated_gradients(encoder_input_ids,decoder_input_ids,analyze_idx,step_size=3000,attribute_decoder=False,debug=True)
 
     decoder_text = modelutils.replace_special_bart_tokens(modelutils.get_id_text(decoder_input_ids,tokenizer)) 
     decoder_text = decoder_text[:analyze_idx]
