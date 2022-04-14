@@ -9,16 +9,48 @@ import modelutils
 # Bart Model Wrapper to take in encoder and decoder embeddings and output logit
 # prediction scores for token of choice
 # Inputs:
+# bart: BartForConditionalGeneration; Bart conditional generation model 
 # encoder_embeds: Torch.Tensor; Encoder Embeddings of shape (batch_size,encoder_seq_len,embed_dim)
 # decoder_embeds: Torch.Tensor; Decoder Embeddings of shape (batch_size,decoder_seq_len,embed_dim)
 # index: Int; Index of token for which to return prediction logits
+# pred_idx: Int; Vocab index for word of interest
 #
 # Returns:
-# pred: Torch.Tensor; Contains logits for prediction score of selected token
+# pred: Torch.Tensor; Contains logits for prediction score of selected word of interest at desired position index
 def bart_forward_func(bart,encoder_embeds,decoder_embeds,index,pred_idx):
     outputs = bart(inputs_embeds=encoder_embeds,decoder_inputs_embeds=decoder_embeds)
     pred = outputs.logits[:,index-1,pred_idx]
     return pred
+
+
+# Bart Model Wrapper to take in encoder output and decoder embeddings and output logit
+# prediction scores for token of choice
+# Inputs:
+# bart: BartForConditionalGeneration; Bart conditional generation model 
+# encoder_output_embeds: Torch.Tensor; Encoder Output Embeddings of shape (batch_size,encoder_seq_len,embed_dim)
+# decoder_embeds: Torch.Tensor; Decoder Embeddings of shape (batch_size,decoder_seq_len,embed_dim)
+# index: Int; Index of token for which to return prediction logits
+# pred_idx: Int; Vocab index for word of interest
+#
+# Returns:
+# pred: Torch.Tensor; Contains logits for prediction score of selected word of interest at desired position index 
+def bart_decoder_forward_func(bart,encoder_output_embeds,decoder_embeds,index,pred_idx):
+    outputs = bart(encoder_outputs=(encoder_output_embeds,None,None),decoder_inputs_embeds=decoder_embeds)
+    pred = outputs.logits[:,index-1,pred_idx]
+    return pred    
+
+# Bart Model Wrapper to take in encoder and decoder embeddings and output last encoder hidden state
+# Inputs:
+# bart: BartForConditionalGeneration; Bart conditional generation model 
+# encoder_output_embeds: Torch.Tensor; Encoder Output Embeddings of shape (batch_size,encoder_seq_len,embed_dim)
+# decoder_embeds: Torch.Tensor; Decoder Embeddings of shape (batch_size,decoder_seq_len,embed_dim)
+#
+# Returns:
+# encoder_last_hidden_state: Torch.FloatTensor of shape (batch_size, sequence_length, hidden_size); Sequence of hidden-states at the output of the last layer of the encoder of the model.
+def bart_enc_out_forward_func(bart,encoder_embeds,decoder_embeds):
+    outputs = bart(inputs_embeds=encoder_embeds,decoder_inputs_embeds=decoder_embeds,output_hidden_states=True)
+    encoder_last_hidden_state = outputs.encoder_last_hidden_state
+    return encoder_last_hidden_state
 
 
 # Creates dataset to return batches of path embeddings and corresponding inputs
@@ -45,8 +77,9 @@ class IntegratedGradients:
     # encoder_embed: nn.Embedding; Embedding layer to convert between encoder input ids and embeddings
     # decoder_embed: nn.Embedding; Embedding layer to convert between decoder input ids and embeddings    
     # forward_func: function; Compatible forward function that takes in model,encoder embeddings, decoder embeddings, token index to analyze for, and vocab_index of token index  
+    # decoder_only_forward_func; Compatible forward function that takes in model,encoder output, decoder embeddings, token index to analyze for, and vocab_index of token index
     # device: Torch.device; Device for which to run calculations over
-    def __init__(self,model,tokenizer,encoder_embed,decoder_embed,forward_func,device):
+    def __init__(self,model,tokenizer,encoder_embed,decoder_embed,forward_func,decoder_only_forward_func,enc_out_forward_func,device):
         self.model = model
         self.device = device        
         self.model.to(self.device)
@@ -54,6 +87,9 @@ class IntegratedGradients:
         self.encoder_embed = encoder_embed.to(self.device)
         self.decoder_embed = decoder_embed.to(self.device)
         self.forward_func = forward_func
+        self.decoder_only_forward_func = decoder_only_forward_func
+        self.enc_out_forward_func = enc_out_forward_func
+
 
     # Calculates Integrated Gradient attribution scores on a Conditional Generation Model for a given decoder token
     # Can calculate attributions with respect to encoder inputs or decoder inputs
@@ -63,12 +99,12 @@ class IntegratedGradients:
     # decoder_input_ids: torch.Tensor; Tensor of shape (1,decoder_seq_len) containing decoder input ids
     # index: int; Integer representing index of decoder token to analyze
     # step_size: int; Number of steps to be used for Riemann Approximation
-    # attribute_decoder: bool; Flag for whether to produce attributions for encoder inputs or decoder inputs 
+    # attrib_mode: str; Flag for whether to produce attributions for encoder inputs,encoder outputs or decoder inputs. Valid values are "dec","enc_in",and "enc_out" 
     # debug: bool; Flag for printing out extra validation message
     #
     # Returns:
     # attributions: torch.Tensor; Tensor of shape (1,attr_seq_len) containing attribution scores for each token in either the encoder inputs or decoder inputs (depending on attribute_decoder)
-    def cond_gen_integrated_gradients(self,encoder_input_ids,decoder_input_ids,index,step_size=300,attribute_decoder=True,debug=False):        
+    def cond_gen_integrated_gradients(self,encoder_input_ids,decoder_input_ids,index,step_size=300,attrib_mode="dec",debug=False):        
         
         #Generate Input Embeddings and Baseline Embeddings depending on
         #if we want to attribute the encoder or decoder
@@ -80,17 +116,25 @@ class IntegratedGradients:
             decoder_embeds = self.decoder_embed(decoder_input_ids[:,:index])
 
             validate_input_args = (self.model,encoder_embeds,decoder_embeds,index,pred_idx)
+            forward_func = self.forward_func
 
-            if attribute_decoder:
+            if attrib_mode == "dec":
                 bas_embeds = self.generate_baseline_embeddings(decoder_input_ids[:,:index],self.decoder_embed)
                 validate_baseline_args = (self.model,encoder_embeds,bas_embeds,index,pred_idx)
                 attribute_embeds = decoder_embeds
                 other_input_embeds = encoder_embeds
-            else:
+            elif attrib_mode == "enc_in":
                 bas_embeds = self.generate_baseline_embeddings(encoder_input_ids,self.encoder_embed)
                 validate_baseline_args = (self.model,bas_embeds,decoder_embeds,index,pred_idx)        
                 attribute_embeds = encoder_embeds
                 other_input_embeds = decoder_embeds
+            elif attrib_mode == "enc_out":
+                encoder_last_hidden_state = self.enc_out_forward_func(self.model,encoder_embeds,decoder_embeds)
+                bas_embeds = torch.zeros_like(encoder_last_hidden_state)
+                validate_baseline_args = (self.model,bas_embeds,decoder_embeds,index,pred_idx)        
+                attribute_embeds = encoder_last_hidden_state
+                other_input_embeds = decoder_embeds    
+                forward_func = self.decoder_only_forward_func            
 
             #generate straight line path embeddings between baseline and input
             all_path_embeds = self.generate_path_embeddings(attribute_embeds,bas_embeds,step_size)
@@ -104,10 +148,10 @@ class IntegratedGradients:
         for path_embeds_batch,other_input_embeds_batch in embed_dataloader:
             path_embeds_batch.requires_grad=True      
             other_input_embeds_batch.requires_grad=True
-            encoder_embeds_rep = other_input_embeds_batch if attribute_decoder else path_embeds_batch
-            decoder_embeds_rep = path_embeds_batch if attribute_decoder else other_input_embeds_batch
+            encoder_embeds_rep = other_input_embeds_batch if attrib_mode == "dec" else path_embeds_batch
+            decoder_embeds_rep = path_embeds_batch if attrib_mode == "dec" else other_input_embeds_batch
 
-            preds = self.forward_func(self.model,encoder_embeds_rep,decoder_embeds_rep,index,pred_idx)
+            preds = forward_func(self.model,encoder_embeds_rep,decoder_embeds_rep,index,pred_idx)
             preds.backward(torch.ones_like(preds))
             path_grads.append(path_embeds_batch.grad.cpu())
         path_grads = torch.concat(path_grads)
@@ -115,7 +159,7 @@ class IntegratedGradients:
         attributions = self.accumulate_grads(attribute_embeds.cpu(),bas_embeds.cpu(),path_grads,step_size)
 
         if debug:
-            validation_diff = self.validate_attribution_sum(validate_input_args,validate_baseline_args,self.forward_func)
+            validation_diff = self.validate_attribution_sum(validate_input_args,validate_baseline_args,forward_func)
             attrib_sum = attributions.sum().item()
             print(f"If these two values aren't close (within 5%), either there is a bug or step size needs to increase: {validation_diff} == {attrib_sum}")
             print(f"Percent Difference: {abs(attrib_sum-validation_diff)/(sum([attrib_sum,validation_diff])/2)}")
@@ -204,14 +248,17 @@ def main():
     #pdb.set_trace()
     embed = torch.nn.Embedding(bart.model.shared.num_embeddings,bart.model.shared.embedding_dim,bart.model.shared.padding_idx)
     embed.weight.data = bart.model.shared.weight.data
-    analyze_idx = 4
+    analyze_idx = 5
 
     device = torch.device("cuda")
-    integrated_gradients = IntegratedGradients(bart,tokenizer,embed,embed,bart_forward_func,device)
+    integrated_gradients = IntegratedGradients(bart,tokenizer,embed,embed,bart_forward_func,bart_decoder_forward_func,bart_enc_out_forward_func,device)
     print("Calculating Decoder Attributions")
-    decoder_attributions = integrated_gradients.cond_gen_integrated_gradients(encoder_input_ids,decoder_input_ids,analyze_idx,debug=True)
-    print("Calculating Encoder Attributions")
-    encoder_attributions = integrated_gradients.cond_gen_integrated_gradients(encoder_input_ids,decoder_input_ids,analyze_idx,step_size=3000,attribute_decoder=False,debug=True)
+    decoder_attributions = integrated_gradients.cond_gen_integrated_gradients(encoder_input_ids,decoder_input_ids,analyze_idx,attrib_mode="dec",step_size=1000,debug=True)
+    print("Calculating Encoder Input Attributions")
+    encoder_input_attributions = integrated_gradients.cond_gen_integrated_gradients(encoder_input_ids,decoder_input_ids,analyze_idx,attrib_mode="enc_in",debug=True)
+    print("Calculating Encoder Output Attributions")
+    encoder_output_attributions = integrated_gradients.cond_gen_integrated_gradients(encoder_input_ids,decoder_input_ids,analyze_idx,attrib_mode="enc_out",debug=True)
+
 
     decoder_text = modelutils.replace_special_bart_tokens(modelutils.get_id_text(decoder_input_ids,tokenizer)) 
     decoder_text = decoder_text[:analyze_idx]
@@ -223,9 +270,13 @@ def main():
     concat_attr_text_score =  [ i+": ,"+str(j) for i,j in zip(decoder_text,decoder_attributions[0].tolist())]
     print("".join(concat_attr_text_score))
 
-    print("\nEncoder Attributions")
-    concat_attr_text_score =  [ f"{i}: {j:.4f}\n" for i,j in zip(encoder_text,encoder_attributions[0].tolist())]
+    print("\nEncoder Input Attributions")
+    concat_attr_text_score =  [ f"{i}: {j:.4f}\n" for i,j in zip(encoder_text,encoder_input_attributions[0].tolist())]
     print("".join(concat_attr_text_score))
+
+    print("\nEncoder Output Attributions")
+    concat_attr_text_score =  [ f"{i}: {j:.4f}\n" for i,j in zip(encoder_text,encoder_output_attributions[0].tolist())]
+    print("".join(concat_attr_text_score))    
 
 
 if __name__ == "__main__":
