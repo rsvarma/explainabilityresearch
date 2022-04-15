@@ -255,7 +255,7 @@ def main():
     print("Calculating Decoder Attributions")
     decoder_attributions = integrated_gradients.cond_gen_integrated_gradients(encoder_input_ids,decoder_input_ids,analyze_idx,attrib_mode="dec",step_size=1000,debug=True)
     print("Calculating Encoder Input Attributions")
-    encoder_input_attributions = integrated_gradients.cond_gen_integrated_gradients(encoder_input_ids,decoder_input_ids,analyze_idx,attrib_mode="enc_in",debug=True)
+    encoder_input_attributions = integrated_gradients.cond_gen_integrated_gradients(encoder_input_ids,decoder_input_ids,analyze_idx,attrib_mode="enc_in",step_size=1000,debug=True)
     print("Calculating Encoder Output Attributions")
     encoder_output_attributions = integrated_gradients.cond_gen_integrated_gradients(encoder_input_ids,decoder_input_ids,analyze_idx,attrib_mode="enc_out",debug=True)
 

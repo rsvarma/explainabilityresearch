@@ -121,20 +121,24 @@ def get_id_text(ids,tokenizer):
  
     return text 
 
-def generate_ref_sequences(input_ids,tokenizer):
+def generate_ref_sequences(input_ids,embed,tokenizer):
     ref_input_ids = torch.zeros_like(input_ids)
     ref_input_ids[0,0] = tokenizer.bos_token_id
     ref_input_ids[0,1:-1] = tokenizer.pad_token_id
     ref_input_ids[0,-1] = tokenizer.eos_token_id
-    return ref_input_ids
+    ref_input_embeds = embed(ref_input_ids)
+    return ref_input_embeds
 
 
-def bart_forward_func(encoder_input_ids,decoder_input_ids,index):
-    #pdb.set_trace()
-    outputs = model(input_ids=encoder_input_ids,decoder_input_ids=decoder_input_ids)
-    pred_idx = decoder_input_ids[0,index]
-    pred = outputs.logits[0,index-1,pred_idx]
+def bart_forward_func(attr_embeds,other_input_embeds,bart,pred_idx,index,attr_mode="enc"):
+    if attr_mode=="enc":
+        outputs = bart(inputs_embeds=attr_embeds,decoder_inputs_embeds=other_input_embeds)
+    elif attr_mode=="dec":
+        outputs = bart(inputs_embeds=other_input_embeds,decoder_inputs_embeds=attr_embeds)
+    pred = outputs.logits[:,index-1,pred_idx]
     return pred
+
+
 
 def replace_special_bart_tokens(text_list):
     text_list[0] = 'begin_sequence'

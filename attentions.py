@@ -1,9 +1,10 @@
+from json import encoder
 from transformers import BartTokenizer, BartForConditionalGeneration, utils
 import pdb
 import json
 import modelutils
 import torch
-from captum.attr import LayerConductance, LayerIntegratedGradients
+from captum.attr import IntegratedGradients
 import sys
 from htmlgenerator import print_example_page,print_token_page
 import os
@@ -11,13 +12,9 @@ import os
 model_name = "facebook/bart-large-cnn"
 tokenizer = BartTokenizer.from_pretrained(model_name)
 model = BartForConditionalGeneration.from_pretrained(model_name, output_attentions=True)
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+model.to(device)
 
-def bart_forward_func(encoder_input_ids,decoder_input_ids,index):
-    pdb.set_trace()
-    outputs = model(input_ids=encoder_input_ids,decoder_input_ids=decoder_input_ids)
-    pred_idx = decoder_input_ids[0,index]
-    pred = outputs.logits[0,index-1,pred_idx]
-    return pred
 
 class color:
    PURPLE = '\033[95m'
@@ -79,11 +76,12 @@ for example_id,line in enumerate(lines):
             ref_encoder_inputs = modelutils.generate_ref_sequences(encoder_input_ids,tokenizer)            
             ref_decoder_inputs = modelutils.generate_ref_sequences(decoder_input_ids,tokenizer)
             '''
-            
+            #pdb.set_trace()
             for i in range(len(decoder_input_ids[0])):
-                outputs = model(input_ids=encoder_input_ids, decoder_input_ids=decoder_input_ids)
-                cross_attentions_list = outputs.cross_attentions    
-                decoder_attentions_list = outputs.decoder_attentions
+                outputs = model(input_ids=encoder_input_ids.to(device), decoder_input_ids=decoder_input_ids.to(device))
+                logits = outputs.logits.detach().cpu()
+                cross_attentions_list = [x.detach().cpu() for x in outputs.cross_attentions]  
+                decoder_attentions_list = [x.detach().cpu() for x in outputs.decoder_attentions]
                 attention_info_list = []                          
                 for layer_id,(cross_attentions,decoder_attentions) in enumerate(zip(cross_attentions_list,decoder_attentions_list)):
                     layer_score = torch.mean(cross_attentions[:,:,i,:].squeeze(0),dim=0)
@@ -110,7 +108,65 @@ for example_id,line in enumerate(lines):
                                             "text": top_decoder_text}
                     }       
                     attention_info_list.append(attention_info)
-                print_token_page(example_dir_path,f"{decoder_text[i]}{i}",attention_info_list)
+                #pdb.set_trace()
+                encoder_input_attributions = None
+                decoder_attributions = None
+                del outputs
+                torch.cuda.empty_cache()
+                #pdb.set_trace()
+                if i > 0:
+                    analyze_idx = i
+
+                    embed = torch.nn.Embedding(model.model.shared.num_embeddings,model.model.shared.embedding_dim,model.model.shared.padding_idx)
+                    embed.weight.data = model.model.shared.weight.data
+
+                    ref_encoder_embeds = modelutils.generate_ref_sequences(encoder_input_ids,embed.cpu(),tokenizer)
+                    ref_decoder_embeds = modelutils.generate_ref_sequences(decoder_input_ids[:,:analyze_idx],embed.cpu(),tokenizer)
+
+                    encoder_embeds = embed(encoder_input_ids)
+                    decoder_embeds = embed(decoder_input_ids[:,:analyze_idx])
+
+
+                    decoder_text_idx = decoder_text[:analyze_idx]
+
+                    pred_idx = decoder_input_ids[0,analyze_idx]
+
+
+                    ig = IntegratedGradients(modelutils.bart_forward_func)
+
+                    encoder_input_attributions = ig.attribute(inputs=encoder_embeds.to(device),baselines = ref_encoder_embeds.to(device),additional_forward_args= (decoder_embeds.to(device),model,pred_idx,analyze_idx),n_steps=300,internal_batch_size=10).cpu()
+                    encoder_input_attributions = encoder_input_attributions.sum(dim=-1)
+                    encoder_input_attributions = encoder_input_attributions/torch.norm(encoder_input_attributions) 
+                    encoder_input_attributions,encoder_top_ten_inds = torch.topk(encoder_input_attributions[0],10) 
+                    encoder_text_idx = [encoder_text[idx] for idx in encoder_top_ten_inds]
+                    
+
+                   
+
+
+                    decoder_attributions = ig.attribute(inputs=decoder_embeds.to(device),baselines=ref_decoder_embeds.to(device),additional_forward_args=(encoder_embeds.to(device),model,pred_idx,analyze_idx,"dec"),n_steps=300,internal_batch_size=10).cpu()
+                    decoder_attributions = decoder_attributions.sum(dim=-1)
+                    decoder_attributions = decoder_attributions/torch.norm(decoder_attributions)
+                    decoder_attributions,decoder_top_ten_inds = torch.topk(decoder_attributions[0],min(i,10))
+                    decoder_text_idx = [decoder_text[idx] for idx in decoder_top_ten_inds]
+                    torch.cuda.empty_cache()
+
+                    attributions = {
+                        "encoder_input_attributions": {
+                            "values":encoder_input_attributions.tolist(),
+                            "indices": encoder_top_ten_inds.tolist(),
+                            "text": encoder_text_idx
+                        },
+                        "decoder_attributions": {
+                            "values": decoder_attributions.tolist(),
+                            "indices": decoder_top_ten_inds.tolist(),
+                            "text": decoder_text_idx
+                        }
+                    }
+                else:
+                    attributions = None    
+                #pdb.set_trace()
+                print_token_page(example_dir_path,f"{decoder_text[i]}{i}",attention_info_list,attributions)
                 
 
 

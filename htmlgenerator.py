@@ -70,6 +70,29 @@ def print_attentions(cross_vals,cross_inds,cross_text,dec_vals,dec_inds,dec_text
     html_string += f'  </div></div>\n'     
     return html_string
 
+def print_attributions(enc_in_vals,enc_in_inds,enc_in_text,dec_vals,dec_inds,dec_text):
+    html_string = '  <div class="outer-attention-container">\n'
+    html_string += '  <div class="attention-container">\n'
+    html_string += '  <h2>Encoder Input Attributions</h2>\n'    
+    for value,index,token in zip(enc_in_vals,enc_in_inds,enc_in_text) :
+        if token == "<s>":
+            token = "begin_sequence"
+        elif token == "</s>":
+            token = "end_sequence"         
+        html_string += f'    <div class="token-tag">{token} &#10;Attribution Score:{value} &#10;Index:{index}</div>\n'
+    html_string += f'  </div></div>\n'    
+    html_string += '  <div class="outer-attention-container">\n'
+    html_string += '  <div class="attention-container">\n'
+    html_string += '  <h2>Decoder Attributions</h2>\n'
+    for value,index,token in zip(dec_vals,dec_inds,dec_text) :
+        if token == "<s>":
+            token = "begin_sequence"
+        elif token == "</s>":
+            token = "end_sequence"         
+        html_string += f'    <div class="token-tag">{token} &#10;Attribution Score:{value} &#10;Index:{index}</div>\n'
+    html_string += f'  </div></div>\n'     
+    return html_string
+
 
 def print_example_page(dir_path,title,encoder_tokens,decoder_tokens,error_id_indices):
     of = open(normpath(join(dir_path,f'{title}.html')),'w',encoding='UTF-8')
@@ -83,7 +106,7 @@ def print_example_page(dir_path,title,encoder_tokens,decoder_tokens,error_id_ind
     of.close()
 
     
-def print_token_page(dir_path,title,attentions):
+def print_token_page(dir_path,title,attentions,attributions):
     of = open(normpath(join(dir_path,f'{title}.html')),'w',encoding='UTF-8')
     html_string = add_beginning_template(title)
     html_string += f"<h1>Analysis for {title}</h1>\n"
@@ -96,6 +119,16 @@ def print_token_page(dir_path,title,attentions):
         print_args = list(itertools.chain.from_iterable(print_args))
         html_string += print_attentions(*print_args)
         html_string += '</div></div>\n'
+    if attributions:
+        html_string += '<div class="wrap-collapsible">\n'
+        html_string += f'<input id="collapsibleattr" class="toggle" type="checkbox">\n'
+        html_string += f'<label for="collapsibleattr" class="lbl-toggle">Integrated Gradients Attributions</label>\n'
+        html_string += f'<div class="collapsible-content">\n'
+        print_args = [[v for (k,v) in attr_dict.items()] for (key,attr_dict) in attributions.items()]
+        print_args = list(itertools.chain.from_iterable(print_args))        
+        html_string += print_attributions(*print_args)
+        html_string += '</div></div>\n'
+    html_string += add_end_template()
     print(html_string,file=of)
     of.close()
 
